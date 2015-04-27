@@ -164,6 +164,7 @@
   pages: 339
   pubdate: 2003-08-05
   edition: 1
+  tag: Bioinformatics
   url: http://allperlbooks.com/book/en/blast
 
 - title: Basics in Perl and BioPerl
@@ -4126,6 +4127,7 @@
   pubdate: 2012-08-27
   edition: 1
   tag: Unixes
+  tag: Bioinformatics
   url: http://allperlbooks.com/book/en/unix-and-perl-for-the-rescue
 
 - title: Using CGI

@@ -23,7 +23,7 @@
   url: http://allperlbooks.com/tag/
 
 - tag: Debugging and Testing
-  synonyms: bug debug test
+  synonyms: bug debug test tdd
   url: http://allperlbooks.com/tag/
 
 - tag: Graphics
