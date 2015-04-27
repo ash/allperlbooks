@@ -461,6 +461,11 @@
   lastname: Farrell
   url: http://allperlbooks.com/author/robert-farrell
 
+- name: Jérôme Fenal
+  firstname: Jérôme
+  lastname: Fenal
+  url: http://allperlbooks.com/author/jerome-fenal
+
 - name: Michael Fitzgerald
   firstname: Michael
   lastname: Fitzgerald
@@ -490,6 +495,11 @@
   firstname: Jerry Lee
   lastname: Ford, Jr.
   url: http://allperlbooks.com/author/jerry-lee-ford-jr
+
+- name: Jean Forget
+  firstname: Jean
+  lastname: Forget
+  url: http://allperlbooks.com/author/jean-forget
 
 - name: Ben Forta
   firstname: Ben
