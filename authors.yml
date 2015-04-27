@@ -231,6 +231,11 @@
   lastname: Carter
   url: http://allperlbooks.com/author/gerald-carter
 
+- name: Kai Carver
+  firstname: Kai
+  lastname: Carver
+  url: http://allperlbooks.com/author/kai-carver
+
 - name: Harlan Carvey
   firstname: Harlan
   lastname: Carvey
@@ -1301,6 +1306,11 @@
   firstname: Pavel
   lastname: Satrapa
   url: http://allperlbooks.com/author/pavel-satrapa
+
+- name: Gérald Sédrati
+  firstname: Gérald
+  lastname: Sédrati
+  url: http://allperlbooks.com/author/gerald-sedrati
 
 - name: Dennis Schaaf
   firstname: Dennis
