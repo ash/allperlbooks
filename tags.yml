@@ -1,85 +1,85 @@
 - tag: Bioinformatics
-  synonims: bio medicine gene genes genome dna biology bioinformatic
+  synonyms: bio medicine gene genes genome dna biology bioinformatic
   url: http://allperlbooks.com/tag/
 
 - tag: CD and DVD
-  synonims: disk disks blueray
+  synonyms: disk disks blueray
   url: http://allperlbooks.com/tag/
 
 - tag: CGI
-  synonims: common gateway interface mod_perl modperl apache
+  synonyms: common gateway interface mod_perl modperl apache
   url: http://allperlbooks.com/tag/
 
 - tag: CMS
-  synonims: content management system
+  synonyms: content management system
   url: http://allperlbooks.com/tag/
 
 - tag: CPAN
-  synonims: modules packages
+  synonyms: modules packages
   url: http://allperlbooks.com/tag/
 
 - tag: Databases
-  synonims: sql mysql mssql sybase nosql
+  synonyms: sql mysql mssql sybase nosql
   url: http://allperlbooks.com/tag/
 
 - tag: Debugging and Testing
-  synonims: bug debug test
+  synonyms: bug debug test
   url: http://allperlbooks.com/tag/
 
 - tag: Graphics
-  synonims: gui ux
+  synonyms: gui ux
   url: http://allperlbooks.com/tag/
 
 - tag: Interviews
-  synonims: questions interview question
+  synonyms: questions interview question
   url: http://allperlbooks.com/tag/
 
 - tag: Linguistics
-  synonims: text languages language texts grammar
+  synonyms: text languages language texts grammar
   url: http://allperlbooks.com/tag/
 
 - tag: Modern Perl
   url: http://allperlbooks.com/tag/
 
 - tag: OOP
-  synonims: objects object oriented programming
+  synonyms: objects object oriented programming
   url: http://allperlbooks.com/tag/
 
 - tag: Pearl
   url: http://allperlbooks.com/tag/
 
 - tag: Perl 6
-  synonims: perl6 camelia parrot pugs moarvm perl7 perl 7 perl 8 perl8
+  synonyms: perl6 camelia parrot pugs moarvm perl7 perl 7 perl 8 perl8
   url: http://allperlbooks.com/tag/
 
 - tag: Pocket edition
   url: http://allperlbooks.com/tag/
 
 - tag: Proceedings and Courses
-  synonims: conference workshop yapc training
+  synonyms: conference workshop yapc training
   url: http://allperlbooks.com/tag/
 
 - tag: Regular expressions
-  synonims: pcre regex regexes regexp regexps grammar grammars rule rules grep
+  synonyms: pcre regex regexes regexp regexps grammar grammars rule rules grep
   url: http://allperlbooks.com/tag/
 
 - tag: System administration
-  synonims: devop devops admin sysadmin admins sysadmins
+  synonyms: devop devops admin sysadmin admins sysadmins
   url: http://allperlbooks.com/tag/
 
 - tag: Unixes
-  synonims: linux debian apache unix
+  synonyms: linux debian apache unix
   url: http://allperlbooks.com/tag/
 
 - tag: Web
-  synonims: www world wide web net network networks lwp
+  synonyms: www world wide web net network networks lwp
   url: http://allperlbooks.com/tag/
 
 - tag: Windows
-  synonims: win95 windows nt win98 apache iis win32 win64 win16 win
+  synonyms: win95 windows nt win98 apache iis win32 win64 win16 win
   url: http://allperlbooks.com/tag/
 
 - tag: XML
-  synonims: xslt
+  synonyms: xslt
   url: http://allperlbooks.com/tag/
 
