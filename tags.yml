@@ -1,85 +1,85 @@
 - tag: Bioinformatics
   synonyms: bio medicine gene genes genome dna biology bioinformatic
-  url: http://allperlbooks.com/tag/
+  url: http://allperlbooks.com/tag/bioinformatics
 
 - tag: CD and DVD
   synonyms: disk disks blueray
-  url: http://allperlbooks.com/tag/
+  url: http://allperlbooks.com/tag/cd
 
 - tag: CGI
   synonyms: common gateway interface mod_perl modperl apache
-  url: http://allperlbooks.com/tag/
+  url: http://allperlbooks.com/tag/cgi
 
 - tag: CMS
   synonyms: content management system
-  url: http://allperlbooks.com/tag/
+  url: http://allperlbooks.com/tag/cms
 
 - tag: CPAN
   synonyms: modules packages
-  url: http://allperlbooks.com/tag/
+  url: http://allperlbooks.com/tag/cpan
 
 - tag: Databases
   synonyms: sql mysql mssql sybase nosql
-  url: http://allperlbooks.com/tag/
+  url: http://allperlbooks.com/tag/databases
 
 - tag: Debugging and Testing
   synonyms: bug debug test tdd
-  url: http://allperlbooks.com/tag/
+  url: http://allperlbooks.com/tag/debugging
 
 - tag: Graphics
   synonyms: gui ux
-  url: http://allperlbooks.com/tag/
+  url: http://allperlbooks.com/tag/graphics
 
 - tag: Interviews
   synonyms: questions interview question
-  url: http://allperlbooks.com/tag/
+  url: http://allperlbooks.com/tag/interviews
 
 - tag: Linguistics
   synonyms: text languages language texts grammar
-  url: http://allperlbooks.com/tag/
+  url: http://allperlbooks.com/tag/linguistics
 
 - tag: Modern Perl
-  url: http://allperlbooks.com/tag/
+  url: http://allperlbooks.com/tag/modern-perl
 
 - tag: OOP
   synonyms: objects object oriented programming
-  url: http://allperlbooks.com/tag/
+  url: http://allperlbooks.com/tag/oop
 
 - tag: Pearl
-  url: http://allperlbooks.com/tag/
+  url: http://allperlbooks.com/tag/pearl
 
 - tag: Perl 6
   synonyms: perl6 camelia parrot pugs moarvm perl7 perl 7 perl 8 perl8
-  url: http://allperlbooks.com/tag/
+  url: http://allperlbooks.com/tag/perl6
 
 - tag: Pocket edition
-  url: http://allperlbooks.com/tag/
+  url: http://allperlbooks.com/tag/pocket
 
 - tag: Proceedings and Courses
   synonyms: conference workshop yapc training
-  url: http://allperlbooks.com/tag/
+  url: http://allperlbooks.com/tag/proceedings
 
 - tag: Regular expressions
   synonyms: pcre regex regexes regexp regexps grammar grammars rule rules grep
-  url: http://allperlbooks.com/tag/
+  url: http://allperlbooks.com/tag/regexes
 
 - tag: System administration
   synonyms: devop devops admin sysadmin admins sysadmins
-  url: http://allperlbooks.com/tag/
+  url: http://allperlbooks.com/tag/devops
 
 - tag: Unixes
   synonyms: linux debian apache unix
-  url: http://allperlbooks.com/tag/
+  url: http://allperlbooks.com/tag/unixes
 
 - tag: Web
   synonyms: www world wide web net network networks lwp
-  url: http://allperlbooks.com/tag/
+  url: http://allperlbooks.com/tag/web
 
 - tag: Windows
   synonyms: win95 windows nt win98 apache iis win32 win64 win16 win
-  url: http://allperlbooks.com/tag/
+  url: http://allperlbooks.com/tag/windows
 
 - tag: XML
   synonyms: xslt
-  url: http://allperlbooks.com/tag/
+  url: http://allperlbooks.com/tag/xml
 
