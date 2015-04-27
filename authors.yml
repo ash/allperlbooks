@@ -1,0 +1,1634 @@
+- name: chromatic
+  firstname: chromatic
+  url: http://allperlbooks.com/author/chromatic
+
+- name: Thomas
+  firstname: Thomas
+  url: http://allperlbooks.com/author/thomas
+
+- name: Hedaya Alasooly
+  firstname: Hedaya
+  lastname: Alasooly
+  url: http://allperlbooks.com/author/hedaya-alasooly
+
+- name: Adriano Allora
+  firstname: Adriano
+  lastname: Allora
+  url: http://allperlbooks.com/author/adriano-allora
+
+- name: Stephen Altschul
+  firstname: Stephen
+  lastname: Altschul
+  url: http://allperlbooks.com/author/stephen-altschul
+
+- name: Susan Anderson-Freed
+  firstname: Susan
+  lastname: Anderson-Freed
+  url: http://allperlbooks.com/author/susan-anderson-freed
+
+- name: Edwin Aoki
+  firstname: Edwin
+  lastname: Aoki
+  url: http://allperlbooks.com/author/edwin-aoki
+
+- name: Sébastien Aperghis-Tramoni
+  firstname: Sébastien
+  lastname: Aperghis-Tramoni
+  url: http://allperlbooks.com/author/sebastien-aperghis-tramoni
+
+- name: Adrian Arva
+  firstname: Adrian
+  lastname: Arva
+  url: http://allperlbooks.com/author/adrian-arva
+
+- name: Stephen Asbury
+  firstname: Stephen
+  lastname: Asbury
+  url: http://allperlbooks.com/author/stephen-asbury
+
+- name: Kais Ayari
+  firstname: Kais
+  lastname: Ayari
+  url: http://allperlbooks.com/author/kais-ayari
+
+- name: John Bambenek
+  firstname: John
+  lastname: Bambenek
+  url: http://allperlbooks.com/author/john-bambenek
+
+- name: Chris Baron
+  firstname: Chris
+  lastname: Baron
+  url: http://allperlbooks.com/author/chris-baron
+
+- name: Paul Barry
+  firstname: Paul
+  lastname: Barry
+  url: http://allperlbooks.com/author/paul-barry
+
+- name: Leslie W. Bate
+  firstname: Leslie W.
+  lastname: Bate
+  url: http://allperlbooks.com/author/leslie-w-bate
+
+- name: Chris Bates
+  firstname: Chris
+  lastname: Bates
+  url: http://allperlbooks.com/author/chris-bates
+
+- name: Ivan Bayross
+  firstname: Ivan
+  lastname: Bayross
+  url: http://allperlbooks.com/author/ivan-bayross
+
+- name: Joseph Bedell
+  firstname: Joseph
+  lastname: Bedell
+  url: http://allperlbooks.com/author/joseph-bedell
+
+- name: Stas Bekman
+  firstname: Stas
+  lastname: Bekman
+  url: http://allperlbooks.com/author/stas-bekman
+
+- name: Chris Bellew
+  firstname: Chris
+  lastname: Bellew
+  url: http://allperlbooks.com/author/chris-bellew
+
+- name: Douglas Berdeaux
+  firstname: Douglas
+  lastname: Berdeaux
+  url: http://allperlbooks.com/author/douglas-berdeaux
+
+- name: Dan Berlin
+  firstname: Dan
+  lastname: Berlin
+  url: http://allperlbooks.com/author/dan-berlin
+
+- name: Jules J. Berman
+  firstname: Jules J.
+  lastname: Berman
+  url: http://allperlbooks.com/author/jules-j-berman
+
+- name: Conrad Bessant
+  firstname: Conrad
+  lastname: Bessant
+  url: http://allperlbooks.com/author/conrad-bessant
+
+- name: Federico Biancuzzi
+  firstname: Federico
+  lastname: Biancuzzi
+  url: http://allperlbooks.com/author/federico-biancuzzi
+
+- name: Hildo Biersma
+  firstname: Hildo
+  lastname: Biersma
+  url: http://allperlbooks.com/author/hildo-biersma
+
+- name: Roger Bilisoly
+  firstname: Roger
+  lastname: Bilisoly
+  url: http://allperlbooks.com/author/roger-bilisoly
+
+- name: Gunther Birznieks
+  firstname: Gunther
+  lastname: Birznieks
+  url: http://allperlbooks.com/author/gunther-birznieks
+
+- name: David N. Blank-Edelman
+  firstname: David N.
+  lastname: Blank-Edelman
+  url: http://allperlbooks.com/author/david-n-blank-edelman
+
+- name: Anne Bohy
+  firstname: Anne
+  lastname: Bohy
+  url: http://allperlbooks.com/author/anne-bohy
+
+- name: Greg Boug
+  firstname: Greg
+  lastname: Boug
+  url: http://allperlbooks.com/author/greg-boug
+
+- name: Thomas Boutell
+  firstname: Thomas
+  lastname: Boutell
+  url: http://allperlbooks.com/author/thomas-boutell
+
+- name: Richard Bowen
+  firstname: Richard
+  lastname: Bowen
+  url: http://allperlbooks.com/author/richard-bowen
+
+- name: Emilee Newman Bowles
+  firstname: Emilee Newman
+  lastname: Bowles
+  url: http://allperlbooks.com/author/emilee-newman-bowles
+
+- name: Keith Bradnam
+  firstname: Keith
+  lastname: Bradnam
+  url: http://allperlbooks.com/author/keith-bradnam
+
+- name: Jim Brandt
+  firstname: Jim
+  lastname: Brandt
+  url: http://allperlbooks.com/author/jim-brandt
+
+- name: Steven E. Brenner
+  firstname: Steven E.
+  lastname: Brenner
+  url: http://allperlbooks.com/author/steven-e-brenner
+
+- name: Gavin Brown
+  firstname: Gavin
+  lastname: Brown
+  url: http://allperlbooks.com/author/gavin-brown
+
+- name: Martin C. Brown
+  firstname: Martin C.
+  lastname: Brown
+  url: http://allperlbooks.com/author/martin-c-brown
+
+- name: Micah Brown
+  firstname: Micah
+  lastname: Brown
+  url: http://allperlbooks.com/author/micah-brown
+
+- name: Vicky Brown
+  firstname: Vicky
+  lastname: Brown
+  url: http://allperlbooks.com/author/vicky-brown
+
+- name: Philippe Bruhat
+  firstname: Philippe
+  lastname: Bruhat
+  url: http://allperlbooks.com/author/philippe-bruhat
+
+- name: Tim Bunce
+  firstname: Tim
+  lastname: Bunce
+  url: http://allperlbooks.com/author/tim-bunce
+
+- name: Sean M. Burke
+  firstname: Sean M.
+  lastname: Burke
+  url: http://allperlbooks.com/author/sean-m-burke
+
+- name: John Callender
+  firstname: John
+  lastname: Callender
+  url: http://allperlbooks.com/author/john-callender
+
+- name: Aldo Calpini
+  firstname: Aldo
+  lastname: Calpini
+  url: http://allperlbooks.com/author/aldo-calpini
+
+- name: Gerald Carter
+  firstname: Gerald
+  lastname: Carter
+  url: http://allperlbooks.com/author/gerald-carter
+
+- name: Harlan Carvey
+  firstname: Harlan
+  lastname: Carvey
+  url: http://allperlbooks.com/author/harlan-carvey
+
+- name: Julian Cash
+  firstname: Julian
+  lastname: Cash
+  url: http://allperlbooks.com/author/julian-cash
+
+- name: Elizabeth Castro
+  firstname: Elizabeth
+  lastname: Castro
+  url: http://allperlbooks.com/author/elizabeth-castro
+
+- name: Darren Chamberlain
+  firstname: Darren
+  lastname: Chamberlain
+  url: http://allperlbooks.com/author/darren-chamberlain
+
+- name: Elizabeth B. Chang
+  firstname: Elizabeth B.
+  lastname: Chang
+  url: http://allperlbooks.com/author/elizabeth-b-chang
+
+- name: Nigel Chapman
+  firstname: Nigel
+  lastname: Chapman
+  url: http://allperlbooks.com/author/nigel-chapman
+
+- name: K.Y. Cheung
+  firstname: K.Y.
+  lastname: Cheung
+  url: http://allperlbooks.com/author/k-y-cheung
+
+- name: Peter Chines
+  firstname: Peter
+  lastname: Chines
+  url: http://allperlbooks.com/author/peter-chines
+
+- name: Eric Cholet
+  firstname: Eric
+  lastname: Cholet
+  url: http://allperlbooks.com/author/eric-cholet
+
+- name: Johnnie Christenberry
+  firstname: Johnnie
+  lastname: Christenberry
+  url: http://allperlbooks.com/author/johnnie-christenberry
+
+- name: Tom Christiansen
+  firstname: Tom
+  lastname: Christiansen
+  url: http://allperlbooks.com/author/tom-christiansen
+
+- name: Rafe Colburn
+  firstname: Rafe
+  lastname: Colburn
+  url: http://allperlbooks.com/author/rafe-colburn
+
+- name: Damian Conway
+  firstname: Damian
+  lastname: Conway
+  url: http://allperlbooks.com/author/damian-conway
+
+- name: Arthur Corliss
+  firstname: Arthur
+  lastname: Corliss
+  url: http://allperlbooks.com/author/arthur-corliss
+
+- name: Simon Cozens
+  firstname: Simon
+  lastname: Cozens
+  url: http://allperlbooks.com/author/simon-cozens
+
+- name: Dave Cross
+  firstname: Dave
+  lastname: Cross
+  url: http://allperlbooks.com/author/dave-cross
+
+- name: Phil Crow
+  firstname: Phil
+  lastname: Crow
+  url: http://allperlbooks.com/author/phil-crow
+
+- name: brian d foy
+  firstname: brian
+  lastname: d foy
+  url: http://allperlbooks.com/author/brian-d-foy
+
+- name: František Dařena
+  firstname: František
+  lastname: Dařena
+  url: http://allperlbooks.com/author/frantisek-darena
+
+- name: Pancrazio de Mauro
+  firstname: Pancrazio
+  lastname: de Mauro
+  url: http://allperlbooks.com/author/pancrazio-de-mauro
+
+- name: John December
+  firstname: John
+  lastname: December
+  url: http://allperlbooks.com/author/john-december
+
+- name: John Deep
+  firstname: John
+  lastname: Deep
+  url: http://allperlbooks.com/author/john-deep
+
+- name: Harvey M. Deitel
+  firstname: Harvey M.
+  lastname: Deitel
+  url: http://allperlbooks.com/author/harvey-m-deitel
+
+- name: Paul Deitel
+  firstname: Paul
+  lastname: Deitel
+  url: http://allperlbooks.com/author/paul-deitel
+
+- name: Thomas Demmig
+  firstname: Thomas
+  lastname: Demmig
+  url: http://allperlbooks.com/author/thomas-demmig
+
+- name: Brian Deng
+  firstname: Brian
+  lastname: Deng
+  url: http://allperlbooks.com/author/brian-deng
+
+- name: Alligator Descartes
+  firstname: Alligator
+  lastname: Descartes
+  url: http://allperlbooks.com/author/alligator-descartes
+
+- name: Sébastien Desreu
+  firstname: Sébastien
+  lastname: Desreu
+  url: http://allperlbooks.com/author/sebastien-desreu
+
+- name: Michelle DeWolfe
+  firstname: Michelle
+  lastname: DeWolfe
+  url: http://allperlbooks.com/author/michelle-dewolfe
+
+- name: Carl Dichter
+  firstname: Carl
+  lastname: Dichter
+  url: http://allperlbooks.com/author/carl-dichter
+
+- name: Kieren Diment
+  firstname: Kieren
+  lastname: Diment
+  url: http://allperlbooks.com/author/kieren-diment
+
+- name: Mark Jason Dominus
+  firstname: Mark Jason
+  lastname: Dominus
+  url: http://allperlbooks.com/author/mark-jason-dominus
+
+- name: Allen B. Downey
+  firstname: Allen B.
+  lastname: Downey
+  url: http://allperlbooks.com/author/allen-b-downey
+
+- name: Paul Doyle
+  firstname: Paul
+  lastname: Doyle
+  url: http://allperlbooks.com/author/paul-doyle
+
+- name: Kaladhar Dsvgk
+  firstname: Kaladhar
+  lastname: Dsvgk
+  url: http://allperlbooks.com/author/kaladhar-dsvgk
+
+- name: Paul DuBois
+  firstname: Paul
+  lastname: DuBois
+  url: http://allperlbooks.com/author/paul-dubois
+
+- name: Andy Duncan
+  firstname: Andy
+  lastname: Duncan
+  url: http://allperlbooks.com/author/andy-duncan
+
+- name: Luke Duncan
+  firstname: Luke
+  lastname: Duncan
+  url: http://allperlbooks.com/author/luke-duncan
+
+- name: Jeffry Dwight
+  firstname: Jeffry
+  lastname: Dwight
+  url: http://allperlbooks.com/author/jeffry-dwight
+
+- name: Rex A. Dwyer
+  firstname: Rex A.
+  lastname: Dwyer
+  url: http://allperlbooks.com/author/rex-a-dwyer
+
+- name: Betsey Dexter Dyer
+  firstname: Betsey Dexter
+  lastname: Dyer
+  url: http://allperlbooks.com/author/betsey-dexter-dyer
+
+- name: Horst Eidenberger
+  firstname: Horst
+  lastname: Eidenberger
+  url: http://allperlbooks.com/author/horst-eidenberger
+
+- name: Joshua Ellis
+  firstname: Joshua
+  lastname: Ellis
+  url: http://allperlbooks.com/author/joshua-ellis
+
+- name: Michael Erwin
+  firstname: Michael
+  lastname: Erwin
+  url: http://allperlbooks.com/author/michael-erwin
+
+- name: Mike Erwin
+  firstname: Mike
+  lastname: Erwin
+  url: http://allperlbooks.com/author/mike-erwin
+
+- name: Robert Farrell
+  firstname: Robert
+  lastname: Farrell
+  url: http://allperlbooks.com/author/robert-farrell
+
+- name: Michael Fitzgerald
+  firstname: Michael
+  lastname: Fitzgerald
+  url: http://allperlbooks.com/author/michael-fitzgerald
+
+- name: John P. Flynt
+  firstname: John P.
+  lastname: Flynt
+  url: http://allperlbooks.com/author/john-p-flynt
+
+- name: Michael O. Foghlu
+  firstname: Michael O.
+  lastname: Foghlu
+  url: http://allperlbooks.com/author/michael-o-foghlu
+
+- name: Richard Foley
+  firstname: Richard
+  lastname: Foley
+  url: http://allperlbooks.com/author/richard-foley
+
+- name: Andrew Ford
+  firstname: Andrew
+  lastname: Ford
+  url: http://allperlbooks.com/author/andrew-ford
+
+- name: Jerry Lee Ford, Jr.
+  firstname: Jerry Lee
+  lastname: Ford, Jr.
+  url: http://allperlbooks.com/author/jerry-lee-ford-jr
+
+- name: Ben Forta
+  firstname: Ben
+  lastname: Forta
+  url: http://allperlbooks.com/author/ben-forta
+
+- name: Eric Foster-Johnson
+  firstname: Eric
+  lastname: Foster-Johnson
+  url: http://allperlbooks.com/author/eric-foster-johnson
+
+- name: R. Chris Fraley
+  firstname: R. Chris
+  lastname: Fraley
+  url: http://allperlbooks.com/author/r-chris-fraley
+
+- name: Christopher M. Frenz
+  firstname: Christopher M.
+  lastname: Frenz
+  url: http://allperlbooks.com/author/christopher-m-frenz
+
+- name: Jeffrey E. F. Friedl
+  firstname: Jeffrey E. F.
+  lastname: Friedl
+  url: http://allperlbooks.com/author/jeffrey-e-f-friedl
+
+- name: Mark Gaither
+  firstname: Mark
+  lastname: Gaither
+  url: http://allperlbooks.com/author/mark-gaither
+
+- name: Patrick Galbraith
+  firstname: Patrick
+  lastname: Galbraith
+  url: http://allperlbooks.com/author/patrick-galbraith
+
+- name: Hallett German
+  firstname: Hallett
+  lastname: German
+  url: http://allperlbooks.com/author/hallett-german
+
+- name: Mark Ginsburg
+  firstname: Mark
+  lastname: Ginsburg
+  url: http://allperlbooks.com/author/mark-ginsburg
+
+- name: Marc Girod
+  firstname: Marc
+  lastname: Girod
+  url: http://allperlbooks.com/author/marc-girod
+
+- name: Mike Glover
+  firstname: Mike
+  lastname: Glover
+  url: http://allperlbooks.com/author/mike-glover
+
+- name: Nathan A. Good
+  firstname: Nathan A.
+  lastname: Good
+  url: http://allperlbooks.com/author/nathan-a-good
+
+- name: Jan Goyvaerts
+  firstname: Jan
+  lastname: Goyvaerts
+  url: http://allperlbooks.com/author/jan-goyvaerts
+
+- name: Neil Gray
+  firstname: Neil
+  lastname: Gray
+  url: http://allperlbooks.com/author/neil-gray
+
+- name: Kevin Greer
+  firstname: Kevin
+  lastname: Greer
+  url: http://allperlbooks.com/author/kevin-greer
+
+- name: Scott Guelich
+  firstname: Scott
+  lastname: Guelich
+  url: http://allperlbooks.com/author/scott-guelich
+
+- name: Juan Julián Merelo Guervós
+  firstname: Juan Julián Merelo
+  lastname: Guervós
+  url: http://allperlbooks.com/author/juan-julian-merelo-guervos
+
+- name: Shishir Gundavaram
+  firstname: Shishir
+  lastname: Gundavaram
+  url: http://allperlbooks.com/author/shishir-gundavaram
+
+- name: Neil J. Gunther
+  firstname: Neil J.
+  lastname: Gunther
+  url: http://allperlbooks.com/author/neil-j-gunther
+
+- name: Christopher D. Haddad
+  firstname: Christopher D.
+  lastname: Haddad
+  url: http://allperlbooks.com/author/christopher-d-haddad
+
+- name: Jonathan Hage
+  firstname: Jonathan
+  lastname: Hage
+  url: http://allperlbooks.com/author/jonathan-hage
+
+- name: Bill Hails
+  firstname: Bill
+  lastname: Hails
+  url: http://allperlbooks.com/author/bill-hails
+
+- name: Joseph N. Hall
+  firstname: Joseph N.
+  lastname: Hall
+  url: http://allperlbooks.com/author/joseph-n-hall
+
+- name: Jacqueline D. Hamilton
+  firstname: Jacqueline D.
+  lastname: Hamilton
+  url: http://allperlbooks.com/author/jacqueline-d-hamilton
+
+- name: Michael Hammond
+  firstname: Michael
+  lastname: Hammond
+  url: http://allperlbooks.com/author/michael-hammond
+
+- name: Kip Hampton
+  firstname: Kip
+  lastname: Hampton
+  url: http://allperlbooks.com/author/kip-hampton
+
+- name: Kevin Hanegan
+  firstname: Kevin
+  lastname: Hanegan
+  url: http://allperlbooks.com/author/kevin-hanegan
+
+- name: David Harlan
+  firstname: David
+  lastname: Harlan
+  url: http://allperlbooks.com/author/david-harlan
+
+- name: Darren Harwood
+  firstname: Darren
+  lastname: Harwood
+  url: http://allperlbooks.com/author/darren-harwood
+
+- name: Richard Harwood
+  firstname: Richard
+  lastname: Harwood
+  url: http://allperlbooks.com/author/richard-harwood
+
+- name: Sebastian Hassinger
+  firstname: Sebastian
+  lastname: Hassinger
+  url: http://allperlbooks.com/author/sebastian-hassinger
+
+- name: Jutta Hämmerle-Uhl
+  firstname: Jutta
+  lastname: Hämmerle-Uhl
+  url: http://allperlbooks.com/author/jutta-hammerle-uhl
+
+- name: Eric Herrmann
+  firstname: Eric
+  lastname: Herrmann
+  url: http://allperlbooks.com/author/eric-herrmann
+
+- name: Jarkko Hietaniemi
+  firstname: Jarkko
+  lastname: Hietaniemi
+  url: http://allperlbooks.com/author/jarkko-hietaniemi
+
+- name: Paul Hoffman
+  firstname: Paul
+  lastname: Hoffman
+  url: http://allperlbooks.com/author/paul-hoffman
+
+- name: Peter Holfelder
+  firstname: Peter
+  lastname: Holfelder
+  url: http://allperlbooks.com/author/peter-holfelder
+
+- name: Steven Holzner
+  firstname: Steven
+  lastname: Holzner
+  url: http://allperlbooks.com/author/steven-holzner
+
+- name: Molly E. Holzschlag
+  firstname: Molly E.
+  lastname: Holzschlag
+  url: http://allperlbooks.com/author/molly-e-holzschlag
+
+- name: Paco Hope
+  firstname: Paco
+  lastname: Hope
+  url: http://allperlbooks.com/author/paco-hope
+
+- name: Aidan Humphreys
+  firstname: Aidan
+  lastname: Humphreys
+  url: http://allperlbooks.com/author/aidan-humphreys
+
+- name: Kamran Husain
+  firstname: Kamran
+  lastname: Husain
+  url: http://allperlbooks.com/author/kamran-husain
+
+- name: J. M. Ivler
+  firstname: J. M.
+  lastname: Ivler
+  url: http://allperlbooks.com/author/j-m-ivler
+
+- name: Arun Jagota
+  firstname: Arun
+  lastname: Jagota
+  url: http://allperlbooks.com/author/arun-jagota
+
+- name: D. Curtis Jamison
+  firstname: D. Curtis
+  lastname: Jamison
+  url: http://allperlbooks.com/author/d-curtis-jamison
+
+- name: Brigitte Jellinek
+  firstname: Brigitte
+  lastname: Jellinek
+  url: http://allperlbooks.com/author/brigitte-jellinek
+
+- name: Tim Jenness
+  firstname: Tim
+  lastname: Jenness
+  url: http://allperlbooks.com/author/tim-jenness
+
+- name: Antano Solar John
+  firstname: Antano Solar
+  lastname: John
+  url: http://allperlbooks.com/author/antano-solar-john
+
+- name: Andrew L. Johnson
+  firstname: Andrew L.
+  lastname: Johnson
+  url: http://allperlbooks.com/author/andrew-l-johnson
+
+- name: Mohammed J. Kabir
+  firstname: Mohammed J.
+  lastname: Kabir
+  url: http://allperlbooks.com/author/mohammed-j-kabir
+
+- name: Avinash C. Kak
+  firstname: Avinash C.
+  lastname: Kak
+  url: http://allperlbooks.com/author/avinash-c-kak
+
+- name: Jugal K. Kalita
+  firstname: Jugal K.
+  lastname: Kalita
+  url: http://allperlbooks.com/author/jugal-k-kalita
+
+- name: Chris Kemp
+  firstname: Chris
+  lastname: Kemp
+  url: http://allperlbooks.com/author/chris-kemp
+
+- name: Eugene Eric Kim
+  firstname: Eugene Eric
+  lastname: Kim
+  url: http://allperlbooks.com/author/eugene-eric-kim
+
+- name: Christian Kirsch
+  firstname: Christian
+  lastname: Kirsch
+  url: http://allperlbooks.com/author/christian-kirsch
+
+- name: Dave Kleiman
+  firstname: Dave
+  lastname: Kleiman
+  url: http://allperlbooks.com/author/dave-kleiman
+
+- name: Agnieszka Klus
+  firstname: Agnieszka
+  lastname: Klus
+  url: http://allperlbooks.com/author/agnieszka-klus
+
+- name: Craig Knuckles
+  firstname: Craig
+  lastname: Knuckles
+  url: http://allperlbooks.com/author/craig-knuckles
+
+- name: Randy Kobes
+  firstname: Randy
+  lastname: Kobes
+  url: http://allperlbooks.com/author/randy-kobes
+
+- name: Ian Korf
+  firstname: Ian
+  lastname: Korf
+  url: http://allperlbooks.com/author/ian-korf
+
+- name: Eric Kramer
+  firstname: Eric
+  lastname: Kramer
+  url: http://allperlbooks.com/author/eric-kramer
+
+- name: James M. Kretchmar
+  firstname: James M.
+  lastname: Kretchmar
+  url: http://allperlbooks.com/author/james-m-kretchmar
+
+- name: Rainer Krienke
+  firstname: Rainer
+  lastname: Krienke
+  url: http://allperlbooks.com/author/rainer-krienke
+
+- name: Damien Krotkine
+  firstname: Damien
+  lastname: Krotkine
+  url: http://allperlbooks.com/author/damien-krotkine
+
+- name: Peteris Krumins
+  firstname: Peteris
+  lastname: Krumins
+  url: http://allperlbooks.com/author/peteris-krumins
+
+- name: Pavel Kulchenko
+  firstname: Pavel
+  lastname: Kulchenko
+  url: http://allperlbooks.com/author/pavel-kulchenko
+
+- name: Eric Ladd
+  firstname: Eric
+  lastname: Ladd
+  url: http://allperlbooks.com/author/eric-ladd
+
+- name: Ian Langworth
+  firstname: Ian
+  lastname: Langworth
+  url: http://allperlbooks.com/author/ian-angworth
+
+- name: David A. Lash
+  firstname: David A.
+  lastname: Lash
+  url: http://allperlbooks.com/author/david-a-lash
+
+- name: Mark D. LeBlanc
+  firstname: Mark D.
+  lastname: LeBlanc
+  url: http://allperlbooks.com/author/mark-d-leblanc
+
+- name: James Lee
+  firstname: James
+  lastname: Lee
+  url: http://allperlbooks.com/author/james-lee
+
+- name: Laura Lemay
+  firstname: Laura
+  lastname: Lemay
+  url: http://allperlbooks.com/author/laura-lemay
+
+- name: Reuven M. Lerner
+  firstname: Reuven M.
+  lastname: Lerner
+  url: http://allperlbooks.com/author/reuven-m-lerner
+
+- name: Arthur Lesk
+  firstname: Arthur
+  lastname: Lesk
+  url: http://allperlbooks.com/author/arthur-lesk
+
+- name: Andy Lester
+  firstname: Andy
+  lastname: Lester
+  url: http://allperlbooks.com/author/andy-lester
+
+- name: Steven Levithan
+  firstname: Steven
+  lastname: Levithan
+  url: http://allperlbooks.com/author/steven-levithan
+
+- name: Stephen Lidie
+  firstname: Stephen
+  lastname: Lidie
+  url: http://allperlbooks.com/author/stephen-lidie
+
+- name: Jochen Lillich
+  firstname: Jochen
+  lastname: Lillich
+  url: http://allperlbooks.com/author/jochen-lillich
+
+- name: Ted Lin
+  firstname: Ted
+  lastname: Lin
+  url: http://allperlbooks.com/author/ted-lin
+
+- name: Paul Lindner
+  firstname: Paul
+  lastname: Lindner
+  url: http://allperlbooks.com/author/paul-lindner
+
+- name: Stephen Lines
+  firstname: Stephen
+  lastname: Lines
+  url: http://allperlbooks.com/author/stephen-lines
+
+- name: Stevan Little
+  firstname: Stevan
+  lastname: Little
+  url: http://allperlbooks.com/author/stevan-little
+
+- name: Dan Livingston
+  firstname: Dan
+  lastname: Livingston
+  url: http://allperlbooks.com/author/dan-livingston
+
+- name: Greg London
+  firstname: Greg
+  lastname: London
+  url: http://allperlbooks.com/author/greg-london
+
+- name: Vincent D. Lowe
+  firstname: Vincent D.
+  lastname: Lowe
+  url: http://allperlbooks.com/author/vincent-d-lowe
+
+- name: Michael W. Lucas
+  firstname: Michael W.
+  lastname: Lucas
+  url: http://allperlbooks.com/author/michael-w-lucas
+
+- name: John Macdonald
+  firstname: John
+  lastname: Macdonald
+  url: http://allperlbooks.com/author/john-macdonald
+
+- name: Tim Maher
+  firstname: Tim
+  lastname: Maher
+  url: http://allperlbooks.com/author/tim-maher
+
+- name: Saman Majeed
+  firstname: Saman
+  lastname: Majeed
+  url: http://allperlbooks.com/author/saman-majeed
+
+- name: Michael Mangelsdorf
+  firstname: Michael
+  lastname: Mangelsdorf
+  url: http://allperlbooks.com/author/michael-mangelsdorf
+
+- name: Tobias Martinsson
+  firstname: Tobias
+  lastname: Martinsson
+  url: http://allperlbooks.com/author/tobias-martinsson
+
+- name: Jason Mathews
+  firstname: Jason
+  lastname: Mathews
+  url: http://allperlbooks.com/author/jason-mathews
+
+- name: Joshua A. McAdams
+  firstname: Joshua A.
+  lastname: McAdams
+  url: http://allperlbooks.com/author/joshua-a-mcadams
+
+- name: Kristi McCombs
+  firstname: Kristi
+  lastname: McCombs
+  url: http://allperlbooks.com/author/kristi-mccombs
+
+- name: Adam McDaniel
+  firstname: Adam
+  lastname: McDaniel
+  url: http://allperlbooks.com/author/adam-mcdaniel
+
+- name: Robert McDaniel
+  firstname: Robert
+  lastname: McDaniel
+  url: http://allperlbooks.com/author/robert-mcdaniel
+
+- name: Mike McGrath
+  firstname: Mike
+  lastname: McGrath
+  url: http://allperlbooks.com/author/mike-mcgrath
+
+- name: Jason McIntosh
+  firstname: Jason
+  lastname: McIntosh
+  url: http://allperlbooks.com/author/jason-mcIntosh
+
+- name: Scott McMahan
+  firstname: Scott
+  lastname: McMahan
+  url: http://allperlbooks.com/author/scott-mcmahan
+
+- name: Michael McMillan
+  firstname: Michael
+  lastname: McMillan
+  url: http://allperlbooks.com/author/michael-mcmillan
+
+- name: D. C. McPhie
+  firstname: D. C.
+  lastname: McPhie
+  url: http://allperlbooks.com/author/d-c-mcphie
+
+- name: David Medinets
+  firstname: David
+  lastname: Medinets
+  url: http://allperlbooks.com/author/david-medinets
+
+- name: Kevin Meltzer
+  firstname: Kevin
+  lastname: Meltzer
+  url: http://allperlbooks.com/author/kevin-meltzer
+
+- name: Yevgeny Menaker
+  firstname: Yevgeny
+  lastname: Menaker
+  url: http://allperlbooks.com/author/yevgeny-menaker
+
+- name: Joe Merlino
+  firstname: Joe
+  lastname: Merlino
+  url: http://allperlbooks.com/author/joe-merlino
+
+- name: Brent Michalski
+  firstname: Brent
+  lastname: Michalski
+  url: http://allperlbooks.com/author/brent-michalski
+
+- name: Elke Michlmayr
+  firstname: Elke
+  lastname: Michlmayr
+  url: http://allperlbooks.com/author/elke-michlmayr
+
+- name: Bill Middleton
+  firstname: Bill
+  lastname: Middleton
+  url: http://allperlbooks.com/author/bill-middleton
+
+- name: Michael Moorhouse
+  firstname: Michael
+  lastname: Moorhouse
+  url: http://allperlbooks.com/author/michael-moorhouse
+
+- name: Jerry Muelver
+  firstname: Jerry
+  lastname: Muelver
+  url: http://allperlbooks.com/author/jerry-muelver
+
+- name: Christopher M. Nandor
+  firstname: Christopher M.
+  lastname: Nandor
+  url: http://allperlbooks.com/author/chris-nandor
+
+- name: Christian Neuss
+  firstname: Christian
+  lastname: Neuss
+  url: http://allperlbooks.com/author/christian-neuss
+
+- name: Tem R. Nieto
+  firstname: Tem R.
+  lastname: Nieto
+  url: http://allperlbooks.com/author/tem-r-nieto
+
+- name: Robert Niles
+  firstname: Robert
+  lastname: Niles
+  url: http://allperlbooks.com/author/robert-niles
+
+- name: Manni Novel
+  firstname: Manni
+  lastname: Novel
+  url: http://allperlbooks.com/author/manni-novel
+
+- name: Thomas Nowers
+  firstname: Thomas
+  lastname: Nowers
+  url: http://allperlbooks.com/author/thomas-nowers
+
+- name: Pierre M. Nugues
+  firstname: Pierre M.
+  lastname: Nugues
+  url: http://allperlbooks.com/author/pierre-m-nugues
+
+- name: Kevin O'Brien
+  firstname: Kevin
+  lastname: O'Brien
+  url: http://allperlbooks.com/author/kevin-o-brien
+
+- name: Jim O'Donnell
+  firstname: Jim
+  lastname: O'Donnell
+  url: http://allperlbooks.com/author/jim-o-donnell
+
+- name: Darren Oakley
+  firstname: Darren
+  lastname: Oakley
+  url: http://allperlbooks.com/author/darren-oakley
+
+- name: Robert J. Oberg
+  firstname: Robert J.
+  lastname: Oberg
+  url: http://allperlbooks.com/author/robert-j-oberg
+
+- name: Simon Oliver
+  firstname: Simon
+  lastname: Oliver
+  url: http://allperlbooks.com/author/simon-oliver
+
+- name: Erik Olson
+  firstname: Erik
+  lastname: Olson
+  url: http://allperlbooks.com/author/erik-olson
+
+- name: Jon Orwant
+  firstname: Jon
+  lastname: Orwant
+  url: http://allperlbooks.com/author/jon-orwant
+
+- name: John Ostrowick
+  firstname: John
+  lastname: Ostrowick
+  url: http://allperlbooks.com/author/john-ostrowick
+
+- name: Steve Oualline
+  firstname: Steve
+  lastname: Oualline
+  url: http://allperlbooks.com/author/steve-oualline
+
+- name: Craig Patchett
+  firstname: Craig
+  lastname: Patchett
+  url: http://allperlbooks.com/author/craig-patchett
+
+- name: Mark Pease
+  firstname: Mark
+  lastname: Pease
+  url: http://allperlbooks.com/author/mark-pease
+
+- name: Aric Pedersen
+  firstname: Aric
+  lastname: Pedersen
+  url: http://allperlbooks.com/author/aric-pedersen
+
+- name: Jason Pellerin
+  firstname: Jason
+  lastname: Pellerin
+  url: http://allperlbooks.com/author/jason-pellerin
+
+- name: Edward S. Peschko
+  firstname: Edward S.
+  lastname: Peschko
+  url: http://allperlbooks.com/author/edward-s-peschko
+
+- name: Theo Petersen
+  firstname: Theo
+  lastname: Petersen
+  url: http://allperlbooks.com/author/theo-petersen
+
+- name: Andrea Peterson
+  firstname: Andrea
+  lastname: Peterson
+  url: http://allperlbooks.com/author/andrea-peterson
+
+- name: Ron Petrusha
+  firstname: Ron
+  lastname: Petrusha
+  url: http://allperlbooks.com/author/ron-petrusha
+
+- name: Tom Phoenix
+  firstname: Tom
+  lastname: Phoenix
+  url: http://allperlbooks.com/author/tom-phoenix
+
+- name: Clinton Pierce
+  firstname: Clinton
+  lastname: Pierce
+  url: http://allperlbooks.com/author/clinton-pierce
+
+- name: David Pitts
+  firstname: David
+  lastname: Pitts
+  url: http://allperlbooks.com/author/david-pitts
+
+- name: Jürgen Plate
+  firstname: Jürgen
+  lastname: Plate
+  url: http://allperlbooks.com/author/jurgen-plate
+
+- name: Curtis Poe (Ovid)
+  firstname: Curtis
+  lastname: Poe
+  nickname: Ovid
+  url: http://allperlbooks.com/author/curtis-poe
+
+- name: Shelley Powers
+  firstname: Shelley
+  lastname: Powers
+  url: http://allperlbooks.com/author/shelley-powers
+
+- name: Jérôme Quelin
+  firstname: Jérôme
+  lastname: Quelin
+  url: http://allperlbooks.com/author/jerome-quelin
+
+- name: Ellie Quigley
+  firstname: Ellie
+  lastname: Quigley
+  url: http://allperlbooks.com/author/ellie-quigley
+
+- name: Chris Radcliff
+  firstname: Chris
+  lastname: Radcliff
+  url: http://allperlbooks.com/author/chris-radcliff
+
+- name: Marcus Ramberg
+  firstname: Marcus
+  lastname: Ramberg
+  url: http://allperlbooks.com/author/marcus-ramberg
+
+- name: Allison Randal
+  firstname: Allison
+  lastname: Randal
+  url: http://allperlbooks.com/author/allison-randal
+
+- name: Erik T. Ray
+  firstname: Erik T.
+  lastname: Ray
+  url: http://allperlbooks.com/author/erik-t-ray
+
+- name: Randy J. Ray
+  firstname: Randy J.
+  lastname: Ray
+  url: http://allperlbooks.com/author/randy-j-ray
+
+- name: Mark Riehl
+  firstname: Mark
+  lastname: Riehl
+  url: http://allperlbooks.com/author/mark-riehl
+
+- name: Thorsten Roßner
+  firstname: Thorsten
+  lastname: Roßner
+  url: http://allperlbooks.com/author/thorsten-rossner
+
+- name: Jonathan Rockway
+  firstname: Jonathan
+  lastname: Rockway
+  url: http://allperlbooks.com/author/jonathan-rockway
+
+- name: Stefano Rodighiero
+  firstname: Stefano
+  lastname: Rodighiero
+  url: http://allperlbooks.com/author/stefano-rodighiero
+
+- name: Dave Rolsky
+  firstname: Dave
+  lastname: Rolsky
+  url: http://allperlbooks.com/author/dave-rolsky
+
+- name: Jonathan B. Rosenberg
+  firstname: Jonathan B.
+  lastname: Rosenberg
+  url: http://allperlbooks.com/author/jonathan-b-rosenberg
+
+- name: Dave Roth
+  firstname: Dave
+  lastname: Roth
+  url: http://allperlbooks.com/author/dave-roth
+
+- name: Jeff Rowe
+  firstname: Jeff
+  lastname: Rowe
+  url: http://allperlbooks.com/author/jeff-rowe
+
+- name: Laura Rumage
+  firstname: Laura
+  lastname: Rumage
+  url: http://allperlbooks.com/author/laura-rumage
+
+- name: Praveen Sadhu
+  firstname: Praveen
+  lastname: Sadhu
+  url: http://allperlbooks.com/author/praveen-sadhu
+
+- name: Michael Saltzman
+  firstname: Michael
+  lastname: Saltzman
+  url: http://allperlbooks.com/author/michael-saltzman
+
+- name: Tore Samuelsson
+  firstname: Tore
+  lastname: Samuelsson
+  url: http://allperlbooks.com/author/tore-samuelsson
+
+- name: Aalhad Saraf
+  firstname: Aalhad
+  lastname: Saraf
+  url: http://allperlbooks.com/author/aalhad-saraf
+
+- name: Pavel Satrapa
+  firstname: Pavel
+  lastname: Satrapa
+  url: http://allperlbooks.com/author/pavel-satrapa
+
+- name: Dennis Schaaf
+  firstname: Dennis
+  lastname: Schaaf
+  url: http://allperlbooks.com/author/dennis-schaaf
+
+- name: Steven M. Schafer
+  firstname: Steven M.
+  lastname: Schafer
+  url: http://allperlbooks.com/author/steven-m-schafer
+
+- name: Michael Schilli
+  firstname: Michael
+  lastname: Schilli
+  url: http://allperlbooks.com/author/michael-schilli
+
+- name: Randal L. Schwartz
+  firstname: Randal L.
+  lastname: Schwartz
+  url: http://allperlbooks.com/author/randal-schwartz
+
+- name: Peter J. Scott
+  firstname: Peter J.
+  lastname: Scott
+  url: http://allperlbooks.com/author/peter-j-scott
+
+- name: Robert W. Sebesta
+  firstname: Robert W.
+  lastname: Sebesta
+  url: http://allperlbooks.com/author/robert-w-sebesta
+
+- name: Ian Shadforth
+  firstname: Ian
+  lastname: Shadforth
+  url: http://allperlbooks.com/author/ian-shadforth
+
+- name: Linchi Shea
+  firstname: Linchi
+  lastname: Shea
+  url: http://allperlbooks.com/author/linchi-shea
+
+- name: Tatiana Shpichko
+  firstname: Tatiana
+  lastname: Shpichko
+  url: http://allperlbooks.com/author/tatiana-shpichko
+
+- name: Ellen Siever
+  firstname: Ellen
+  lastname: Siever
+  url: http://allperlbooks.com/author/ellen-siever
+
+- name: JT Smith
+  firstname: JT
+  lastname: Smith
+  url: http://allperlbooks.com/author/jt-smith
+
+- name: Selena Sol
+  firstname: Selena
+  lastname: Sol
+  url: http://allperlbooks.com/author/selena-sol
+
+- name: Stephen Spainhour
+  firstname: Stephen
+  lastname: Spainhour
+  url: http://allperlbooks.com/author/stephen-spainhour
+
+- name: Doug Sparling
+  firstname: Doug
+  lastname: Sparling
+  url: http://allperlbooks.com/author/doug-sparling
+
+- name: Robert Spier
+  firstname: Robert
+  lastname: Spier
+  url: http://allperlbooks.com/author/robert-spier
+
+- name: Sriram Srinivasan
+  firstname: Sriram
+  lastname: Srinivasan
+  url: http://allperlbooks.com/author/sriram-srinivasan
+
+- name: Lincoln Stein
+  firstname: Lincoln
+  lastname: Stein
+  url: http://allperlbooks.com/author/lincoln-stein
+
+- name: Ilya Sterin
+  firstname: Ilya
+  lastname: Sterin
+  url: http://allperlbooks.com/author/ilya-sterin
+
+- name: Jared Still
+  firstname: Jared
+  lastname: Still
+  url: http://allperlbooks.com/author/jared-still
+
+- name: Erik Strom
+  firstname: Erik
+  lastname: Strom
+  url: http://allperlbooks.com/author/erik-strom
+
+- name: Tony Stubblebine
+  firstname: Tony
+  lastname: Stubblebine
+  url: http://allperlbooks.com/author/tony-stubblebine
+
+- name: Steve Suehring
+  firstname: Steve
+  lastname: Suehring
+  url: http://allperlbooks.com/author/steve-suehring
+
+- name: Dan Sugalski
+  firstname: Dan
+  lastname: Sugalski
+  url: http://allperlbooks.com/author/dan-sugalski
+
+- name: Steven Swanson
+  firstname: Steven
+  lastname: Swanson
+  url: http://allperlbooks.com/author/steven-swanson
+
+- name: Leopold Tötsch
+  firstname: Leopold
+  lastname: Tötsch
+  url: http://allperlbooks.com/author/leopold-toetsch
+
+- name: Donald B. Thomas
+  firstname: Donald B.
+  lastname: Thomas
+  url: http://allperlbooks.com/author/donald-b-thomas
+
+- name: David Till
+  firstname: David
+  lastname: Till
+  url: http://allperlbooks.com/author/david-till
+
+- name: James Tisdall
+  firstname: James
+  lastname: Tisdall
+  url: http://allperlbooks.com/author/james-tisdall
+
+- name: Ed Tittel
+  firstname: Ed
+  lastname: Tittel
+  url: http://allperlbooks.com/author/ed-tittel
+
+- name: Nathan Torkington
+  firstname: Nathan
+  lastname: Torkington
+  url: http://allperlbooks.com/author/nathan-torkington
+
+- name: Stéphane Tougard
+  firstname: Stéphane
+  lastname: Tougard
+  url: http://allperlbooks.com/author/stephane-tougard
+
+- name: Sam Tregar
+  firstname: Sam
+  lastname: Tregar
+  url: http://allperlbooks.com/author/sam-tregar
+
+- name: Matt S. Trout
+  firstname: Matt S.
+  lastname: Trout
+  url: http://allperlbooks.com/author/matt-s-trout
+
+- name: Gabriel Valiente
+  firstname: Gabriel
+  lastname: Valiente
+  url: http://allperlbooks.com/author/gabriel-valiente
+
+- name: Martien Verbruggen
+  firstname: Martien
+  lastname: Verbruggen
+  url: http://allperlbooks.com/author/martien-verbruggen
+
+- name: Jesse Vincent
+  firstname: Jesse
+  lastname: Vincent
+  url: http://allperlbooks.com/author/jesse-vincent
+
+- name: Johan Vromans
+  firstname: Johan
+  lastname: Vromans
+  url: http://allperlbooks.com/author/johan-vromans
+
+- name: Peter Wainwright
+  firstname: Peter
+  lastname: Wainwright
+  url: http://allperlbooks.com/author/peter-wainwright
+
+- name: Larry Wall
+  firstname: Larry
+  lastname: Wall
+  url: http://allperlbooks.com/author/larry-wall
+
+- name: Shawn Wallace
+  firstname: Shawn
+  lastname: Wallace
+  url: http://allperlbooks.com/author/shawn-wallace
+
+- name: Nancy Walsh
+  firstname: Nancy
+  lastname: Walsh
+  url: http://allperlbooks.com/author/nancy-walsh
+
+- name: Scott Walters
+  firstname: Scott
+  lastname: Walters
+  url: http://allperlbooks.com/author/scott-walters
+
+- name: Ben Walther
+  firstname: Ben
+  lastname: Walther
+  url: http://allperlbooks.com/author/ben-walther
+
+- name: Shane Warden
+  firstname: Shane
+  lastname: Warden
+  url: http://allperlbooks.com/author/shane-warden
+
+- name: Andy Wardley
+  firstname: Andy
+  lastname: Wardley
+  url: http://allperlbooks.com/author/andy-wardley
+
+- name: Brent Ware
+  firstname: Brent
+  lastname: Ware
+  url: http://allperlbooks.com/author/brent-ware
+
+- name: Andrew Watt
+  firstname: Andrew
+  lastname: Watt
+  url: http://allperlbooks.com/author/andrew-watt
+
+- name: Bob Weil
+  firstname: Bob
+  lastname: Weil
+  url: http://allperlbooks.com/author/bob-weil
+
+- name: William E. Weinman
+  firstname: William E.
+  lastname: Weinman
+  url: http://allperlbooks.com/author/william-e-weinman
+
+- name: Ed Weiss
+  firstname: Ed
+  lastname: Weiss
+  url: http://allperlbooks.com/author/ed-weiss
+
+- name: Mark Westguard
+  firstname: Mark
+  lastname: Westguard
+  url: http://allperlbooks.com/author/mark-westguard
+
+- name: Paul Whitehead
+  firstname: Paul
+  lastname: Whitehead
+  url: http://allperlbooks.com/author/paul-whitehead
+
+- name: Andrew Whitworth
+  firstname: Andrew
+  lastname: Whitworth
+  url: http://allperlbooks.com/author/andrew-whitworth
+
+- name: Mark Wilcox
+  firstname: Mark
+  lastname: Wilcox
+  url: http://allperlbooks.com/author/mark-wilcox
+
+- name: Frank Wiles
+  firstname: Frank
+  lastname: Wiles
+  url: http://allperlbooks.com/author/frank-wiles
+
+- name: Ken Williams
+  firstname: Ken
+  lastname: Williams
+  url: http://allperlbooks.com/author/ken-williams
+
+- name: Peter Williams
+  firstname: Peter
+  lastname: Williams
+  url: http://allperlbooks.com/author/peter-williams
+
+- name: Roland Willms
+  firstname: Roland
+  lastname: Willms
+  url: http://allperlbooks.com/author/roland-willms
+
+- name: Clinton Wong
+  firstname: Clinton
+  lastname: Wong
+  url: http://allperlbooks.com/author/clinton-wong
+
+- name: Ed Wright
+  firstname: Ed
+  lastname: Wright
+  url: http://allperlbooks.com/author/ed-wright
+
+- name: Matthew Wright
+  firstname: Matthew
+  lastname: Wright
+  url: http://allperlbooks.com/author/matthew-wright
+
+- name: Allen Wyke
+  firstname: Allen
+  lastname: Wyke
+  url: http://allperlbooks.com/author/allen-wyke
+
+- name: R. Allen Wyke
+  firstname: R. Allen
+  lastname: Wyke
+  url: http://allperlbooks.com/author/r-allen-wyke
+
+- name: Mark Yandell
+  firstname: Mark
+  lastname: Yandell
+  url: http://allperlbooks.com/author/mark-yandell
+
+- name: Geoffrey Young
+  firstname: Geoffrey
+  lastname: Young
+  url: http://allperlbooks.com/author/geoffrey-young
+
+- name: David S. Yuen
+  firstname: David S.
+  lastname: Yuen
+  url: http://allperlbooks.com/author/david-s-yuen
+
+- name: Diane Zak
+  firstname: Diane
+  lastname: Zak
+  url: http://allperlbooks.com/author/diane-zak
+
+- name: Tony Zhang
+  firstname: Tony
+  lastname: Zhang
+  url: http://allperlbooks.com/author/tony-zhang
+

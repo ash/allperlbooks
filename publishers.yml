@@ -1,0 +1,293 @@
+- name: Academic Service
+  url: http://allperlbooks.com/publisher/academic-service
+  href: http://academicservice.nl
+
+- name: Addison-Wesley
+  url: http://allperlbooks.com/publisher/addison-wesley
+  href: http://informit.com
+
+- name: Advice Press
+  url: http://allperlbooks.com/publisher/advice-press
+
+- name: APOGEO S.r.L.
+  url: http://allperlbooks.com/publisher/apogeo
+  href: http://apogeonline.com
+
+- name: Apress
+  url: http://allperlbooks.com/publisher/apress
+  href: http://apress.com
+
+- name: Aracne editrice
+  url: http://allperlbooks.com/publisher/aracne
+  href: http://aracneeditrice.it
+
+- name: bhv
+  url: http://allperlbooks.com/publisher/bhv
+  href: http://bhv.de
+
+- name: Bioinformatics by the Bay Press
+  url: http://allperlbooks.com/publisher/bay-press
+
+- name: Books on Demand
+  url: http://allperlbooks.com/publisher/on-demand
+
+- name: BPB Publications
+  url: http://allperlbooks.com/publisher/bpb
+  href: http://bpbonline.com
+
+- name: Cambridge University Press
+  url: http://allperlbooks.com/publisher/cambridge
+  href: http://cambridge.org
+
+- name: CGI101.com
+  url: http://allperlbooks.com/publisher/cgi101
+  href: http://cgi101.com
+
+- name: Coriolis Group Books
+  url: http://allperlbooks.com/publisher/coriolis
+
+- name: Course Technology PTR
+  url: http://allperlbooks.com/publisher/ptr
+
+- name: CRC Press
+  url: http://allperlbooks.com/publisher/crc
+  href: http://crcpress.com
+
+- name: CreateSpace
+  url: http://allperlbooks.com/publisher/createspace
+  href: https://createspace.com
+
+- name: Donzoko
+  url: http://allperlbooks.com/publisher/donzoko
+  href: http://donzoko.net/gakuya/
+
+- name: dpunkt.verlag
+  url: http://allperlbooks.com/publisher/dpunkt
+  href: http://dpunkt.de
+
+- name: Elektor Electronics Publishing
+  url: http://allperlbooks.com/publisher/elector
+  href: http://elektor.com
+
+- name: Elsevier Inc.
+  url: http://allperlbooks.com/publisher/elsevier
+
+- name: Equity Press
+  url: http://allperlbooks.com/publisher/equity-press
+
+- name: Eyrolles
+  url: http://allperlbooks.com/publisher/eyrolles
+  href: http://eyrolles.com
+
+- name: For Dummies
+  url: http://allperlbooks.com/publisher/for-dummies
+  href: http://dummies.com
+
+- name: Franzis Verlag
+  url: http://allperlbooks.com/publisher/franzis
+  href: http://franzis.de
+
+- name: Grada Publishing
+  url: http://allperlbooks.com/publisher/grada
+  href: http://grada.cz
+
+- name: GRIN Verlag GmbH
+  url: http://allperlbooks.com/publisher/grin
+  href: grin.com
+
+- name: Guilford Press
+  url: http://allperlbooks.com/publisher/guilford
+  href: http://guilford.com
+
+- name: H&K
+  url: http://allperlbooks.com/publisher/hk
+
+- name: Hanser Fachbuchverlag
+  url: http://allperlbooks.com/publisher/hanser
+  href: http://hanser-fachbuch.de
+
+- name: IDG Books
+  url: http://allperlbooks.com/publisher/idg
+  href: http://idg.com
+
+- name: In Easy Steps Limited
+  url: http://allperlbooks.com/publisher/in-easy-steps
+  href: http://ineasysteps.com
+
+- name: International Thomson Computer Press
+  url: http://allperlbooks.com/publisher/itp
+
+- name: Jones & Bartlett Learning
+  url: http://allperlbooks.com/publisher/jones-bartlett
+
+- name: Lambert Academic Publishing
+  url: http://allperlbooks.com/publisher/lap
+  href: https://lap-publishing.com
+
+- name: LITA
+  url: http://allperlbooks.com/publisher/lita
+  href: http://ala.org
+
+- name: Lulu
+  url: http://allperlbooks.com/publisher/lulu
+  href: http://lulu.com
+
+- name: Lynda
+  url: http://allperlbooks.com/publisher/lynda
+  href: http://lynda.com
+
+- name: M & T Books
+  url: http://allperlbooks.com/publisher/m-and-t-books
+
+- name: Macmillan Technical Publishing
+  url: http://allperlbooks.com/publisher/mtp
+  href: http://macmillan.com
+
+- name: Manning Publications
+  url: http://allperlbooks.com/publisher/manning
+  href: http://manning.com
+
+- name: McGraw-Hill Companies
+  url: http://allperlbooks.com/publisher/mcgraw-hill
+  href: http://mcgraw-hill.com
+
+- name: Morgan Kaufmann
+  url: http://allperlbooks.com/publisher/morgan-kaufmann
+  href: http://mkp.com/
+
+- name: Muska & Lipman/Premier-Trade
+  url: http://allperlbooks.com/publisher/mushka-lipman
+
+- name: Neocortex
+  url: http://allperlbooks.com/publisher/neocortex
+  href: http://neo.cz
+
+- name: New Riders
+  url: http://allperlbooks.com/publisher/new-riders
+  href: http://peachpit.com
+
+- name: No Starch Press
+  url: http://allperlbooks.com/publisher/no-stash
+  href: http://nostash.com
+
+- name: O'Reilly & Associates, Inc.
+  url: http://allperlbooks.com/publisher/oreilly-associates
+  href: http://oreilly.com
+
+- name: O'Reilly Media
+  url: http://allperlbooks.com/publisher/oreilly
+  href: http://oreilly.com
+
+- name: Onyx Neon Press
+  url: http://allperlbooks.com/publisher/onyxneon
+  href: http://onyxneon.com
+
+- name: Osborne Publishing
+  url: http://allperlbooks.com/publisher/osborne
+
+- name: Oxford University Press
+  url: http://allperlbooks.com/publisher/oxford
+  href: http://oup.com
+
+- name: Packt Publishing
+  url: http://allperlbooks.com/publisher/packt
+  href: https://packtpub.com
+
+- name: Panem Könyvkiadó
+  url: http://allperlbooks.com/publisher/panem
+  href: http://panem.hu
+
+- name: Paraglyph Press
+  url: http://allperlbooks.com/publisher/paraglyph
+
+- name: Peachpit Press
+  url: http://allperlbooks.com/publisher/peachpit
+  href: http://peachpit.com
+
+- name: Pearson
+  url: http://allperlbooks.com/publisher/pearson
+  href: http://pearson.com
+
+- name: Plain Black Corporation
+  url: http://allperlbooks.com/publisher/plain-black-corporation
+  href: http://plainblack.com
+
+- name: Premier Press
+  url: http://allperlbooks.com/publisher/premier-press
+  href: http://premierpress.com
+
+- name: Prentice Hall PTR
+  url: http://allperlbooks.com/publisher/prentice-hall
+  href: http://prenticehall.com
+
+- name: Prime Time Freeware
+  url: http://allperlbooks.com/publisher/ptf
+  href: http://ptf.com
+
+- name: Publishers Group West
+  url: http://allperlbooks.com/publisher/pgw
+  href: http://pgw.com
+
+- name: Que
+  url: http://allperlbooks.com/publisher/que
+  href: http://quepublishing.com
+
+- name: SAMS
+  url: http://allperlbooks.com/publisher/sams
+  href: http://informit.com/sams
+
+- name: Springer
+  url: http://allperlbooks.com/publisher/springer
+  href: http://springer.com
+
+- name: Sun
+  url: http://allperlbooks.com/publisher/sun
+
+- name: Sybex Inc.
+  url: http://allperlbooks.com/publisher/sybex
+
+- name: Universal Publishers
+  url: http://allperlbooks.com/publisher/universal-publishers
+  href: http://universal-publishers.com
+
+- name: Van Nostrand Reinhold
+  url: http://allperlbooks.com/publisher/van-nostrand-reinhold
+
+- name: Ventana Press
+  url: http://allperlbooks.com/publisher/ventana
+
+- name: Vibrant Publishers
+  url: http://allperlbooks.com/publisher/vibrant-publishers
+  href: http://vibrantpublishers.com
+
+- name: Waite Group Press
+  url: http://allperlbooks.com/publisher/waite
+
+- name: Wiley
+  url: http://allperlbooks.com/publisher/wiley
+  href: http://wiley.com
+
+- name: Wiley-Blackwell
+  url: http://allperlbooks.com/publisher/wiley-blackwell
+  href: http://wiley.com/wiley-blackwell
+
+- name: Wrox Press
+  url: http://allperlbooks.com/publisher/wrox
+  href: http://wrox.com
+
+- name: Xlibris
+  url: http://allperlbooks.com/publisher/xlibris
+  href: http://xlibris.com
+
+- name: Ziff Davis Press
+  url: http://allperlbooks.com/publisher/ziff-davis
+  href: https://ziffdavis.com
+
+- name: Питер
+  url: http://allperlbooks.com/publisher/piter
+  href: http://piter.com
+
+- name: Символ-плюс
+  url: http://allperlbooks.com/publisher/symbol
+  href: http://symbol.ru
+
