@@ -3101,6 +3101,7 @@
   pages: 128
   pubdate: 2005-08-00
   edition: 2
+  tag: Pocket edition
   url: http://allperlbooks.com/book/fr/perl-pour-l-impatient
 
 - title: Perl pro zelenáče
@@ -3183,6 +3184,7 @@
   pubdate: 1998-11-00
   edition: 1
   tag: Graphics
+  tag: Pocket edition
   url: http://allperlbooks.com/book/en/perl-tk-pocket-reference
 
 - title: Perl: A Beginner's Guide
