@@ -1972,7 +1972,7 @@
   parent: http://allperlbooks.com/book/hu/perl-1
 
 - title: Perl
-  language: nl
+  language: de
   author: Dennis Schaaf
   publisher: bhv
   isbn13: 978-3-8266-8035-9
@@ -1981,7 +1981,7 @@
   pubdate: 2000-05-23
   edition: 1
   tag: Pearl
-  url: http://allperlbooks.com/book/nl/perl-nl-schaaf
+  url: http://allperlbooks.com/book/de/perl-nl-schaaf
 
 - title: Perl
   language: fr
