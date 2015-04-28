@@ -2021,6 +2021,18 @@
   edition: 1
   url: http://allperlbooks.com/book/de/easy-perl
 
+- title: Perl 5 Complete
+  language: en
+  author: Edward S. Peschko
+  author: Michelle DeWolfe
+  publisher: McGraw-Hill Companies
+  isbn13: 978-0-07-913698-5
+  isbn10: 0-07-913698-2
+  pages: 1062
+  pubdate: 1998-01-06
+  edition: 1
+  url: http://allperlbooks.com/book/en/perl5-complete
+
 - title: Perl 5 Desktop Reference
   language: en
   author: Johan Vromans
@@ -2580,6 +2592,8 @@
   pubdate: 2010-10-29
   edition: 1
   tag: Modern Perl
+  homepage: http://perlmoderne.fr/
+  publisher's page: http://www.pearson.fr/livre/?GCOI=27440100979970
   url: http://allperlbooks.com/book/fr/perl-moderne
 
 - title: Perl Modules
