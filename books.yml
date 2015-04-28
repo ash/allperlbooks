@@ -4669,6 +4669,7 @@
   edition: 1
   tag: CGI
   tag: Web
+  homepage: http://modperl2book.org/
   url: http://allperlbooks.com/book/en/mod_perl-2-users-guide
 
 - title: mod_perl Developer's Cookbook
