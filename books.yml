@@ -3355,6 +3355,7 @@
   edition: 1
   tag: Web
   tag: CGI
+  homepage: http://modperlbook.org/
   url: http://allperlbooks.com/book/en/practical-mod_perl
 
 - title: Pro Perl
