@@ -21,6 +21,10 @@
   url: http://allperlbooks.com/publisher/aracne
   href: http://aracneeditrice.it
 
+- name: Éditions O'Reilly
+  url: http://allperlbooks.com/publisher/editions-oreilly
+  href: http://www.editions-oreilly.fr
+
 - name: bhv
   url: http://allperlbooks.com/publisher/bhv
   href: http://bhv.de

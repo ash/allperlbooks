@@ -699,6 +699,7 @@
   pubdate: 2006-06-22
   edition: 1
   tag: System administration
+  tag: Apache
   url: http://allperlbooks.com/book/en/configuration-of-apache-server-to-support-php-and-perl-and-mysql
 
 - title: Core Perl
@@ -864,6 +865,7 @@
   edition: 1
   tag: Web
   tag: Databases
+  tag: Apache
   url: http://allperlbooks.com/book/en/developing-web-applications-with-apache-mysql-memcached-and-perl
 
 - title: Drag 'N' Drop CGI
@@ -1044,6 +1046,18 @@
   edition: 1
   tag: Bioinformatics
   url: http://allperlbooks.com/book/en/genomics-and-bioinformatics
+
+- title: Go To Perl 5
+  language: de
+  subtitle: Perl schnell und effektiv beherrschen
+  author: Michael Schilli
+  publisher: Addison-Wesley
+  isbn13: 978-3-8273-1378-2
+  isbn10: 3-8273-1378-3
+  pages: 488
+  pubdate: 1998-06-15
+  edition: 1
+  url: http://allperlbooks.com/book/de/go-to-perl5
 
 - title: Graphics Programming with Perl
   language: en
@@ -1502,6 +1516,20 @@
   tag: Graphics
   url: http://allperlbooks.com/book/en/learning-perl-tk
 
+- title: Les meilleurs bibliothèques pour Perl
+  language: fr
+  subtitle: Les pépites du CPAN
+  author: Hervé Perdry
+  author: Stéphane Tougard
+  publisher: H&K
+  isbn13: 978-2-914010-86-3
+  isbn10: 2-914010-86-9
+  pages: 125
+  pubdate: 2006-00-00
+  edition: 1
+  tag: Pocket edition
+  url: http://allperlbooks.com/book/fr/les-meilleurs-biblioth-ques-pour-perl
+
 - title: MacPerl
   language: en
   subtitle: Power and Ease
@@ -1867,6 +1895,21 @@
   tag: Web
   tag: Unixes
   url: http://allperlbooks.com/book/en/open-source-web-development-with-lamp
+
+- title: Open Sources
+  language: en
+  subtitle: Voices from the Open Source Revolution
+  author: Chris DiBona
+  author: Sam Ockman
+  author: Mark Stone
+  publisher: O'Reilly & Associates, Inc.
+  isbn13: 978-1-56592-582-3
+  isbn10: 1-56592-582-3
+  pages: 272
+  pubdate: 1999-00-00
+  edition: 1
+  tag: Interviews
+  url: http://allperlbooks.com/book/en/open-sources
 
 - title: PERLinguisti v0.7.6.
   language: it
@@ -2252,6 +2295,21 @@
   pubdate: 2000-10-00
   edition: 1
   url: http://allperlbooks.com/book/nl/perl5-in-24-uur
+
+- title: Perl 5 précis & concis
+  language: fr
+  author: Johan Vromans
+  translator: Kai Carver
+  publisher: Éditions O'Reilly
+  series: Mémento du Perliste
+  isbn13: 978-2-84177-153-0
+  isbn10: 2-84177-153-9
+  pages: 102
+  pubdate: 2002-00-00
+  edition: 3
+  tag: Pocket edition
+  url: http://allperlbooks.com/book/fr/perl5-precis-and-concis-3
+  parent: http://allperlbooks.com/book/en/perl5-pocket-reference
 
 - title: Perl 6 Essentials
   language: en
@@ -2796,6 +2854,7 @@
   pubdate: 2010-10-00
   edition: 1
   tag: Web
+  tag: Apache
   url: http://allperlbooks.com/book/en/perl-and-apache
 
 - title: Perl and CGI for the World Wide Web
@@ -3130,6 +3189,21 @@
   edition: 2
   url: http://allperlbooks.com/book/cs/perl-pro-zelenace
 
+- title: Perl précis & concis
+  language: fr
+  author: Johan Vromans
+  translator: Stéphane Payrard
+  publisher: Éditions O'Reilly
+  series: Mémento du Perliste
+  isbn13: 978-2-84177-253-7
+  isbn10: 2-84177-253-5
+  pages: 93
+  pubdate: 2003-00-00
+  edition: 4
+  tag: Pocket edition
+  url: http://allperlbooks.com/book/fr/perl-precis-concis-4
+  parent: http://allperlbooks.com/book/en/perl5-pocket-reference
+
 - title: Perl to Python Migration
   language: en
   author: Martin C. Brown
@@ -3441,6 +3515,38 @@
   edition: 1
   url: http://allperlbooks.com/book/en/professional-perl-programming
 
+- title: Programmation CGI
+  language: fr
+  subtitle: Exemples en Perl
+  author: Shishir Gundavaram
+  translator: Manuel Makárevitch
+  translator: Nat Makárevitch
+  publisher: Éditions O'Reilly
+  isbn13: 978-2-84177-011-3
+  isbn10: 2-84177-011-7
+  pages: 435
+  pubdate: 1996-00-00
+  edition: 1
+  tag: CGI
+  tag: Web
+  url: http://allperlbooks.com/book/fr/programmation-cgi
+  parent: http://allperlbooks.com/book/en/cgi-progamming-with-perl
+
+- title: Programmation en Perl
+  language: fr
+  author: Larry Wall
+  author: Tom Christiansen
+  author: Randal L. Schwartz
+  translator: Jean Zundel
+  publisher: Éditions O'Reilly
+  isbn13: 978-2-84177-004-5
+  isbn10: 2-84177-004-4
+  pages: 661
+  pubdate: 1996-00-00
+  edition: 2
+  url: http://allperlbooks.com/book/fr/programmation-en-perl-2
+  parent: http://allperlbooks.com/book/en/programming-perl
+
 - title: Programmation en Perl
   language: fr
   subtitle: There's More Than One Way To Do It
@@ -3505,6 +3611,20 @@
   pubdate: 1991-01-00
   edition: 1
   url: http://allperlbooks.com/book/en/programming-perl
+
+- title: Programming Perl
+  language: en
+  subtitle: Quick Reference Guide
+  author: Johan Vromans
+  publisher: O'Reilly & Associates, Inc.
+  isbn13: 
+  isbn10: 
+  pages: 19
+  pubdate: 1991-01-00
+  edition: 1
+  tag: Pocket edition
+  url: http://allperlbooks.com/book/en/programming-perl-quick-reference-guide
+  parent: http://allperlbooks.com/book/en/perl5-pocket-reference
 
 - title: Programming Perl
   language: en
@@ -4206,6 +4326,7 @@
   tag: Web
   tag: Databases
   tag: Unixes
+  tag: Apache
   url: http://allperlbooks.com/book/en/using-linux-apache-mysql-php-perl-on-linux
 
 - title: Using Perl 5 for Web Programming
@@ -4289,6 +4410,7 @@
   pubdate: 2002-00-00
   edition: 1
   tag: Web
+  tag: Apache
   url: http://allperlbooks.com/book/en/web-development-with-apache-and-perl
 
 - title: Web Programming
@@ -4543,6 +4665,22 @@
   tag: Windows
   tag: System administration
   url: http://allperlbooks.com/book/en/win32-perl-cripting
+
+- title: Writing Apache Modules with Perl and C
+  language: en
+  subtitle: The Apache API and mod_perl
+  author: Lincoln Stein
+  author: Doug MacEachern
+  publisher: O'Reilly & Associates, Inc.
+  isbn13: 978-1-56592-567-0
+  isbn10: 1-56592-567-X
+  pages: 724
+  pubdate: 1999-00-00
+  edition: 1
+  tag: Apache
+  tag: Web
+  tag: CGI
+  url: http://allperlbooks.com/book/en/writing-apache-modules-with-perl-and-c
 
 - title: Writing CGI Applications with Perl
   language: en

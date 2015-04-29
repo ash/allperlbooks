@@ -1,3 +1,7 @@
+- tag: Apache
+  synonyms: mod_perl cgi
+  url: http://allperlbooks.com/tag/apache
+
 - tag: Bioinformatics
   synonyms: bio medicine gene genes genome dna biology bioinformatic
   url: http://allperlbooks.com/tag/bioinformatics

@@ -381,6 +381,11 @@
   lastname: DeWolfe
   url: http://allperlbooks.com/author/michelle-dewolfe
 
+- name: Chris DiBona
+  firstname: Chris
+  lastname: DiBona
+  url: http://allperlbooks.com/author/chris-dibona
+
 - name: Carl Dichter
   firstname: Carl
   lastname: Dichter
@@ -936,6 +941,11 @@
   lastname: Macdonald
   url: http://allperlbooks.com/author/john-macdonald
 
+- name: Doug MacEachern
+  firstname: Doug
+  lastname: MacEachern
+  url: http://allperlbooks.com/author/doug-maceachern
+
 - name: Tim Maher
   firstname: Tim
   lastname: Maher
@@ -945,6 +955,16 @@
   firstname: Saman
   lastname: Majeed
   url: http://allperlbooks.com/author/saman-majeed
+
+- name: Manuel Makárevitch
+  firstname: Manuel
+  lastname: Makárevitch
+  url: http://allperlbooks.com/author/manuel-makarevitch
+
+- name: Nat Makárevitch
+  firstname: Nat
+  lastname: Makárevitch
+  url: http://allperlbooks.com/author/nat-makarevitch
 
 - name: Michael Mangelsdorf
   firstname: Michael
@@ -1106,6 +1126,11 @@
   lastname: Oberg
   url: http://allperlbooks.com/author/robert-j-oberg
 
+- name: Sam Ockman
+  firstname: Sam
+  lastname: Ockman
+  url: http://allperlbooks.com/author/sam-ockman
+
 - name: Simon Oliver
   firstname: Simon
   lastname: Oliver
@@ -1136,6 +1161,11 @@
   lastname: Patchett
   url: http://allperlbooks.com/author/craig-patchett
 
+- name: Stéphane Payrard
+  firstname: Stéphane
+  lastname: Payrard
+  url: http://allperlbooks.com/author/stephane-payrard
+
 - name: Mark Pease
   firstname: Mark
   lastname: Pease
@@ -1150,6 +1180,11 @@
   firstname: Jason
   lastname: Pellerin
   url: http://allperlbooks.com/author/jason-pellerin
+
+- name: Hervé Perdry
+  firstname: Hervé
+  lastname: Perdry
+  url: http://allperlbooks.com/author/herve-perdry
 
 - name: Edward S. Peschko
   firstname: Edward S.
@@ -1407,6 +1442,11 @@
   lastname: Still
   url: http://allperlbooks.com/author/jared-still
 
+- name: Mark Stone
+  firstname: Mark
+  lastname: Stone
+  url: http://allperlbooks.com/author/mark-stone
+
 - name: Erik Strom
   firstname: Erik
   lastname: Strom
@@ -1651,4 +1691,9 @@
   firstname: Tony
   lastname: Zhang
   url: http://allperlbooks.com/author/tony-zhang
+
+- name: Jean Zundel
+  firstname: Jean
+  lastname: Zundel
+  url: http://allperlbooks.com/author/jean-zundel
 
