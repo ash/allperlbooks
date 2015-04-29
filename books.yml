@@ -3530,7 +3530,7 @@
   tag: CGI
   tag: Web
   url: http://allperlbooks.com/book/fr/programmation-cgi
-  parent: http://allperlbooks.com/book/en/cgi-progamming-with-perl
+  parent: http://allperlbooks.com/book/en/cgi-programming-of-the-world-wide-web
 
 - title: Programmation en Perl
   language: fr
