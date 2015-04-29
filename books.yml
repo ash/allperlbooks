@@ -2469,6 +2469,21 @@
   tag: Databases
   url: http://allperlbooks.com/book/en/perl-database-programming
 
+- title: Perl DBI le guide du développeur
+  language: fr
+  subtitle: Programmation de bases de données en Perl
+  author: Alligator Descartes
+  author: Tim Bunce
+  translator: Éric Jacoboni
+  publisher: Éditions O'Reilly
+  isbn13: 978-2-84177-131-8
+  isbn10: 2-84177-131-8
+  pages: 372
+  pubdate: 2000-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/fr/perl-dbi-le-guide-du-developpeur
+  parent: http://allperlbooks.com/book/en/programming-the-perl-dbi
+
 - title: Perl Debugged
   language: en
   author: Peter J. Scott
