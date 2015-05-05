@@ -1047,7 +1047,7 @@
   tag: Bioinformatics
   url: http://allperlbooks.com/book/en/genomics-and-bioinformatics
 
-- title: Go To Perl 5
+- title: Go to Perl 5
   language: de
   subtitle: Perl schnell und effektiv beherrschen
   author: Michael Schilli
@@ -1976,6 +1976,21 @@
   edition: 1
   tag: XML
   url: http://allperlbooks.com/book/en/perl-and-xml
+
+- title: Perl & XML
+  language: ru
+  author: Erik T. Ray
+  author: Jason McIntosh
+  publisher: Питер
+  series: Библиотека программиста
+  isbn13: 978-5-94723-482-4
+  isbn10: 5-94723-482-3
+  pages: 208
+  pubdate: 2003-02-00
+  edition: 1
+  tag: XML
+  url: http://allperlbooks.com/book/ru/perl-and-xml-ru
+  parent: http://allperlbooks.com/book/en/perl-and-xml
 
 - title: Perl
   language: en
@@ -3262,6 +3277,19 @@
   edition: 1
   url: http://allperlbooks.com/book/de/perl-meisterkurs
 
+- title: Perl. Ар&#x0445;ив программ
+  language: ru
+  subtitle: Код с комментариями
+  author: Martin C. Brown
+  publisher: Бином
+  isbn13: 978-5-7989-0204-0
+  isbn10: 5-7989-0204-8
+  pages: 720
+  pubdate: 2001-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/ru/perl-annotated-archives-ru
+  parent: http://allperlbooks.com/book/en/perl-annotated-archives
+
 - title: Perl/Tk Pocket Reference
   language: en
   author: Stephen Lidie
@@ -3327,8 +3355,22 @@
   language: ru
   author: Tom Christiansen
   author: Nathan Torkington
+  foreword: Larry Wall
   publisher: Питер
-  isbn13: 
+  isbn13: 978-5-8046-0094-6
+  isbn10: 5-8046-0094-X
+  pages: 736
+  pubdate: 2000-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/ru/perl-cookbook-ru-2000
+  parent: http://allperlbooks.com/book/en/perl-cookbook
+
+- title: Perl: библиотека программиста
+  language: ru
+  author: Tom Christiansen
+  author: Nathan Torkington
+  publisher: Питер
+  isbn13: 978-5-8046-0094-6
   isbn10: 5-8046-0094-X
   pages: 736
   pubdate: 2000-04-14
@@ -3374,8 +3416,8 @@
   isbn10: 986-6840-28-X
   pages: 364
   pubdate: 2008-10-00
-  edition: 1
-  url: http://allperlbooks.com/book/zh/learning-perl-zh-5
+  edition: 6
+  url: http://allperlbooks.com/book/zh/learning-perl-zh-6
   parent: http://allperlbooks.com/book/en/learning-perl
 
 - title: Pocket Perl
@@ -4854,4 +4896,18 @@
   edition: 5
   url: http://allperlbooks.com/book/ru/learning-perl-5-ru
   parent: http://allperlbooks.com/book/en/learning-perl
+
+- title: Программирование на Perl DBI
+  language: ru
+  author: Alligator Descartes
+  author: Tim Bunce
+  publisher: Символ-плюс
+  isbn13: 978-5-93286-013-7
+  isbn10: 5-93286-013-8
+  pages: 400
+  pubdate: 2000-00-00
+  edition: 1
+  tag: Databases
+  url: http://allperlbooks.com/book/ru/perl-dbi-ru
+  parent: http://allperlbooks.com/book/en/programming-the-perl-dbi
 
