@@ -13,6 +13,9 @@
   url: http://allperlbooks.com/publisher/alfa
   href: http://alfakitap.com
 
+- name: Anaya Multimedia
+  url: http://allperlbooks.com/publisher/anaya
+
 - name: APOGEO S.r.L.
   url: http://allperlbooks.com/publisher/apogeo
   href: http://apogeonline.com
@@ -294,6 +297,13 @@
 - name: Sybex Inc.
   url: http://allperlbooks.com/publisher/sybex
 
+- name: The Perl Journal
+  url: http://allperlbooks.com/publisher/tpj
+
+- name: The Perl Review
+  url: http://allperlbooks.com/publisher/theperlreview
+  href: http://theperlreview.com
+
 - name: Universal Publishers
   url: http://allperlbooks.com/publisher/universal-publishers
   href: http://universal-publishers.com
@@ -338,6 +348,10 @@
 - name: Символ-плюс
   url: http://allperlbooks.com/publisher/symbol
   href: http://symbol.ru
+
+- name: ЗеСТ Прес
+  url: http://allperlbooks.com/publisher/zest-press
+  href: http://zest-press.com
 
 - name: Бином
   url: http://allperlbooks.com/publisher/binom

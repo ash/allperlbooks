@@ -995,7 +995,7 @@
   series: Schritt für Schritt
   isbn13: 978-3-86899-940-2
   isbn10: 3-86899-940-X
-  pages: 0
+  pages: 156
   pubdate: 2012-12-00
   edition: 1
   tag: Regular expressions
@@ -3434,6 +3434,19 @@
   url: http://allperlbooks.com/book/tr/perl-i-internet-programciligi
   parent: http://allperlbooks.com/book/en/teach-yourself-perl-in-24-hours
 
+- title: Perl — introduccion al desarrollo web
+  language: es
+  author: Steve Suehring
+  publisher: Anaya Multimedia
+  isbn13: 978-84-415-2023-3
+  isbn10: 84-415-2023-2
+  pages: 400
+  pubdate: 2008-09-01
+  edition: 1
+  tag: Web
+  url: http://allperlbooks.com/book/es/perl-introduccion-al-desarrollo-web
+  parent: http://allperlbooks.com/book/en/beginning-perl-web-development
+
 - title: Perl!: I Didn't Know You Could Do That...
   language: en
   author: Martin C. Brown
@@ -4650,6 +4663,435 @@
   tag: Interviews
   url: http://allperlbooks.com/book/en/the-perl-community
 
+- title: The Perl Journal
+  language: en
+  subtitle: November 2002
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 28
+  pubdate: 2002-11-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-0211
+
+- title: The Perl Journal
+  language: en
+  subtitle: December 2002
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 27
+  pubdate: 2002-12-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-02-12
+
+- title: The Perl Journal
+  language: en
+  subtitle: January 2003
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 33
+  pubdate: 2003-01-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-03-01
+
+- title: The Perl Journal
+  language: en
+  subtitle: February 2003
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 26
+  pubdate: 2003-02-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-03-02
+
+- title: The Perl Journal
+  language: en
+  subtitle: March 2003
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 36
+  pubdate: 2003-03-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-03-03
+
+- title: The Perl Journal
+  language: en
+  subtitle: April 2004
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 28
+  pubdate: 2003-04-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-03-04
+
+- title: The Perl Journal
+  language: en
+  subtitle: May 2003
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 26
+  pubdate: 2003-05-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-03-05
+
+- title: The Perl Journal
+  language: en
+  subtitle: June 2003
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 34
+  pubdate: 2003-06-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-03-06
+
+- title: The Perl Journal
+  language: en
+  subtitle: July 2003
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 25
+  pubdate: 2003-07-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-03-07
+
+- title: The Perl Journal
+  language: en
+  subtitle: August 2003
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 26
+  pubdate: 2003-08-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-03-08
+
+- title: The Perl Journal
+  language: en
+  subtitle: September 2003
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 18
+  pubdate: 2003-09-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-03-09
+
+- title: The Perl Journal
+  language: en
+  subtitle: October 2003
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 25
+  pubdate: 2003-10-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-03-10
+
+- title: The Perl Journal
+  language: en
+  subtitle: November 2003
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 27
+  pubdate: 2003-11-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-03-11
+
+- title: The Perl Journal
+  language: en
+  subtitle: December 2003
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 25
+  pubdate: 2003-12-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-03-12
+
+- title: The Perl Journal
+  language: en
+  subtitle: January 2004
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 24
+  pubdate: 2004-01-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-04-01
+
+- title: The Perl Journal
+  language: en
+  subtitle: February 2004
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 26
+  pubdate: 2004-02-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-04-02
+
+- title: The Perl Journal
+  language: en
+  subtitle: March 2004
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 32
+  pubdate: 2004-03-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-04-03
+
+- title: The Perl Journal
+  language: en
+  subtitle: April 2004
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 29
+  pubdate: 2004-04-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-04-04
+
+- title: The Perl Journal
+  language: en
+  subtitle: May 2004
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 21
+  pubdate: 2004-05-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-04-05
+
+- title: The Perl Journal
+  language: en
+  subtitle: June 2004
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 24
+  pubdate: 2004-06-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-04-06
+
+- title: The Perl Journal
+  language: en
+  subtitle: July 2004
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 23
+  pubdate: 2004-07-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-04-07
+
+- title: The Perl Journal
+  language: en
+  subtitle: August 2004
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 25
+  pubdate: 2004-08-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-04-08
+
+- title: The Perl Journal
+  language: en
+  subtitle: September 2004
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 23
+  pubdate: 2004-09-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-04-09
+
+- title: The Perl Journal
+  language: en
+  subtitle: October 2004
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 19
+  pubdate: 2004-10-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-04-10
+
+- title: The Perl Journal
+  language: en
+  subtitle: November 2004
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 24
+  pubdate: 2004-11-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-04-11
+
+- title: The Perl Journal
+  language: en
+  subtitle: December 2004
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 27
+  pubdate: 2004-12-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal
+
+- title: The Perl Journal
+  language: en
+  subtitle: January 2005
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 20
+  pubdate: 2005-01-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-05-01
+
+- title: The Perl Journal
+  language: en
+  subtitle: February 2005
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 16
+  pubdate: 2005-02-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-05-02
+
+- title: The Perl Journal
+  language: en
+  subtitle: March 2005
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 24
+  pubdate: 2005-03-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-05-03
+
+- title: The Perl Journal
+  language: en
+  subtitle: April 2005
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 22
+  pubdate: 2005-04-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-05-04
+
+- title: The Perl Review Volume 3 Issue 2
+  language: en
+  subtitle: Spring 2007
+  publisher: The Perl Review
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2007-03-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-review-issue-3-2
+
+- title: The Perl Review Volume 3 Issue 3
+  language: en
+  subtitle: Summer 2007
+  publisher: The Perl Review
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2007-06-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-review-issue-3-3
+
+- title: The Perl Review Volume 4 Issue 0
+  language: en
+  subtitle: Fall 2007
+  publisher: The Perl Review
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2007-09-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-review-issue-4-0
+
+- title: The Perl Review Volume 4 Issue 1
+  language: en
+  subtitle: Winter 2007
+  publisher: The Perl Review
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2007-12-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-review-issue-4-1
+
+- title: The Perl Review Volume 4 Issue 2
+  language: en
+  subtitle: Spring 2008
+  publisher: The Perl Review
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2008-03-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-review-issue-4-2
+
+- title: The Perl Review Volume 4 Issue 3
+  language: en
+  subtitle: Summer 2008
+  publisher: The Perl Review
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2008-06-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-review-issue-4-3
+
+- title: The Perl Review Volume 5 Issue 0
+  language: en
+  subtitle: Fall 2008
+  publisher: The Perl Review
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2008-09-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-review-issue-5-0
+
+- title: The Perl Review Volume 5 Issue 1
+  language: en
+  subtitle: Winter 2008
+  publisher: The Perl Review
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2008-12-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-review-issue-5-1
+
+- title: The Perl Review Volume 5 Issue 2
+  language: en
+  subtitle: Spring 2009
+  publisher: The Perl Review
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2009-03-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-review-issue-5-2
+
 - title: The Web Wizard's Guide to Perl and CGI
   language: en
   author: David A. Lash
@@ -5275,6 +5717,21 @@
   tag: CGI
   tag: Pocket edition
   url: http://allperlbooks.com/book/en/mod_perl-pocket-reference
+
+- title: Да научим Perl
+  language: bg
+  subtitle: Направете лесните неща още по-лесни, а трудните — възможни
+  author: Randal L. Schwartz
+  author: Tom Phoenix
+  author: brian d foy
+  publisher: ЗеСТ Прес
+  isbn13: 978-954-93412-7-0
+  isbn10: 954-93412-7-5
+  pages: 330
+  pubdate: 2009-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/bg/learning-perl-bg
+  parent: http://allperlbooks.com/book/en/learning-perl
 
 - title: Изучаем Perl
   language: ru
