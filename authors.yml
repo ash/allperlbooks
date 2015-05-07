@@ -416,6 +416,11 @@
   lastname: Diment
   url: http://allperlbooks.com/author/kieren-diment
 
+- name: John Dixon
+  firstname: John
+  lastname: Dixon
+  url: http://allperlbooks.com/author/john-dixon
+
 - name: Mark Jason Dominus
   firstname: Mark Jason
   lastname: Dominus
@@ -795,6 +800,11 @@
   firstname: Jugal K.
   lastname: Kalita
   url: http://allperlbooks.com/author/jugal-k-kalita
+
+- name: Andreas Karrer
+  firstname: Andreas
+  lastname: Karrer
+  url: http://allperlbooks.com/author/andreas-karrer
 
 - name: Chris Kemp
   firstname: Chris
@@ -1397,6 +1407,11 @@
   lastname: Schilli
   url: http://allperlbooks.com/author/michael-schilli
 
+- name: Jürgen Schröter
+  firstname: Jürgen
+  lastname: Schröter
+  url: http://allperlbooks.com/author/jurgen-schroter
+
 - name: Randal L. Schwartz
   firstname: Randal L.
   lastname: Schwartz
@@ -1411,6 +1426,11 @@
   firstname: Robert W.
   lastname: Sebesta
   url: http://allperlbooks.com/author/robert-w-sebesta
+
+- name: Helmut Seidel
+  firstname: Helmut
+  lastname: Seidel
+  url: http://allperlbooks.com/author/helmut-seidel
 
 - name: Ian Shadforth
   firstname: Ian

@@ -487,7 +487,7 @@
   author: Shishir Gundavaram
   author: Gunther Birznieks
   translator: Jørgen W. Lang
-  publisher: O'Reilly Media
+  publisher: O'Reilly Verlag GmbH
   isbn13: 978-3-89721-167-4
   isbn10: 3-89721-167-X
   pages: 500
@@ -640,6 +640,22 @@
   tag: CGI
   tag: Web
   url: http://allperlbooks.com/book/en/cgi-for-commerce
+
+- title: CGI-Anwendungen mit Perl
+  language: de
+  author: Kevin Meltzer
+  author: Brent Michalski
+  foreword: Lincoln Stein
+  publisher: Addison-Wesley
+  isbn13: 978-3-8273-1896-1
+  isbn10: 3-8273-1896-3
+  pages: 512
+  pubdate: 2001-10-15
+  edition: 1
+  tag: CGI
+  tag: Web
+  url: http://allperlbooks.com/book/de/cgi-anwendungen-mit-perl
+  parent: http://allperlbooks.com/book/en/writing-cgi-applications-with-perl
 
 - title: CGI/Perl
   language: en
@@ -3009,6 +3025,19 @@
   url: http://allperlbooks.com/book/en/perl-and-cgi-for-the-world-wide-web-2
   parent: http://allperlbooks.com/book/en/perl-and-cgi-for-the-world-wide-web
 
+- title: Perl and Regular Expressions Quick Start Workbook
+  language: en
+  author: John Dixon
+  publisher: QuickStartWorkbook
+  isbn13: 
+  isbn10: 
+  pages: 105
+  pubdate: 2015-05-22
+  edition: 1
+  tag: Regular expressions
+  publisher's page: http://www.quickstartworkbook.com/download-using-perl-and-regular-expressions-to-process-files-quick-start-workbook.php
+  url: http://allperlbooks.com/book/en/perl-and-regular-expressions-quick-start-workbook
+
 - title: Perl by Example
   language: en
   author: Ellie Quigley
@@ -3324,7 +3353,7 @@
   isbn13: 978-2-7462-1635-8
   isbn10: 2-7462-1635-3
   pages: 504
-  pubdate: 2007-15-09
+  pubdate: 2007-09-15
   edition: 1
   tag: Linguistics
   url: http://allperlbooks.com/book/fr/perl-pour-les-linguistes
@@ -3491,6 +3520,18 @@
   edition: 1
   url: http://allperlbooks.com/book/en/perl-a-beginners-guide
 
+- title: Perl: Grundlagen und effektive Strategien
+  language: de
+  author: Jürgen Schröter
+  author: Helmut Seidel
+  publisher: Oldenbourg Wissenschaftsverlag
+  isbn13: 978-3-486-25889-9
+  isbn10: 3-486-25889-3
+  pages: 353
+  pubdate: 2003-09-04
+  edition: 1
+  url: http://allperlbooks.com/book/de/perl-grundlagen-und-effektive-strategien
+
 - title: Perl: The Complete Reference
   language: en
   author: Martin C. Brown
@@ -3648,6 +3689,171 @@
   tag: CGI
   homepage: http://modperlbook.org/
   url: http://allperlbooks.com/book/en/practical-mod_perl
+
+- title: Pragmatic Perl #13
+  language: ru
+  publisher: Pragmatic Perl
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2014-03-00
+  edition: 1
+  homepage: http://pragmaticperl.com/issues/13
+  url: http://allperlbooks.com/book/ru/pragmatic-perl-13
+
+- title: Pragmatic Perl #14
+  language: ru
+  publisher: Pragmatic Perl
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2014-04-00
+  edition: 1
+  homepage: http://pragmaticperl.com/issues/14
+  url: http://allperlbooks.com/book/ru/pragmatic-perl-14
+
+- title: Pragmatic Perl #15
+  language: ru
+  publisher: Pragmatic Perl
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2014-05-00
+  edition: 1
+  homepage: http://pragmaticperl.com/issues/15
+  url: http://allperlbooks.com/book/ru/pragmatic-perl-15
+
+- title: Pragmatic Perl #16
+  language: ru
+  publisher: Pragmatic Perl
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2014-06-00
+  edition: 1
+  homepage: http://pragmaticperl.com/issues/16
+  url: http://allperlbooks.com/book/ru/pragmatic-perl-16
+
+- title: Pragmatic Perl #17
+  language: ru
+  publisher: Pragmatic Perl
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2014-07-00
+  edition: 1
+  homepage: http://pragmaticperl.com/issues/17
+  url: http://allperlbooks.com/book/ru/pragmatic-perl-17
+
+- title: Pragmatic Perl #18
+  language: ru
+  publisher: Pragmatic Perl
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2014-08-00
+  edition: 1
+  homepage: http://pragmaticperl.com/issues/18
+  url: http://allperlbooks.com/book/ru/pragmatic-perl-18
+
+- title: Pragmatic Perl #19
+  language: ru
+  publisher: Pragmatic Perl
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2014-09-00
+  edition: 1
+  homepage: http://pragmaticperl.com/issues/19
+  url: http://allperlbooks.com/book/ru/pragmatic-perl-19
+
+- title: Pragmatic Perl #20
+  language: ru
+  publisher: Pragmatic Perl
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2014-10-00
+  edition: 1
+  homepage: http://pragmaticperl.com/issues/20
+  url: http://allperlbooks.com/book/ru/pragmatic-perl-20
+
+- title: Pragmatic Perl #21
+  language: ru
+  publisher: Pragmatic Perl
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2014-11-00
+  edition: 1
+  homepage: http://pragmaticperl.com/issues/21
+  url: http://allperlbooks.com/book/ru/pragmatic-perl-21
+
+- title: Pragmatic Perl #22
+  language: ru
+  publisher: Pragmatic Perl
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2014-12-00
+  edition: 1
+  homepage: http://pragmaticperl.com/issues/22
+  url: http://allperlbooks.com/book/ru/pragmatic-perl-22
+
+- title: Pragmatic Perl #23
+  language: ru
+  publisher: Pragmatic Perl
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2015-01-00
+  edition: 1
+  homepage: http://pragmaticperl.com/issues/23
+  url: http://allperlbooks.com/book/ru/pragmatic-perl-23
+
+- title: Pragmatic Perl #24
+  language: ru
+  publisher: Pragmatic Perl
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2015-02-00
+  edition: 1
+  homepage: http://pragmaticperl.com/issues/24
+  url: http://allperlbooks.com/book/ru/pragmatic-perl-24
+
+- title: Pragmatic Perl #25
+  language: ru
+  publisher: Pragmatic Perl
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2015-03-00
+  edition: 1
+  homepage: http://pragmaticperl.com/issues/25
+  url: http://allperlbooks.com/book/ru/pragmatic-perl-25
+
+- title: Pragmatic Perl #26
+  language: ru
+  publisher: Pragmatic Perl
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2015-04-00
+  edition: 1
+  homepage: http://pragmaticperl.com/issues/26
+  url: http://allperlbooks.com/book/ru/pragmatic-perl-26
+
+- title: Pragmatic Perl #27
+  language: ru
+  publisher: Pragmatic Perl
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2015-05-00
+  edition: 1
+  homepage: http://pragmaticperl.com/issues/27
+  url: http://allperlbooks.com/book/ru/pragmatic-perl-27
 
 - title: Pro Perl
   language: en
@@ -4119,6 +4325,19 @@
   edition: 1
   tag: Regular expressions
   url: http://allperlbooks.com/book/en/regular-expressions-in-10-minutes
+
+- title: Reguläre Ausdrücke
+  language: de
+  author: Jeffrey E. F. Friedl
+  translator: Andreas Karrer
+  publisher: O'Reilly Verlag GmbH
+  isbn13: 978-3-930673-62-9
+  isbn10: 3-930673-62-2
+  pages: 378
+  pubdate: 1997-01-10
+  edition: 1
+  tag: Regular expressions
+  url: http://allperlbooks.com/book/de/regul-re-ausdr-cke
 
 - title: Reguläre Ausdrücke
   language: de

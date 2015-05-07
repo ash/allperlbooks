@@ -195,6 +195,13 @@
   url: http://allperlbooks.com/publisher/oreilly
   href: http://oreilly.com
 
+- name: O'Reilly Verlag GmbH
+  url: http://allperlbooks.com/publisher/oreilly-verlag
+
+- name: Oldenbourg Wissenschaftsverlag
+  url: http://allperlbooks.com/publisher/oldenbourg
+  href: http://oldenbourg.de
+
 - name: Onyx Neon Press
   url: http://allperlbooks.com/publisher/onyxneon
   href: http://onyxneon.com
@@ -229,6 +236,10 @@
   url: http://allperlbooks.com/publisher/plain-black-corporation
   href: http://plainblack.com
 
+- name: Pragmatic Perl
+  url: http://allperlbooks.com/publisher/pragmatic-perl
+  href: http://pragmaticperl.com
+
 - name: Premier Press
   url: http://allperlbooks.com/publisher/premier-press
   href: http://premierpress.com
@@ -256,6 +267,10 @@
 - name: Que
   url: http://allperlbooks.com/publisher/que
   href: http://quepublishing.com
+
+- name: QuickStartWorkbook
+  url: http://allperlbooks.com/publisher/qsw
+  href: http://quickstartworkbook.com
 
 - name: SAMS
   url: http://allperlbooks.com/publisher/sams
