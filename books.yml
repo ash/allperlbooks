@@ -1,3 +1,17 @@
+- title: &#x420;озроблення комплексни&#x445; Веб-сайтів за допомогою мови програмування Perl
+  language: uk
+  author: А. М. Пелещишин
+  author: П. І. Жежнич
+  author: О. В. Марковець
+  publisher: Львівська політехніка
+  isbn13: 978-966-553-623-9
+  isbn10: 966-553-623-0
+  pages: 164
+  pubdate: 2007-00-00
+  edition: 1
+  tag: Web
+  url: http://allperlbooks.com/book/uk/rozroblennya-saitiv-perl
+
 - title: 60 Minute Guide to Programming CGI with Perl 5
   language: en
   author: Robert Farrell
@@ -465,6 +479,22 @@
   tag: CGI
   tag: Web
   url: http://allperlbooks.com/book/nl/cgi-programmeren-met-perl
+  parent: http://allperlbooks.com/book/en/cgi-programming-of-the-world-wide-web
+
+- title: CGI Programmierung mit Perl
+  language: de
+  author: Scott Guelich
+  author: Shishir Gundavaram
+  author: Gunther Birznieks
+  translator: Jørgen W. Lang
+  publisher: O'Reilly Media
+  isbn13: 978-3-89721-167-4
+  isbn10: 3-89721-167-X
+  pages: 500
+  pubdate: 2001-00-00
+  edition: 3
+  tag: CGI
+  url: http://allperlbooks.com/book/de/cgi-programmierung-mit-perl
   parent: http://allperlbooks.com/book/en/cgi-programming-of-the-world-wide-web
 
 - title: CGI Programming 101

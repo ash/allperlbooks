@@ -871,6 +871,11 @@
   lastname: Ladd
   url: http://allperlbooks.com/author/eric-ladd
 
+- name: Jørgen W. Lang
+  firstname: Jørgen W.
+  lastname: Lang
+  url: http://allperlbooks.com/author/jorgen-w-lang
+
 - name: Ian Langworth
   firstname: Ian
   lastname: Langworth
@@ -1736,4 +1741,19 @@
   firstname: Jean
   lastname: Zundel
   url: http://allperlbooks.com/author/jean-zundel
+
+- name: А. М. Пелещишин
+  firstname: А. М.
+  lastname: Пелещишин
+  url: http://allperlbooks.com/author/a-peleschishin
+
+- name: О. В. Марковець
+  firstname: О. В.
+  lastname: Марковець
+  url: http://allperlbooks.com/author/o-markovets
+
+- name: П. І. Жежнич
+  firstname: П. І.
+  lastname: Жежнич
+  url: http://allperlbooks.com/author/p-zhezhnich
 
