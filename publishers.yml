@@ -9,6 +9,10 @@
 - name: Advice Press
   url: http://allperlbooks.com/publisher/advice-press
 
+- name: Alfa Yayıncılık
+  url: http://allperlbooks.com/publisher/alfa
+  href: http://alfakitap.com
+
 - name: APOGEO S.r.L.
   url: http://allperlbooks.com/publisher/apogeo
   href: http://apogeonline.com
@@ -76,8 +80,14 @@
 - name: Elsevier Inc.
   url: http://allperlbooks.com/publisher/elsevier
 
+- name: Eni
+  url: http://allperlbooks.com/publisher/eni
+
 - name: Equity Press
   url: http://allperlbooks.com/publisher/equity-press
+
+- name: Eska
+  url: http://allperlbooks.com/publisher/eska
 
 - name: Eyrolles
   url: http://allperlbooks.com/publisher/eyrolles
@@ -109,6 +119,9 @@
 - name: Hanser Fachbuchverlag
   url: http://allperlbooks.com/publisher/hanser
   href: http://hanser-fachbuch.de
+
+- name: Hermes Science Publications
+  url: http://allperlbooks.com/publisher/hermes
 
 - name: IDG Books
   url: http://allperlbooks.com/publisher/idg
@@ -232,6 +245,14 @@
   url: http://allperlbooks.com/publisher/pgw
   href: http://pgw.com
 
+- name: Pusula Bilişim Yayıncılık
+  url: http://allperlbooks.com/publisher/pusula-bilisim
+  href: http://pusula.com
+
+- name: Pusula Yayıncılık
+  url: http://allperlbooks.com/publisher/pusula
+  href: http://pusula.com
+
 - name: Que
   url: http://allperlbooks.com/publisher/que
   href: http://quepublishing.com
@@ -239,6 +260,14 @@
 - name: SAMS
   url: http://allperlbooks.com/publisher/sams
   href: http://informit.com/sams
+
+- name: Seçkin Yayıncılık
+  url: http://allperlbooks.com/publisher/seckin
+  href: https://seckin.com.tr/
+
+- name: Sistem Yayıncılık
+  url: http://allperlbooks.com/publisher/sistem
+  href: http://sistem.com.tr/
 
 - name: Springer
   url: http://allperlbooks.com/publisher/springer

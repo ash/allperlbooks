@@ -6,6 +6,11 @@
   firstname: Thomas
   url: http://allperlbooks.com/author/thomas
 
+- name: Özcan Acar
+  firstname: Özcan
+  lastname: Acar
+  url: http://allperlbooks.com/author/ozcan-acar
+
 - name: Hedaya Alasooly
   firstname: Hedaya
   lastname: Alasooly
@@ -51,10 +56,25 @@
   lastname: Ayari
   url: http://allperlbooks.com/author/kais-ayari
 
+- name: Can Uğur Ayfer
+  firstname: Can Uğur
+  lastname: Ayfer
+  url: http://allperlbooks.com/author/can-ugur-ayfer
+
+- name: Rıza Çelik
+  firstname: Rıza
+  lastname: Çelik
+  url: http://allperlbooks.com/author/rıza-celik
+
 - name: John Bambenek
   firstname: John
   lastname: Bambenek
   url: http://allperlbooks.com/author/john-bambenek
+
+- name: Philippe Banquet
+  firstname: Philippe
+  lastname: Banquet
+  url: http://allperlbooks.com/author/philippe-banquet
 
 - name: Chris Baron
   firstname: Chris
@@ -546,6 +566,11 @@
   lastname: Galbraith
   url: http://allperlbooks.com/author/patrick-galbraith
 
+- name: Adem Güneş
+  firstname: Adem
+  lastname: Güneş
+  url: http://allperlbooks.com/author/adem-gunes
+
 - name: Hallett German
   firstname: Hallett
   lastname: German
@@ -665,6 +690,11 @@
   firstname: Sebastian
   lastname: Hassinger
   url: http://allperlbooks.com/author/sebastian-hassinger
+
+- name: Nabil Hathout
+  firstname: Nabil
+  lastname: Hathout
+  url: http://allperlbooks.com/author/nabil-hathout
 
 - name: Jutta Hämmerle-Uhl
   firstname: Jutta
@@ -1472,6 +1502,11 @@
   lastname: Swanson
   url: http://allperlbooks.com/author/steven-swanson
 
+- name: Ludovic Tanguy
+  firstname: Ludovic
+  lastname: Tanguy
+  url: http://allperlbooks.com/author/ludovic-tanguy
+
 - name: Leopold Tötsch
   firstname: Leopold
   lastname: Tötsch
@@ -1526,6 +1561,11 @@
   firstname: Martien
   lastname: Verbruggen
   url: http://allperlbooks.com/author/martien-verbruggen
+
+- name: Philippe Verdret
+  firstname: Philippe
+  lastname: Verdret
+  url: http://allperlbooks.com/author/philippe-verdret
 
 - name: Jesse Vincent
   firstname: Jesse

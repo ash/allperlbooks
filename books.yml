@@ -323,6 +323,20 @@
   tag: Web
   url: http://allperlbooks.com/book/en/building-web-applications
 
+- title: Bütün Yönleriyle Perl CGI
+  language: tr
+  subtitle: Perl/tk, Perl mySQL Programlama
+  author: Rıza Çelik
+  publisher: Seçkin Yayıncılık
+  isbn13: 978-975-347-552-5
+  isbn10: 975-347-552-7
+  pages: 543
+  pubdate: 2003-00-00
+  edition: 1
+  tag: CGI
+  tag: Web
+  url: http://allperlbooks.com/book/tr/butun-yonleriyle-perl-cgi
+
 - title: CGI & Perl in Easy Steps
   language: en
   subtitle: Server-Side Scripting Simplified
@@ -786,6 +800,18 @@
   pubdate: 2001-00-00
   edition: 1
   url: http://allperlbooks.com/book/en/data-munging-with-perl
+
+- title: De Perl &#224; Java
+  language: fr
+  author: Philippe Verdret
+  publisher: Hermes Science Publications
+  series: Technique et Pratique
+  isbn13: 978-2-7462-1032-5
+  isbn10: 2-7462-1032-0
+  pages: 244
+  pubdate: 2005-02-24
+  edition: 1
+  url: http://allperlbooks.com/book/fr/de-perl-a-java
 
 - title: De l'art de programmer en Perl
   language: fr
@@ -1273,6 +1299,19 @@
   tag: Regular expressions
   url: http://allperlbooks.com/book/en/introducing-regular-expressions
 
+- title: Introduction &#224; Perl pour la bioinformatique
+  language: fr
+  author: James Tisdall
+  publisher: O'Reilly Media
+  isbn13: 978-2-84177-206-3
+  isbn10: 2-84177-206-3
+  pages: 382
+  pubdate: 2002-10-07
+  edition: 1
+  tag: Bioinformatics
+  url: http://allperlbooks.com/book/fr/introduction-a-perl-pour-la-bioinformatique
+  parent: http://allperlbooks.com/book/en/beginning-perl-for-bioinformatics
+
 - title: Introduction to Bioinformatics
   language: en
   author: Arthur Lesk
@@ -1516,6 +1555,20 @@
   tag: Graphics
   url: http://allperlbooks.com/book/en/learning-perl-tk
 
+- title: Les fondamentaux du langage Perl 5
+  language: fr
+  subtitle: Apprentissage par la pratique
+  author: Philippe Banquet
+  publisher: Eni
+  series: Ressources Informatiques
+  isbn13: 978-2-7460-7932-8
+  isbn10: 2-7460-7932-1
+  pages: 436
+  pubdate: 2003-03-13
+  edition: 1
+  publisher's page: http://www.eyrolles.com/Informatique/Livre/les-fondamentaux-du-langage-perl-5-9782746079328
+  url: http://allperlbooks.com/book/fr/les-fondamentaux-du-langage-perl5
+
 - title: Les meilleurs bibliothèques pour Perl
   language: fr
   subtitle: Les pépites du CPAN
@@ -1528,7 +1581,7 @@
   pubdate: 2006-00-00
   edition: 1
   tag: Pocket edition
-  url: http://allperlbooks.com/book/fr/les-meilleurs-biblioth-ques-pour-perl
+  url: http://allperlbooks.com/book/fr/les-meilleurs-bibliotheques-pour-perl
 
 - title: MacPerl
   language: en
@@ -2080,6 +2133,18 @@
   edition: 1
   url: http://allperlbooks.com/book/de/easy-perl
 
+- title: Perl 5
+  language: fr
+  subtitle: Les références indispensables du programmeur !
+  author: Steven Holzner
+  publisher: Eska
+  isbn13: 978-2-7472-0159-9
+  isbn10: 2-7472-0159-7
+  pages: 510
+  pubdate: 2001-01-05
+  edition: 1
+  url: http://allperlbooks.com/book/fr/perl5
+
 - title: Perl 5 Complete
   language: en
   author: Edward S. Peschko
@@ -2405,6 +2470,19 @@
   pubdate: 1999-08-14
   edition: 1
   url: http://allperlbooks.com/book/en/perl-black-book
+
+- title: Perl CGI
+  language: tr
+  author: Özcan Acar
+  publisher: Pusula Bilişim Yayıncılık
+  isbn13: 978-975-7092-73-5
+  isbn10: 975-7092-73-8
+  pages: 239
+  pubdate: 2001-00-00
+  edition: 1
+  tag: CGI
+  tag: Web
+  url: http://allperlbooks.com/book/tr/perl-cgi
 
 - title: Perl CGI Programming
   language: en
@@ -3112,6 +3190,19 @@
   tag: Pearl
   url: http://allperlbooks.com/book/de/perl-fur-profis
 
+- title: Perl ile CGI Programlama Kılavuzu
+  language: tr
+  author: Adem Güneş
+  publisher: Alfa Yayıncılık
+  isbn13: 978-975-316-609-6
+  isbn10: 975-316-609-5
+  pages: 247
+  pubdate: 2000-00-00
+  edition: 1
+  tag: CGI
+  tag: Web
+  url: http://allperlbooks.com/book/tr/perl-ile-cgi-programlama-kilavuzu
+
 - title: Perl in 24 uur
   language: nl
   author: Clinton Pierce
@@ -3193,6 +3284,21 @@
   tag: Pocket edition
   url: http://allperlbooks.com/book/fr/perl-pour-l-impatient
 
+- title: Perl pour les linguistes
+  language: fr
+  subtitle: Programmes en Perl pour exploiter les données langagières
+  author: Ludovic Tanguy
+  author: Nabil Hathout
+  publisher: Hermes Science Publications
+  series: TIC et sciences cognitives
+  isbn13: 978-2-7462-1635-8
+  isbn10: 2-7462-1635-3
+  pages: 504
+  pubdate: 2007-15-09
+  edition: 1
+  tag: Linguistics
+  url: http://allperlbooks.com/book/fr/perl-pour-les-linguistes
+
 - title: Perl pro zelenáče
   language: cs
   author: Pavel Satrapa
@@ -3229,6 +3335,45 @@
   pubdate: 2001-11-02
   edition: 1
   url: http://allperlbooks.com/book/en/perl-to-python-migration
+
+- title: Perl ve CGI
+  language: tr
+  subtitle: Çabuk Öğrenim Kılavuzu
+  author: Elizabeth Castro
+  publisher: Alfa Yayıncılık
+  isbn13: 9799752971447
+  isbn10: 
+  pages: 319
+  pubdate: 2002-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/tr/perl-ve-cgi
+  parent: http://allperlbooks.com/book/en/perl-and-cgi-for-the-world-wide-web
+
+- title: Perl ve MySQL ile CGI Programlama
+  language: tr
+  author: Can Uğur Ayfer
+  publisher: Pusula Yayıncılık
+  isbn13: 978-975-7092-89-6
+  isbn10: 975-7092-89-4
+  pages: 345
+  pubdate: 2002-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/tr/perl-ve-mysql-ile-cgi-programlama
+
+- title: Perl İnternet Programcılığı
+  language: tr
+  subtitle: Temel Başlangıç Kılavuzu
+  author: Clinton Pierce
+  publisher: Sistem Yayıncılık
+  isbn13: 978-975-322-177-1
+  isbn10: 975-322-177-0
+  pages: 384
+  pubdate: 2002-00-00
+  edition: 1
+  tag: Web
+  tag: CGI
+  url: http://allperlbooks.com/book/tr/perl-i-internet-programciligi
+  parent: http://allperlbooks.com/book/en/teach-yourself-perl-in-24-hours
 
 - title: Perl!: I Didn't Know You Could Do That...
   language: en
