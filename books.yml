@@ -1,17 +1,3 @@
-- title: &#x420;озроблення комплексни&#x445; Веб-сайтів за допомогою мови програмування Perl
-  language: uk
-  author: А. М. Пелещишин
-  author: П. І. Жежнич
-  author: О. В. Марковець
-  publisher: Львівська політехніка
-  isbn13: 978-966-553-623-9
-  isbn10: 966-553-623-0
-  pages: 164
-  pubdate: 2007-00-00
-  edition: 1
-  tag: Web
-  url: http://allperlbooks.com/book/uk/rozroblennya-saitiv-perl
-
 - title: 60 Minute Guide to Programming CGI with Perl 5
   language: en
   author: Robert Farrell
@@ -37,7 +23,7 @@
   tag: Pearl
   url: http://allperlbooks.com/book/en/a-little-book-on-perl
 
-- title: Acme大&#x5168;2014
+- title: Acme大全2014
   language: ja
   subtitle: Acmencyclopedia
   publisher: Donzoko
@@ -847,7 +833,7 @@
   edition: 1
   url: http://allperlbooks.com/book/en/data-munging-with-perl
 
-- title: De Perl &#224; Java
+- title: De Perl à Java
   language: fr
   author: Philippe Verdret
   publisher: Hermes Science Publications
@@ -1080,6 +1066,18 @@
   tag: Web
   tag: CGI
   url: http://allperlbooks.com/book/en/foundations-of-world-wide-web-programming-with-html-cgi
+
+- title: Fundamentos De Programación En Perl
+  language: es
+  author: R. Allen Wyke
+  publisher: McGraw-Hill Companies
+  isbn13: 978-958-41-0296-6
+  isbn10: 958-41-0296-6
+  pages: 514
+  pubdate: 2003-02-01
+  edition: 1
+  url: http://allperlbooks.com/book/es/fundamentos-de-programacion-en-perl
+  parent: http://allperlbooks.com/book/en/perl-a-beginners-guide
 
 - title: Games, Diversions & Perl Culture
   language: en
@@ -1345,19 +1343,6 @@
   tag: Regular expressions
   url: http://allperlbooks.com/book/en/introducing-regular-expressions
 
-- title: Introduction &#224; Perl pour la bioinformatique
-  language: fr
-  author: James Tisdall
-  publisher: O'Reilly Media
-  isbn13: 978-2-84177-206-3
-  isbn10: 2-84177-206-3
-  pages: 382
-  pubdate: 2002-10-07
-  edition: 1
-  tag: Bioinformatics
-  url: http://allperlbooks.com/book/fr/introduction-a-perl-pour-la-bioinformatique
-  parent: http://allperlbooks.com/book/en/beginning-perl-for-bioinformatics
-
 - title: Introduction to Bioinformatics
   language: en
   author: Arthur Lesk
@@ -1384,6 +1369,19 @@
   tag: CGI
   tag: Web
   url: http://allperlbooks.com/book/en/introduction-to-cgi-perl
+
+- title: Introduction à Perl pour la bioinformatique
+  language: fr
+  author: James Tisdall
+  publisher: O'Reilly Media
+  isbn13: 978-2-84177-206-3
+  isbn10: 2-84177-206-3
+  pages: 382
+  pubdate: 2002-10-07
+  edition: 1
+  tag: Bioinformatics
+  url: http://allperlbooks.com/book/fr/introduction-a-perl-pour-la-bioinformatique
+  parent: http://allperlbooks.com/book/en/beginning-perl-for-bioinformatics
 
 - title: L'art du scripting
   language: fr
@@ -2570,6 +2568,20 @@
   url: http://allperlbooks.com/book/en/perl-cookbook-2
   parent: http://allperlbooks.com/book/en/perl-cookbook
 
+- title: Perl Cookbook. Том II
+  language: bg
+  subtitle: Решения и примери за Perl програмисти
+  author: Tom Christiansen
+  author: Nathan Torkington
+  publisher: ЗеСТ Прес
+  isbn13: 978-954-93410-6-5
+  isbn10: 954-93410-6-2
+  pages: 962
+  pubdate: 2005-00-00
+  edition: 2
+  url: http://allperlbooks.com/book/bg/perl-cookbook-bg-ii
+  parent: http://allperlbooks.com/book/en/perl-cookbook
+
 - title: Perl Core Language
   language: en
   author: Steven Holzner
@@ -3434,6 +3446,20 @@
   url: http://allperlbooks.com/book/tr/perl-i-internet-programciligi
   parent: http://allperlbooks.com/book/en/teach-yourself-perl-in-24-hours
 
+- title: Perl за системно администриране
+  language: bg
+  subtitle: Управление на мултиплатформени среды с Perl
+  author: David N. Blank-Edelman
+  publisher: ЗеСТ Прес
+  isbn13: 978-954-91165-3-3
+  isbn10: 954-91165-3-0
+  pages: 450
+  pubdate: 2002-00-00
+  edition: 1
+  tag: System administration
+  url: http://allperlbooks.com/book/bg/perl-for-system-administration-bg
+  parent: http://allperlbooks.com/book/en/perl-for-system-administration
+
 - title: Perl — introduccion al desarrollo web
   language: es
   author: Steve Suehring
@@ -3494,7 +3520,7 @@
   edition: 1
   url: http://allperlbooks.com/book/de/perl-meisterkurs
 
-- title: Perl. Ар&#x0445;ив программ
+- title: Perl. Архив программ
   language: ru
   subtitle: Код с комментариями
   author: Martin C. Brown
@@ -3506,6 +3532,20 @@
   edition: 1
   url: http://allperlbooks.com/book/ru/perl-annotated-archives-ru
   parent: http://allperlbooks.com/book/en/perl-annotated-archives
+
+- title: Perl. Джобен справочник
+  language: bg
+  subtitle: Программни инструменти
+  author: Johan Vromans
+  publisher: ЗеСТ Прес
+  isbn13: 978-954-91165-5-7
+  isbn10: 954-91165-5-7
+  pages: 108
+  pubdate: 2002-00-00
+  edition: 4
+  tag: Pocket edition
+  url: http://allperlbooks.com/book/bg/perl-reference-bg
+  parent: http://allperlbooks.com/book/en/perl5-pocket-reference
 
 - title: Perl/Tk Pocket Reference
   language: en
@@ -3596,6 +3636,7 @@
 
 - title: Perl: библиотека программиста
   language: ru
+  subtitle: Решения и примеры для программистов
   author: Tom Christiansen
   author: Nathan Torkington
   publisher: Питер
@@ -3940,7 +3981,7 @@
   author: Aldo Calpini
   author: Arthur Corliss
   author: Simon Cozens
-  author: Juan Julián Merelo Guervós
+  author: Juan JuliÃ¡n Merelo GuervÃ³s
   author: Christopher M. Nandor
   author: Aalhad Saraf
   publisher: Wrox Press
@@ -4352,7 +4393,7 @@
   tag: Regular expressions
   url: http://allperlbooks.com/book/de/regul-re-ausdr-cke
 
-- title: Reguläre Ausdrücke
+- title: Reguläre Ausdrücke kurz & gut
   language: de
   author: Jeffrey E. F. Friedl
   publisher: O'Reilly Media
@@ -4587,7 +4628,7 @@
 
 - title: The Perl 5 Programmer's Reference
   language: en
-  subtitle: Windows 95/Nt, Macintosh, Os/2 & Unix
+  subtitle: Windows 95/NT, Macintosh, Os/2 & Unix
   author: R. Allen Wyke
   author: Luke Duncan
   publisher: Ventana Press
@@ -5729,7 +5770,7 @@
   isbn10: 954-93412-7-5
   pages: 330
   pubdate: 2009-00-00
-  edition: 1
+  edition: 5
   url: http://allperlbooks.com/book/bg/learning-perl-bg
   parent: http://allperlbooks.com/book/en/learning-perl
 
@@ -5748,6 +5789,64 @@
   url: http://allperlbooks.com/book/ru/learning-perl-5-ru
   parent: http://allperlbooks.com/book/en/learning-perl
 
+- title: Програмиране на Web графики с Perl & GNU софтуер
+  language: bg
+  subtitle: Създаване на GIF, JPEG & PNG за най-кратко време
+  author: Shawn Wallace
+  publisher: ЗеСТ Прес
+  isbn13: 978-954-90498-7-9
+  isbn10: 954-90498-7-6
+  pages: 498
+  pubdate: 2001-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/bg/programming-web-graphics-bg
+  parent: http://allperlbooks.com/book/en/programming-web-graphics-with-perl-and-gnu-software
+
+- title: Програмиране с Perl DBI
+  language: bg
+  subtitle: Програмиране на бази данни с Perl
+  author: Alligator Descartes
+  author: Tim Bunce
+  publisher: ЗеСТ Прес
+  isbn13: 978-954-90498-9-3
+  isbn10: 954-90498-9-2
+  pages: 354
+  pubdate: 2003-00-00
+  edition: 1
+  tag: Databases
+  url: http://allperlbooks.com/book/bg/programming-perl-dbi-bg
+  parent: http://allperlbooks.com/book/en/programming-the-perl-dbi
+
+- title: Програмиране с Perl. Том I
+  language: bg
+  subtitle: Има повече от един начин до направите това
+  author: Larry Wall
+  author: Tom Christiansen
+  author: Jon Orwant
+  publisher: ЗеСТ Прес
+  isbn13: 978-954-90498-8-6
+  isbn10: 954-90498-8-4
+  pages: 1096
+  pubdate: 2002-00-00
+  edition: 3
+  url: http://allperlbooks.com/book/bg/programing-perl-bg-i
+  parent: http://allperlbooks.com/book/en/programming-perl
+
+- title: Програмиране с Perl. Том II
+  language: bg
+  subtitle: Има повече от един начин до направите това
+  author: Larry Wall
+  author: Tom Christiansen
+  author: Jon Orwant
+  publisher: ЗеСТ Прес
+  isbn13: 978-954-90498-8-6
+  isbn10: 954-90498-8-4
+  pages: 1096
+  pubdate: 2002-00-00
+  edition: 3
+  url: http://allperlbooks.com/book/bg/programming-perl-bg-ii
+  parent: http://allperlbooks.com/book/en/programming-perl
+
 - title: Программирование на Perl DBI
   language: ru
   author: Alligator Descartes
@@ -5761,4 +5860,29 @@
   tag: Databases
   url: http://allperlbooks.com/book/ru/perl-dbi-ru
   parent: http://allperlbooks.com/book/en/programming-the-perl-dbi
+
+- title: Розроблення комплексних Веб-сайтів за допомогою мови програмування Perl
+  language: uk
+  author: А. М. Пелещишин
+  author: П. І. Жежнич
+  author: О. В. Марковець
+  publisher: Львівська політехніка
+  isbn13: 978-966-553-623-9
+  isbn10: 966-553-623-0
+  pages: 164
+  pubdate: 2007-00-00
+  edition: 1
+  tag: Web
+  url: http://allperlbooks.com/book/uk/rozroblennya-saitiv-perl
+
+- title: 最速攻略 CGI/Perl 作り方入門
+  language: ja
+  author: KENT (著)
+  publisher: 技術評論社
+  isbn13: 978-4-7741-2832-0
+  isbn10: 4-7741-2832-5
+  pages: 224
+  pubdate: 2006-07-15
+  edition: 1
+  url: http://allperlbooks.com/book/ja/cgi-perl-jp
 

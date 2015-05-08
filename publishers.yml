@@ -28,10 +28,6 @@
   url: http://allperlbooks.com/publisher/aracne
   href: http://aracneeditrice.it
 
-- name: Éditions O'Reilly
-  url: http://allperlbooks.com/publisher/editions-oreilly
-  href: http://www.editions-oreilly.fr
-
 - name: bhv
   url: http://allperlbooks.com/publisher/bhv
   href: http://bhv.de
@@ -75,6 +71,10 @@
 - name: dpunkt.verlag
   url: http://allperlbooks.com/publisher/dpunkt
   href: http://dpunkt.de
+
+- name: Éditions O'Reilly
+  url: http://allperlbooks.com/publisher/editions-oreilly
+  href: http://www.editions-oreilly.fr
 
 - name: Elektor Electronics Publishing
   url: http://allperlbooks.com/publisher/elector
@@ -341,6 +341,17 @@
   url: http://allperlbooks.com/publisher/ziff-davis
   href: https://ziffdavis.com
 
+- name: Бином
+  url: http://allperlbooks.com/publisher/binom
+  href: http://ibz.ru
+
+- name: ЗеСТ Прес
+  url: http://allperlbooks.com/publisher/zest-press
+  href: http://zest-press.com
+
+- name: Львівська політехніка
+  url: http://allperlbooks.com/publisher/lp
+
 - name: Питер
   url: http://allperlbooks.com/publisher/piter
   href: http://piter.com
@@ -349,14 +360,7 @@
   url: http://allperlbooks.com/publisher/symbol
   href: http://symbol.ru
 
-- name: ЗеСТ Прес
-  url: http://allperlbooks.com/publisher/zest-press
-  href: http://zest-press.com
-
-- name: Бином
-  url: http://allperlbooks.com/publisher/binom
-  href: http://ibz.ru
-
-- name: Львівська політехніка
-  url: http://allperlbooks.com/publisher/lp
+- name: 技術評論社
+  url: http://allperlbooks.com/publisher/gihyo
+  href: http://gihyo.jp/book
 

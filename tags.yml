@@ -23,7 +23,7 @@
   url: http://allperlbooks.com/tag/cpan
 
 - tag: Databases
-  synonyms: sql mysql mssql sybase nosql
+  synonyms: sql mysql mssql sybase nosql dbi
   url: http://allperlbooks.com/tag/databases
 
 - tag: Debugging and Testing

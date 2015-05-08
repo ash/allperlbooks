@@ -2,6 +2,10 @@
   firstname: chromatic
   url: http://allperlbooks.com/author/chromatic
 
+- name: KENT (著)
+  firstname: KENT (著)
+  url: http://allperlbooks.com/author/kent-jp
+
 - name: Thomas
   firstname: Thomas
   url: http://allperlbooks.com/author/thomas
@@ -60,11 +64,6 @@
   firstname: Can Uğur
   lastname: Ayfer
   url: http://allperlbooks.com/author/can-ugur-ayfer
-
-- name: Rıza Çelik
-  firstname: Rıza
-  lastname: Çelik
-  url: http://allperlbooks.com/author/rıza-celik
 
 - name: John Bambenek
   firstname: John
@@ -270,6 +269,11 @@
   firstname: Elizabeth
   lastname: Castro
   url: http://allperlbooks.com/author/elizabeth-castro
+
+- name: Rıza Çelik
+  firstname: Rıza
+  lastname: Çelik
+  url: http://allperlbooks.com/author/riza-celik
 
 - name: Darren Chamberlain
   firstname: Darren
@@ -571,11 +575,6 @@
   lastname: Galbraith
   url: http://allperlbooks.com/author/patrick-galbraith
 
-- name: Adem Güneş
-  firstname: Adem
-  lastname: Güneş
-  url: http://allperlbooks.com/author/adem-gunes
-
 - name: Hallett German
   firstname: Hallett
   lastname: German
@@ -621,15 +620,20 @@
   lastname: Guelich
   url: http://allperlbooks.com/author/scott-guelich
 
-- name: Juan Julián Merelo Guervós
-  firstname: Juan Julián Merelo
-  lastname: Guervós
+- name: Juan JuliÃ¡n Merelo GuervÃ³s
+  firstname: Juan JuliÃ¡n Merelo
+  lastname: GuervÃ³s
   url: http://allperlbooks.com/author/juan-julian-merelo-guervos
 
 - name: Shishir Gundavaram
   firstname: Shishir
   lastname: Gundavaram
   url: http://allperlbooks.com/author/shishir-gundavaram
+
+- name: Adem Güneş
+  firstname: Adem
+  lastname: Güneş
+  url: http://allperlbooks.com/author/adem-gunes
 
 - name: Neil J. Gunther
   firstname: Neil J.
@@ -660,6 +664,11 @@
   firstname: Jacqueline D.
   lastname: Hamilton
   url: http://allperlbooks.com/author/jacqueline-d-hamilton
+
+- name: Jutta Hämmerle-Uhl
+  firstname: Jutta
+  lastname: Hämmerle-Uhl
+  url: http://allperlbooks.com/author/jutta-hammerle-uhl
 
 - name: Michael Hammond
   firstname: Michael
@@ -700,11 +709,6 @@
   firstname: Nabil
   lastname: Hathout
   url: http://allperlbooks.com/author/nabil-hathout
-
-- name: Jutta Hämmerle-Uhl
-  firstname: Jutta
-  lastname: Hämmerle-Uhl
-  url: http://allperlbooks.com/author/jutta-hammerle-uhl
 
 - name: Eric Herrmann
   firstname: Eric
@@ -1322,11 +1326,6 @@
   lastname: Riehl
   url: http://allperlbooks.com/author/mark-riehl
 
-- name: Thorsten Roßner
-  firstname: Thorsten
-  lastname: Roßner
-  url: http://allperlbooks.com/author/thorsten-rossner
-
 - name: Jonathan Rockway
   firstname: Jonathan
   lastname: Rockway
@@ -1346,6 +1345,11 @@
   firstname: Jonathan B.
   lastname: Rosenberg
   url: http://allperlbooks.com/author/jonathan-b-rosenberg
+
+- name: Thorsten Roßner
+  firstname: Thorsten
+  lastname: Roßner
+  url: http://allperlbooks.com/author/thorsten-rossner
 
 - name: Dave Roth
   firstname: Dave
@@ -1387,11 +1391,6 @@
   lastname: Satrapa
   url: http://allperlbooks.com/author/pavel-satrapa
 
-- name: Gérald Sédrati
-  firstname: Gérald
-  lastname: Sédrati
-  url: http://allperlbooks.com/author/gerald-sedrati
-
 - name: Dennis Schaaf
   firstname: Dennis
   lastname: Schaaf
@@ -1426,6 +1425,11 @@
   firstname: Robert W.
   lastname: Sebesta
   url: http://allperlbooks.com/author/robert-w-sebesta
+
+- name: Gérald Sédrati
+  firstname: Gérald
+  lastname: Sédrati
+  url: http://allperlbooks.com/author/gerald-sedrati
 
 - name: Helmut Seidel
   firstname: Helmut
@@ -1532,11 +1536,6 @@
   lastname: Tanguy
   url: http://allperlbooks.com/author/ludovic-tanguy
 
-- name: Leopold Tötsch
-  firstname: Leopold
-  lastname: Tötsch
-  url: http://allperlbooks.com/author/leopold-toetsch
-
 - name: Donald B. Thomas
   firstname: Donald B.
   lastname: Thomas
@@ -1561,6 +1560,11 @@
   firstname: Nathan
   lastname: Torkington
   url: http://allperlbooks.com/author/nathan-torkington
+
+- name: Leopold Tötsch
+  firstname: Leopold
+  lastname: Tötsch
+  url: http://allperlbooks.com/author/leopold-toetsch
 
 - name: Stéphane Tougard
   firstname: Stéphane
@@ -1762,18 +1766,18 @@
   lastname: Zundel
   url: http://allperlbooks.com/author/jean-zundel
 
-- name: А. М. Пелещишин
-  firstname: А. М.
-  lastname: Пелещишин
-  url: http://allperlbooks.com/author/a-peleschishin
+- name: П. І. Жежнич
+  firstname: П. І.
+  lastname: Жежнич
+  url: http://allperlbooks.com/author/p-zhezhnich
 
 - name: О. В. Марковець
   firstname: О. В.
   lastname: Марковець
   url: http://allperlbooks.com/author/o-markovets
 
-- name: П. І. Жежнич
-  firstname: П. І.
-  lastname: Жежнич
-  url: http://allperlbooks.com/author/p-zhezhnich
+- name: А. М. Пелещишин
+  firstname: А. М.
+  lastname: Пелещишин
+  url: http://allperlbooks.com/author/a-peleschishin
 
