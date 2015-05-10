@@ -35,6 +35,9 @@
 - name: Bioinformatics by the Bay Press
   url: http://allperlbooks.com/publisher/bay-press
 
+- name: BlueSpear Publishing
+  url: http://allperlbooks.com/publisher/bluespear
+
 - name: Books on Demand
   url: http://allperlbooks.com/publisher/on-demand
 
@@ -202,6 +205,10 @@
   url: http://allperlbooks.com/publisher/oreilly-associates
   href: http://oreilly.com
 
+- name: O'Reilly Japan
+  url: http://allperlbooks.com/publisher/oreilly-japan
+  href: http://oreilly.co.jp
+
 - name: O'Reilly Media
   url: http://allperlbooks.com/publisher/oreilly
   href: http://oreilly.com
@@ -305,6 +312,9 @@
 - name: Sybex Inc.
   url: http://allperlbooks.com/publisher/sybex
 
+- name: Syngress
+  url: http://allperlbooks.com/publisher/syngress
+
 - name: The Perl Journal
   url: http://allperlbooks.com/publisher/tpj
 
@@ -353,9 +363,16 @@
   url: http://allperlbooks.com/publisher/binom
   href: http://ibz.ru
 
+- name: Диалектика
+  url: http://allperlbooks.com/publisher/dialektika
+
 - name: ЗеСТ Прес
   url: http://allperlbooks.com/publisher/zest-press
   href: http://zest-press.com
+
+- name: Кудиц-образ
+  url: http://allperlbooks.com/publisher/qdts
+  href: http://qdts.ru
 
 - name: Львівська політехніка
   url: http://allperlbooks.com/publisher/lp

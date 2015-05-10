@@ -35,6 +35,11 @@
   lastname: Anderson-Freed
   url: http://allperlbooks.com/author/susan-anderson-freed
 
+- name: Jason Andress
+  firstname: Jason
+  lastname: Andress
+  url: http://allperlbooks.com/author/jason-andress
+
 - name: Edwin Aoki
   firstname: Edwin
   lastname: Aoki
@@ -495,6 +500,11 @@
   lastname: Dzieniszewski
   url: http://allperlbooks.com/author/slawomir-dzieniszewski
 
+- name: Robert Eckstein
+  firstname: Robert
+  lastname: Eckstein
+  url: http://allperlbooks.com/author/robert-eckstein
+
 - name: Horst Eidenberger
   firstname: Horst
   lastname: Eidenberger
@@ -564,6 +574,16 @@
   firstname: Ben
   lastname: Forta
   url: http://allperlbooks.com/author/ben-forta
+
+- name: James C. Foster
+  firstname: James C.
+  lastname: Foster
+  url: http://allperlbooks.com/author/james-c-foster
+
+- name: Steven C. Foster
+  firstname: Steven C.
+  lastname: Foster
+  url: http://allperlbooks.com/author/steven-c-foster
 
 - name: Eric Foster-Johnson
   firstname: Eric
@@ -749,6 +769,11 @@
   firstname: Nabil
   lastname: Hathout
   url: http://allperlbooks.com/author/nabil-hathout
+
+- name: Les Hatton
+  firstname: Les
+  lastname: Hatton
+  url: http://allperlbooks.com/author/les-hatton
 
 - name: Eric Herrmann
   firstname: Eric
@@ -965,6 +990,11 @@
   lastname: Kulchenko
   url: http://allperlbooks.com/author/pavel-kulchenko
 
+- name: Martin Kysela
+  firstname: Martin
+  lastname: Kysela
+  url: http://allperlbooks.com/author/martin-kysela
+
 - name: Eric Ladd
   firstname: Eric
   lastname: Ladd
@@ -1044,6 +1074,11 @@
   firstname: Stephen
   lastname: Lines
   url: http://allperlbooks.com/author/stephen-lines
+
+- name: Ryan Linn
+  firstname: Ryan
+  lastname: Linn
+  url: http://allperlbooks.com/author/ryan-linn
 
 - name: Marcin Lis
   firstname: Marcin
@@ -1416,6 +1451,11 @@
   lastname: Quelin
   url: http://allperlbooks.com/author/jerome-quelin
 
+- name: Valerie Quercia
+  firstname: Valerie
+  lastname: Quercia
+  url: http://allperlbooks.com/author/valerie-quercia
+
 - name: Ellie Quigley
   firstname: Ellie
   lastname: Quigley
@@ -1545,6 +1585,11 @@
   firstname: Peter J.
   lastname: Scott
   url: http://allperlbooks.com/author/peter-j-scott
+
+- name: Ed Scoudis
+  firstname: Ed
+  lastname: Scoudis
+  url: http://allperlbooks.com/author/ed-scoudis
 
 - name: Robert W. Sebesta
   firstname: Robert W.
@@ -1920,6 +1965,11 @@
   firstname: П. І.
   lastname: Жежнич
   url: http://allperlbooks.com/author/p-zhezhnich
+
+- name: А. В. Журавлев
+  firstname: А. В.
+  lastname: Журавлев
+  url: http://allperlbooks.com/author/a-v-zhuravlev
 
 - name: О. В. Марковець
   firstname: О. В.

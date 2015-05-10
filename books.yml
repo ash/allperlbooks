@@ -16,6 +16,7 @@
 
 - title: 505 praktycznych skryptów dla webmastera
   language: pl
+  author: Marcin Lis
   publisher: Helion
   isbn13: 978-83-7361-749-0
   isbn10: 83-7361-749-3
@@ -777,6 +778,21 @@
   tag: Web
   url: http://allperlbooks.com/book/en/catalyst-5-8
 
+- title: Coding for Penetration Testers
+  language: en
+  subtitle: Building Better Tools
+  author: Jason Andress
+  author: Ryan Linn
+  foreword: Ed Scoudis
+  publisher: Syngress
+  isbn13: 978-1-59749-729-9
+  isbn10: 1-59749-729-0
+  pages: 320
+  pubdate: 2011-10-07
+  edition: 1
+  tag: Debugging and Testing
+  url: http://allperlbooks.com/book/en/coding-for-penetration-testers
+
 - title: Combinatorial Pattern Matching Algorithms in Computational Biology Using Perl and R
   language: en
   author: Gabriel Valiente
@@ -1092,6 +1108,18 @@
   pubdate: 1999-00-00
   edition: 1
   url: http://allperlbooks.com/book/en/elements-of-programming-with-perl
+
+- title: Email Forensics
+  language: en
+  subtitle: Eliminating Spam, Scams and Phishing
+  author: Les Hatton
+  publisher: BlueSpear Publishing
+  isbn13: 978-1-908422-00-2
+  isbn10: 1-908422-00-9
+  pages: 350
+  pubdate: 2011-10-28
+  edition: 1
+  url: http://allperlbooks.com/book/en/email-forensics
 
 - title: Embedding Perl in HTML with Mason
   language: en
@@ -2271,6 +2299,21 @@
   url: http://allperlbooks.com/book/en/perl
 
 - title: Perl
+  language: ru
+  subtitle: Наглядный курс программирования
+  author: Paul Whitehead
+  author: Eric Kramer
+  translator: А. В. Журавлев
+  publisher: Диалектика
+  isbn13: 978-5-8459-0172-9
+  isbn10: 5-8459-0172-3
+  pages: 0
+  pubdate: 2001-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/ru/perl-visual-blueprint-ru
+  parent: http://allperlbooks.com/book/en/perl
+
+- title: Perl
   language: de
   author: Brigitte Jellinek
   author: Jutta Hämmerle-Uhl
@@ -2597,6 +2640,21 @@
   edition: 2
   tag: Perl 6
   url: http://allperlbooks.com/book/en/perl6-and-parrot-essentials
+  parent: http://allperlbooks.com/book/en/perl6-essentials
+
+- title: Perl 6 и Parrot. Справочник
+  language: ru
+  subtitle: Пересмотр Perl его сообществом
+  author: Allison Randal
+  author: Dan Sugalski
+  author: Leopold Tötsch
+  publisher: Кудиц-образ
+  isbn13: 978-5-9579-0086-3
+  isbn10: 5-9579-0086-9
+  pages: 320
+  pubdate: 2005-00-00
+  edition: 2
+  url: http://allperlbooks.com/book/ru/perl6-parrot-
   parent: http://allperlbooks.com/book/en/perl6-essentials
 
 - title: Perl 6. Podstawy
@@ -3642,6 +3700,20 @@
   url: http://allperlbooks.com/book/bg/perl-for-system-administration-bg
   parent: http://allperlbooks.com/book/en/perl-for-system-administration
 
+- title: Perl отладчик
+  language: ru
+  subtitle: Карманный справочник
+  author: Richard Foley
+  publisher: Кудиц-образ
+  isbn13: 978-5-9579-0049-8
+  isbn10: 5-9579-0049-4
+  pages: 208
+  pubdate: 2005-01-00
+  edition: 1
+  tag: Pocket edition
+  url: http://allperlbooks.com/book/ru/perl-debugger-ru
+  parent: http://allperlbooks.com/book/en/perl-debugger-pocket-reference
+
 - title: Perl — introduccion al desarrollo web
   language: es
   author: Steve Suehring
@@ -3654,6 +3726,17 @@
   tag: Web
   url: http://allperlbooks.com/book/es/perl-introduccion-al-desarrollo-web
   parent: http://allperlbooks.com/book/en/beginning-perl-web-development
+
+- title: Perl — kapesní průvodce programátora
+  language: cs
+  author: Martin Kysela
+  publisher: Grada Publishing
+  isbn13: 978-80-247-1170-6
+  isbn10: 80-247-1170-2
+  pages: 134
+  pubdate: 2005-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/cs/perl-kapesni-pruvodce-programatora
 
 - title: Perl!: I Didn't Know You Could Do That...
   language: en
@@ -4442,6 +4525,19 @@
   url: http://allperlbooks.com/book/fr/programmation-en-perl-3
   parent: http://allperlbooks.com/book/en/programming-perl
 
+- title: Programmer's Security DeskRef
+  language: en
+  subtitle: Your programming security encyclopedia
+  author: James C. Foster
+  author: Steven C. Foster
+  publisher: Syngress
+  isbn13: 978-1-932266-72-6
+  isbn10: 1-932266-72-0
+  pages: 700
+  pubdate: 2004-12-04
+  edition: 1
+  url: http://allperlbooks.com/book/en/programmers-security-deskref
+
 - title: Programmeren in Perl 5
   language: nl
   author: Hildo Biersma
@@ -4644,6 +4740,20 @@
   edition: 1
   tag: Databases
   url: http://allperlbooks.com/book/en/programming-the-perl-dbi
+
+- title: Programování v jazyce Perl
+  language: cs
+  author: Larry Wall
+  author: Tom Christiansen
+  author: Randal L. Schwartz
+  publisher: Computer Press
+  isbn13: 978-80-85896-95-4
+  isbn10: 80-85896-95-8
+  pages: 683
+  pubdate: 1997-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/cs/programov-n-v-jazyce-perl
+  parent: http://allperlbooks.com/book/en/programming-perl
 
 - title: RT Essentials
   language: en
@@ -5937,6 +6047,18 @@
   tag: CMS
   url: http://allperlbooks.com/book/en/webgui-content-managers-guide
 
+- title: WebGUI Designers Guide
+  language: en
+  author: Steven Swanson
+  publisher: Plain Black Corporation
+  isbn13: 
+  isbn10: 
+  pages: 232
+  pubdate: 2007-00-00
+  edition: 1
+  tag: Graphics
+  url: http://allperlbooks.com/book/en/webgui-designers-guide
+
 - title: WebGUI Developers Guide
   language: en
   author: Kristi McCombs
@@ -5978,6 +6100,66 @@
   tag: Web
   tag: CMS
   url: http://allperlbooks.com/book/en/webgui-shop-guide
+
+- title: WebMaster in a Nutshell
+  language: en
+  subtitle: A Desktop Quick Reference
+  author: Valerie Quercia
+  author: Stephen Spainhour
+  publisher: O'Reilly Media
+  isbn13: 978-1-56592-229-7
+  isbn10: 1-56592-229-8
+  pages: 374
+  pubdate: 1996-10-00
+  edition: 1
+  tag: Web
+  publisher's page: http://shop.oreilly.com/product/9781565922297.do
+  url: http://allperlbooks.com/book/en/webmaster-in-a-nutshell
+
+- title: WebMaster in a Nutshell
+  language: en
+  subtitle: Deluxe Edition
+  publisher: O'Reilly Media
+  isbn13: 978-1-56592-305-8
+  isbn10: 1-56592-305-7
+  pages: 374
+  pubdate: 1997-06-00
+  edition: 1
+  tag: Web
+  publisher's page: http://shop.oreilly.com/product/9781565923058.do
+  url: http://allperlbooks.com/book/en/webmaster-in-a-nutshell-deluxe
+  parent: http://allperlbooks.com/book/en/webmaster-in-a-nutshell
+
+- title: Webmaster in a Nutshell
+  language: en
+  subtitle: A Desktop Quick Reference
+  author: Robert Eckstein
+  author: Stephen Spainhour
+  publisher: O'Reilly Media
+  isbn13: 978-1-56592-325-6
+  isbn10: 1-56592-325-1
+  pages: 540
+  pubdate: 1999-06-00
+  edition: 2
+  tag: Web
+  publisher's page: http://shop.oreilly.com/product/9781565923256.do
+  url: http://allperlbooks.com/book/en/webmaster-in-a-nutshell-2
+  parent: http://allperlbooks.com/book/en/webmaster-in-a-nutshell
+
+- title: Webmaster in a Nutshell
+  language: en
+  subtitle: A Desktop Quick Reference
+  author: Robert Eckstein
+  author: Stephen Spainhour
+  publisher: O'Reilly Media
+  isbn13: 978-0-596-00357-9
+  isbn10: 0-596-00357-9
+  pages: 580
+  pubdate: 2002-12-00
+  edition: 3
+  publisher's page: http://shop.oreilly.com/product/9780596003579.do
+  url: http://allperlbooks.com/book/en/webmaster-in-a-nutshell-3
+  parent: http://allperlbooks.com/book/en/webmaster-in-a-nutshell
 
 - title: Wicked Cool Perl Scripts
   language: en
@@ -6030,6 +6212,30 @@
   tag: Windows
   tag: System administration
   url: http://allperlbooks.com/book/en/win32-perl-cripting
+
+- title: Windows Forensic Analysis DVD Toolkit
+  language: en
+  author: Harlan Carvey
+  publisher: Syngress
+  isbn13: 978-1-59749-422-9
+  isbn10: 1-59749-422-4
+  pages: 512
+  pubdate: 2009-06-11
+  edition: 2
+  tag: Windows
+  url: http://allperlbooks.com/book/en/windows-forensic-analysis-dvd-toolkit
+
+- title: Windows Forensics and Incident Recovery
+  language: en
+  author: Harlan Carvey
+  publisher: Addison-Wesley
+  isbn13: 978-0-321-20098-3
+  isbn10: 0-321-20098-5
+  pages: 480
+  pubdate: 2004-07-31
+  edition: 1
+  tag: Windows
+  url: http://allperlbooks.com/book/en/windows-forensics-and-incident-recovery
 
 - title: Writing Apache Modules with Perl and C
   language: en
@@ -6384,6 +6590,22 @@
   edition: 1
   url: http://allperlbooks.com/book/ru/setevie-reshenia
 
+- title: 初めてのPerl
+  language: ja
+  subtitle: Making Easy Things Easy & Hard Things Possible
+  author: Randal L. Schwartz
+  author: brian d foy
+  author: Tom Phoenix
+  publisher: O'Reilly Japan
+  isbn13: 978-4-87311-567-2
+  isbn10: 4-87311-567-1
+  pages: 488
+  pubdate: 2012-07-00
+  edition: 6
+  publisher's page: https://www.oreilly.co.jp/books/9784873115672/
+  url: http://allperlbooks.com/book/ja/learning-perl-ja-6
+  parent: http://allperlbooks.com/book/en/learning-perl
+
 - title: 最速攻略 CGI/Perl 作り方入門
   language: ja
   author: KENT
@@ -6397,6 +6619,22 @@
   tag: Web
   url: http://allperlbooks.com/book/ja/cgi-perl-jp
 
+- title: 正規表現クックブック
+  language: ja
+  subtitle: Detailed Solutions in Eight Programming Languages
+  author: Jan Goyvaerts
+  author: Steven Levithan
+  publisher: O'Reilly Japan
+  isbn13: 978-4-87311-450-7
+  isbn10: 4-87311-450-0
+  pages: 552
+  pubdate: 2010-04-00
+  edition: 1
+  tag: Regular expressions
+  publisher's page: https://www.oreilly.co.jp/books/9784873114507/
+  url: http://allperlbooks.com/book/ja/regular-expressions-cookbook-ja
+  parent: http://allperlbooks.com/book/en/regular-expressions-cookbook
+
 - title: 続・初めてのPerl
   language: ja
   subtitle: Beyond the Basics of Learning Perl
@@ -6409,6 +6647,6 @@
   pages: 432
   pubdate: 2013-08-21
   edition: 2
-  url: http://allperlbooks.com/book/ja/learning-perl-ja-2
+  url: http://allperlbooks.com/book/ja/intermediate-perl-ja-2
   parent: http://allperlbooks.com/book/en/intermediate-perl
 
