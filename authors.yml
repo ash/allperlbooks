@@ -2,8 +2,8 @@
   firstname: chromatic
   url: http://allperlbooks.com/author/chromatic
 
-- name: KENT (著)
-  firstname: KENT (著)
+- name: KENT
+  firstname: KENT
   url: http://allperlbooks.com/author/kent-jp
 
 - name: Thomas
@@ -44,6 +44,11 @@
   firstname: Sébastien
   lastname: Aperghis-Tramoni
   url: http://allperlbooks.com/author/sebastien-aperghis-tramoni
+
+- name: James Armstrong
+  firstname: James
+  lastname: Armstrong
+  url: http://allperlbooks.com/author/james-armstrong
 
 - name: Adrian Arva
   firstname: Adrian
@@ -475,6 +480,16 @@
   lastname: Dyer
   url: http://allperlbooks.com/author/betsey-dexter-dyer
 
+- name: S. Dzieniszewski
+  firstname: S.
+  lastname: Dzieniszewski
+  url: http://allperlbooks.com/author/s-dzieniszewski
+
+- name: Sławomir Dzieniszewski
+  firstname: Sławomir
+  lastname: Dzieniszewski
+  url: http://allperlbooks.com/author/slawomir-dzieniszewski
+
 - name: Horst Eidenberger
   firstname: Horst
   lastname: Eidenberger
@@ -575,6 +590,11 @@
   lastname: Galbraith
   url: http://allperlbooks.com/author/patrick-galbraith
 
+- name: Robert Gemza
+  firstname: Robert
+  lastname: Gemza
+  url: http://allperlbooks.com/author/robert-gemza
+
 - name: Hallett German
   firstname: Hallett
   lastname: German
@@ -599,6 +619,11 @@
   firstname: Nathan A.
   lastname: Good
   url: http://allperlbooks.com/author/nathan-a-good
+
+- name: Robert Górczyński
+  firstname: Robert
+  lastname: Górczyński
+  url: http://allperlbooks.com/author/robert-gorczynski
 
 - name: Jan Goyvaerts
   firstname: Jan
@@ -720,6 +745,11 @@
   lastname: Hietaniemi
   url: http://allperlbooks.com/author/jarkko-hietaniemi
 
+- name: Jerzy Hodor
+  firstname: Jerzy
+  lastname: Hodor
+  url: http://allperlbooks.com/author/jerzy-hodor
+
 - name: Paul Hoffman
   firstname: Paul
   lastname: Hoffman
@@ -789,6 +819,11 @@
   firstname: Andrew L.
   lastname: Johnson
   url: http://allperlbooks.com/author/andrew-l-johnson
+
+- name: Krzysztof Juszkiewicz
+  firstname: Krzysztof
+  lastname: Juszkiewicz
+  url: http://allperlbooks.com/author/krzysztof-juszkiewicz
 
 - name: Mohammed J. Kabir
   firstname: Mohammed J.
@@ -864,6 +899,11 @@
   firstname: Rainer
   lastname: Krienke
   url: http://allperlbooks.com/author/rainer-krienke
+
+- name: Maja Królikowska
+  firstname: Maja
+  lastname: Królikowska
+  url: http://allperlbooks.com/author/maja-krolikowska
 
 - name: Damien Krotkine
   firstname: Damien
@@ -1095,10 +1135,20 @@
   lastname: Merlino
   url: http://allperlbooks.com/author/joe-merlino
 
+- name: Radosław Meryk
+  firstname: Radosław
+  lastname: Meryk
+  url: http://allperlbooks.com/author/radoslaw-meryk
+
 - name: Brent Michalski
   firstname: Brent
   lastname: Michalski
   url: http://allperlbooks.com/author/brent-michalski
+
+- name: M. Michalski
+  firstname: M.
+  lastname: Michalski
+  url: http://allperlbooks.com/author/m-michalski
 
 - name: Elke Michlmayr
   firstname: Elke
@@ -1114,6 +1164,11 @@
   firstname: Michael
   lastname: Moorhouse
   url: http://allperlbooks.com/author/michael-moorhouse
+
+- name: Michał Mosiewicz
+  firstname: Michał
+  lastname: Mosiewicz
+  url: http://allperlbooks.com/author/michal-mosiewicz
 
 - name: Jerry Muelver
   firstname: Jerry
@@ -1179,6 +1234,11 @@
   firstname: Sam
   lastname: Ockman
   url: http://allperlbooks.com/author/sam-ockman
+
+- name: Krzysztof Olesiejuk
+  firstname: Krzysztof
+  lastname: Olesiejuk
+  url: http://allperlbooks.com/author/krzysztof-olesiejuk
 
 - name: Simon Oliver
   firstname: Simon
@@ -1531,10 +1591,20 @@
   lastname: Swanson
   url: http://allperlbooks.com/author/steven-swanson
 
+- name: Rafal Szpoton
+  firstname: Rafal
+  lastname: Szpoton
+  url: http://allperlbooks.com/author/rafal-szpoton
+
 - name: Ludovic Tanguy
   firstname: Ludovic
   lastname: Tanguy
   url: http://allperlbooks.com/author/ludovic-tanguy
+
+- name: Dave Taylor
+  firstname: Dave
+  lastname: Taylor
+  url: http://allperlbooks.com/author/dave-taylor
 
 - name: Donald B. Thomas
   firstname: Donald B.
@@ -1671,6 +1741,11 @@
   lastname: Weiss
   url: http://allperlbooks.com/author/ed-weiss
 
+- name: Grzegorz Werner
+  firstname: Grzegorz
+  lastname: Werner
+  url: http://allperlbooks.com/author/grzegorz-werner
+
 - name: Mark Westguard
   firstname: Mark
   lastname: Westguard
@@ -1780,4 +1855,9 @@
   firstname: А. М.
   lastname: Пелещишин
   url: http://allperlbooks.com/author/a-peleschishin
+
+- name: 結城 浩
+  firstname: 結城
+  lastname: 浩
+  url: http://allperlbooks.com/author/結城-浩
 

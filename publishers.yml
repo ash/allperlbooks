@@ -50,6 +50,10 @@
   url: http://allperlbooks.com/publisher/cgi101
   href: http://cgi101.com
 
+- name: Computer Press
+  url: http://allperlbooks.com/publisher/computer-press
+  href: http://computerpress.cz
+
 - name: Coriolis Group Books
   url: http://allperlbooks.com/publisher/coriolis
 
@@ -122,6 +126,10 @@
 - name: Hanser Fachbuchverlag
   url: http://allperlbooks.com/publisher/hanser
   href: http://hanser-fachbuch.de
+
+- name: Helion
+  url: http://allperlbooks.com/publisher/helion
+  href: http://helion.pl
 
 - name: Hermes Science Publications
   url: http://allperlbooks.com/publisher/hermes
@@ -359,6 +367,10 @@
 - name: Символ-плюс
   url: http://allperlbooks.com/publisher/symbol
   href: http://symbol.ru
+
+- name: ソフトバンククリエイティブ
+  url: http://allperlbooks.com/publisher/sbcr
+  href: http://sbcr.jp
 
 - name: 技術評論社
   url: http://allperlbooks.com/publisher/gihyo
