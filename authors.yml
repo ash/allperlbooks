@@ -145,6 +145,11 @@
   lastname: Biancuzzi
   url: http://allperlbooks.com/author/federico-biancuzzi
 
+- name: Rafał Bielec
+  firstname: Rafał
+  lastname: Bielec
+  url: http://allperlbooks.com/author/rafal-bielec
+
 - name: Hildo Biersma
   firstname: Hildo
   lastname: Biersma
@@ -394,6 +399,11 @@
   firstname: Brian
   lastname: Deng
   url: http://allperlbooks.com/author/brian-deng
+
+- name: Wojciech Derechowski
+  firstname: Wojciech
+  lastname: Derechowski
+  url: http://allperlbooks.com/author/wojciech-derechowski
 
 - name: Alligator Descartes
   firstname: Alligator
@@ -795,6 +805,16 @@
   lastname: Ivler
   url: http://allperlbooks.com/author/j-m-ivler
 
+- name: Marcin Jagodzińsk
+  firstname: Marcin
+  lastname: Jagodzińsk
+  url: http://allperlbooks.com/author/marcin-jagodzinsk
+
+- name: Marcin Jagodziński
+  firstname: Marcin
+  lastname: Jagodziński
+  url: http://allperlbooks.com/author/marcin-jagodzinski
+
 - name: Arun Jagota
   firstname: Arun
   lastname: Jagota
@@ -804,6 +824,16 @@
   firstname: D. Curtis
   lastname: Jamison
   url: http://allperlbooks.com/author/d-curtis-jamison
+
+- name: Michał Jęczalik
+  firstname: Michał
+  lastname: Jęczalik
+  url: http://allperlbooks.com/author/michal-jeczalik
+
+- name: Marcin Jędrysiak
+  firstname: Marcin
+  lastname: Jędrysiak
+  url: http://allperlbooks.com/author/marcin-jedrysiak
 
 - name: Brigitte Jellinek
   firstname: Brigitte
@@ -1015,6 +1045,11 @@
   lastname: Lines
   url: http://allperlbooks.com/author/stephen-lines
 
+- name: Marcin Lis
+  firstname: Marcin
+  lastname: Lis
+  url: http://allperlbooks.com/author/marcin-lis
+
 - name: Stevan Little
   firstname: Stevan
   lastname: Little
@@ -1160,10 +1195,10 @@
   lastname: Michalski
   url: http://allperlbooks.com/author/brent-michalski
 
-- name: M. Michalski
-  firstname: M.
+- name: Mateusz Michalski
+  firstname: Mateusz
   lastname: Michalski
-  url: http://allperlbooks.com/author/m-michalski
+  url: http://allperlbooks.com/author/mateusz-michalski
 
 - name: Elke Michlmayr
   firstname: Elke
@@ -1275,10 +1310,20 @@
   lastname: Ostrowick
   url: http://allperlbooks.com/author/john-ostrowick
 
+- name: Adam Osuchowski
+  firstname: Adam
+  lastname: Osuchowski
+  url: http://allperlbooks.com/author/adam-osuchowski
+
 - name: Steve Oualline
   firstname: Steve
   lastname: Oualline
   url: http://allperlbooks.com/author/steve-oualline
+
+- name: Aleksander Paleczny
+  firstname: Aleksander
+  lastname: Paleczny
+  url: http://allperlbooks.com/author/aleksander-paleczny
 
 - name: Craig Patchett
   firstname: Craig
@@ -1349,6 +1394,11 @@
   firstname: Jürgen
   lastname: Plate
   url: http://allperlbooks.com/author/jurgen-plate
+
+- name: Adam Podstawczyński
+  firstname: Adam
+  lastname: Podstawczyński
+  url: http://allperlbooks.com/author/adam-podstawczynski
 
 - name: Curtis Poe (Ovid)
   firstname: Curtis
@@ -1696,6 +1746,11 @@
   lastname: Wainwright
   url: http://allperlbooks.com/author/peter-wainwright
 
+- name: Tomasz Walczak
+  firstname: Tomasz
+  lastname: Walczak
+  url: http://allperlbooks.com/author/tomasz-walczak
+
 - name: Larry Wall
   firstname: Larry
   lastname: Wall
@@ -1850,6 +1905,11 @@
   firstname: Tony
   lastname: Zhang
   url: http://allperlbooks.com/author/tony-zhang
+
+- name: Tomasz Żmijewski
+  firstname: Tomasz
+  lastname: Żmijewski
+  url: http://allperlbooks.com/author/tomasz-zmijewski
 
 - name: Jean Zundel
   firstname: Jean

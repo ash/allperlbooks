@@ -14,6 +14,18 @@
   url: http://allperlbooks.com/book/pl/100-sposobow-na-perl
   parent: http://allperlbooks.com/book/en/perl-hacks
 
+- title: 505 praktycznych skryptów dla webmastera
+  language: pl
+  publisher: Helion
+  isbn13: 978-83-7361-749-0
+  isbn10: 83-7361-749-3
+  pages: 944
+  pubdate: 2005-01-13
+  edition: 1
+  tag: Web
+  publisher's page: http://helion.pl/ksiazki/505web.htm
+  url: http://allperlbooks.com/book/pl/505-praktycznych-skryptow-dla-webmastera
+
 - title: 60 Minute Guide to Programming CGI with Perl 5
   language: en
   author: Robert Farrell
@@ -103,6 +115,23 @@
   edition: 2
   url: http://allperlbooks.com/book/en/advanced-perl-programming-2
   parent: http://allperlbooks.com/book/en/advanced-perl-programming
+
+- title: Algorytmy w Perlu
+  language: pl
+  author: Jon Orwant
+  author: Jarkko Hietaniemi
+  author: John Macdonald
+  translator: Sławomir Dzieniszewski
+  translator: Marcin Jędrysiak
+  publisher: Helion
+  isbn13: 978-83-7197-913-2
+  isbn10: 83-7197-913-4
+  pages: 676
+  pubdate: 2003-06-03
+  edition: 1
+  publisher's page: http://helion.pl/ksiazki/alperl.htm
+  url: http://allperlbooks.com/book/pl/algorytmy-w-perlu
+  parent: http://allperlbooks.com/book/en/mastering-algorithms-with-perl
 
 - title: An Introduction to Language Processing with Perl and Prolog
   language: en
@@ -813,7 +842,7 @@
 - title: Core Perl
   language: pl
   author: Reuven M. Lerner
-  translator: M. Michalski
+  translator: Mateusz Michalski
   translator: Sławomir Dzieniszewski
   publisher: Helion
   isbn13: 978-83-7361-169-6
@@ -2512,6 +2541,20 @@
   url: http://allperlbooks.com/book/fr/perl5-precis-and-concis-3
   parent: http://allperlbooks.com/book/en/perl5-pocket-reference
 
+- title: Perl 5. Leksykon kieszonkowy
+  language: pl
+  author: Johan Vromans
+  translator: Aleksander Paleczny
+  publisher: Helion
+  isbn13: 978-83-7197-365-9
+  isbn10: 83-7197-365-9
+  pages: 128
+  pubdate: 2001-03-26
+  edition: 1
+  publisher's page: http://helion.pl/ksiazki/perl5l.htm
+  url: http://allperlbooks.com/book/pl/perl5-leksykon-kieszonkowy
+  parent: http://allperlbooks.com/book/en/perl5-pocket-reference
+
 - title: Perl 6 Essentials
   language: en
   subtitle: The Community's Rewrite of Perl
@@ -2554,6 +2597,23 @@
   edition: 2
   tag: Perl 6
   url: http://allperlbooks.com/book/en/perl6-and-parrot-essentials
+  parent: http://allperlbooks.com/book/en/perl6-essentials
+
+- title: Perl 6. Podstawy
+  language: pl
+  author: Allison Randal
+  author: Dan Sugalski
+  author: Leopold Tötsch
+  translator: Rafal Szpoton
+  publisher: Helion
+  isbn13: 978-83-7361-299-0
+  isbn10: 83-7361-299-8
+  pages: 216
+  pubdate: 2003-10-30
+  edition: 1
+  tag: Perl 6
+  publisher's page: http://helion.pl/ksiazki/per6po.htm
+  url: http://allperlbooks.com/book/pl/perl6-podstawy
   parent: http://allperlbooks.com/book/en/perl6-essentials
 
 - title: Perl Annotated Archives
@@ -3205,6 +3265,22 @@
   url: http://allperlbooks.com/book/pl/perl-dla-kazdego
   parent: http://allperlbooks.com/book/en/teach-yourself-perl-in-21-days
 
+- title: Perl dla średnio zaawansowanych
+  language: pl
+  author: Randal L. Schwartz
+  author: brian d foy
+  author: Tom Phoenix
+  translator: Tomasz Walczak
+  publisher: Helion
+  isbn13: 978-83-246-0615-3
+  isbn10: 83-246-0615-7
+  pages: 264
+  pubdate: 2006-11-29
+  edition: 1
+  publisher's page: http://helion.pl/ksiazki/perlsz.htm
+  url: http://allperlbooks.com/book/pl/perl-dla-srednio-zaawansowanych
+  parent: http://allperlbooks.com/book/en/intermediate-perl
+
 - title: Perl for Bioinformatics
   language: en
   author: Arun Jagota
@@ -3522,6 +3598,21 @@
   edition: 1
   url: http://allperlbooks.com/book/tr/perl-ve-mysql-ile-cgi-programlama
 
+- title: Perl w zarządzaniu witrynami WWW
+  language: pl
+  author: John Callender
+  translator: Wojciech Derechowski
+  publisher: Helion
+  isbn13: 978-83-7197-676-6
+  isbn10: 83-7197-676-3
+  pages: 480
+  pubdate: 2002-07-03
+  edition: 1
+  tag: Web
+  publisher's page: http://helion.pl/ksiazki/perwol.htm
+  url: http://allperlbooks.com/book/pl/perl-w-zaradzaniu-witrynami-www
+  parent: http://allperlbooks.com/book/en/perl-for-web-site-management
+
 - title: Perl İnternet Programcılığı
   language: tr
   subtitle: Temel Başlangıç Kılavuzu
@@ -3611,6 +3702,20 @@
   edition: 1
   url: http://allperlbooks.com/book/de/perl-meisterkurs
 
+- title: Perl. Czarna księga
+  language: pl
+  author: Steven Holzner
+  translator: Tomasz Żmijewski
+  publisher: Helion
+  isbn13: 978-83-7197-288-1
+  isbn10: 83-7197-288-1
+  pages: 416
+  pubdate: 2001-07-26
+  edition: 1
+  publisher's page: http://helion.pl/ksiazki/perlbb.htm
+  url: http://allperlbooks.com/book/pl/perl-czarna-ksinga
+  parent: http://allperlbooks.com/book/en/perl-core-language
+
 - title: Perl. Mistrzostwo w programowaniu
   language: pl
   author: brian d foy
@@ -3623,6 +3728,53 @@
   edition: 1
   url: http://allperlbooks.com/book/pl/perl-mistrzostwo-w-programowaniu
   parent: http://allperlbooks.com/book/en/mastering-perl
+
+- title: Perl. Najlepsze rozwiązania
+  language: pl
+  author: Damian Conway
+  translator: Grzegorz Werner
+  publisher: Helion
+  isbn13: 978-83-246-0127-1
+  isbn10: 83-246-0127-9
+  pages: 488
+  pubdate: 2006-03-06
+  edition: 1
+  publisher's page: http://helion.pl/ksiazki/pernaj.htm
+  url: http://allperlbooks.com/book/pl/perl-najlepsze-rozwiazania
+  parent: http://allperlbooks.com/book/en/perl-best-practices
+
+- title: Perl. Od podstaw
+  language: pl
+  author: Simon Cozens
+  translator: Rafał Bielec
+  translator: Adam Osuchowski
+  translator: Rafal Szpoton
+  publisher: Helion
+  isbn13: 978-83-7197-496-0
+  isbn10: 83-7197-496-5
+  pages: 656
+  pubdate: 2003-01-08
+  edition: 1
+  publisher's page: http://helion.pl/ksiazki/perlop.htm
+  url: http://allperlbooks.com/book/pl/perl-od-podstaw
+  parent: http://allperlbooks.com/book/en/beginning-perl-cozens
+
+- title: Perl. Receptury
+  language: pl
+  author: Tom Christiansen
+  author: Nathan Torkington
+  translator: Mateusz Michalski
+  translator: Rafał Jońca
+  translator: Sławomir Dzieniszewski
+  publisher: Helion
+  isbn13: 978-83-7361-328-7
+  isbn10: 83-7361-328-5
+  pages: 1056
+  pubdate: 2004-02-19
+  edition: 2
+  publisher's page: http://helion.pl/ksiazki/perec2.htm
+  url: http://allperlbooks.com/book/pl/perl-receptury
+  parent: http://allperlbooks.com/book/en/perl-cookbook
 
 - title: Perl. Skrypty
   language: pl
@@ -3671,6 +3823,22 @@
 - title: Perl. Wprowadzenie
   language: pl
   author: Randal L. Schwartz
+  author: Tom Christiansen
+  translator: Michał Jęczalik
+  translator: Marcin Jagodziński
+  publisher: Helion
+  isbn13: 978-83-7197-220-1
+  isbn10: 83-7197-220-2
+  pages: 256
+  pubdate: 2000-07-06
+  edition: 2
+  publisher's page: http://helion.pl/ksiazki/perlwp.htm
+  url: http://allperlbooks.com/book/pl/perl-wprowadzenie-pl-2
+  parent: http://allperlbooks.com/book/en/learning-perl
+
+- title: Perl. Wprowadzenie
+  language: pl
+  author: Randal L. Schwartz
   author: Tom Phoenix
   author: brian d foy
   translator: Rafal Szpoton
@@ -3680,9 +3848,38 @@
   pages: 320
   pubdate: 2006-01-10
   edition: 4
-  publisher's page: http://helion.pl/ksiazki/perlwp.htm
-  url: http://allperlbooks.com/book/pl/perl-wprowadzenie
+  publisher's page: http://helion.pl/ksiazki/perlw2.htm
+  url: http://allperlbooks.com/book/pl/perl-wprowadzenie-pl-4
   parent: http://allperlbooks.com/book/en/learning-perl
+
+- title: Perl. Zaawansowane programowanie
+  language: pl
+  author: Sriram Srinivasan
+  translator: Adam Podstawczyński
+  publisher: Helion
+  isbn13: 978-83-7197-999-6
+  isbn10: 83-7197-999-1
+  pages: 448
+  pubdate: 2003-02-04
+  edition: 1
+  publisher's page: http://helion.pl/ksiazki/perlzp.htm
+  url: http://allperlbooks.com/book/pl/perl-zaawansowane-programowanie
+  parent: http://allperlbooks.com/book/en/advanced-perl-programming
+
+- title: Perl. Zaawansowane programowanie
+  language: pl
+  author: Simon Cozens
+  translator: Sławomir Dzieniszewski
+  translator: Mateusz Michalski
+  publisher: Helion
+  isbn13: 978-83-246-0231-5
+  isbn10: 83-246-0231-3
+  pages: 228
+  pubdate: 2006-02-13
+  edition: 2
+  publisher's page: http://helion.pl/ksiazki/perlz2.htm
+  url: http://allperlbooks.com/book/pl/perl-zaawansowane-programowanie-2
+  parent: http://allperlbooks.com/book/en/advanced-perl-programming
 
 - title: Perl. Ćwiczenia
   language: pl
@@ -3736,6 +3933,22 @@
   tag: Graphics
   tag: Pocket edition
   url: http://allperlbooks.com/book/en/perl-tk-pocket-reference
+
+- title: Perl/Tk. Leksykon kieszonkowy
+  language: pl
+  author: Stephen Lidie
+  translator: Robert Gębarowski
+  publisher: Helion
+  isbn13: 978-83-7197-464-9
+  isbn10: 83-7197-464-7
+  pages: 144
+  pubdate: 2001-05-24
+  edition: 1
+  tag: Graphics
+  tag: Pocket edition
+  publisher's page: http://helion.pl/ksiazki/perlek.htm
+  url: http://allperlbooks.com/book/pl/perl-tk-leksykon-kieszonkowy
+  parent: http://allperlbooks.com/book/en/perl-tk-pocket-reference
 
 - title: Perl: A Beginner's Guide
   language: en
@@ -6159,6 +6372,17 @@
   edition: 1
   tag: Web
   url: http://allperlbooks.com/book/uk/rozroblennya-saitiv-perl
+
+- title: Сетевые решения. Спецвыпуск
+  language: ru
+  subtitle: BY Perl. Беларускі Perl-воркшоп 2008
+  publisher: Сетевые решения
+  isbn13: 9771992779007
+  isbn10: 1992-7797
+  pages: 0
+  pubdate: 2008-09-00
+  edition: 1
+  url: http://allperlbooks.com/book/ru/setevie-reshenia
 
 - title: 最速攻略 CGI/Perl 作り方入門
   language: ja
