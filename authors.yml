@@ -480,11 +480,6 @@
   lastname: Dyer
   url: http://allperlbooks.com/author/betsey-dexter-dyer
 
-- name: S. Dzieniszewski
-  firstname: S.
-  lastname: Dzieniszewski
-  url: http://allperlbooks.com/author/s-dzieniszewski
-
 - name: Sławomir Dzieniszewski
   firstname: Sławomir
   lastname: Dzieniszewski
@@ -590,6 +585,11 @@
   lastname: Galbraith
   url: http://allperlbooks.com/author/patrick-galbraith
 
+- name: Robert Gębarowski
+  firstname: Robert
+  lastname: Gębarowski
+  url: http://allperlbooks.com/author/robert-gebarowski
+
 - name: Robert Gemza
   firstname: Robert
   lastname: Gemza
@@ -629,6 +629,11 @@
   firstname: Jan
   lastname: Goyvaerts
   url: http://allperlbooks.com/author/jan-goyvaerts
+
+- name: Janusz Grabis
+  firstname: Janusz
+  lastname: Grabis
+  url: http://allperlbooks.com/author/janusz-grabis
 
 - name: Neil Gray
   firstname: Neil
@@ -820,6 +825,11 @@
   lastname: Johnson
   url: http://allperlbooks.com/author/andrew-l-johnson
 
+- name: Rafał Jońca
+  firstname: Rafał
+  lastname: Jońca
+  url: http://allperlbooks.com/author/rafal-jonca
+
 - name: Krzysztof Juszkiewicz
   firstname: Krzysztof
   lastname: Juszkiewicz
@@ -884,6 +894,11 @@
   firstname: Ian
   lastname: Korf
   url: http://allperlbooks.com/author/ian-korf
+
+- name: Przemysław Kowalczyk
+  firstname: Przemysław
+  lastname: Kowalczyk
+  url: http://allperlbooks.com/author/przemyslaw-kowalczyk
 
 - name: Eric Kramer
   firstname: Eric

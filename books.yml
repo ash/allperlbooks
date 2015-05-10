@@ -10,6 +10,7 @@
   pages: 320
   pubdate: 2006-12-13
   edition: 1
+  publisher's page: http://helion.pl/ksiazki/100per.htm
   url: http://allperlbooks.com/book/pl/100-sposobow-na-perl
   parent: http://allperlbooks.com/book/en/perl-hacks
 
@@ -366,6 +367,22 @@
   tag: Web
   url: http://allperlbooks.com/book/en/cgi-perl-in-easy-steps
 
+- title: CGI
+  language: pl
+  author: Rafe Colburn
+  translator: Michał Mosiewicz
+  publisher: Helion
+  isbn13: 978-83-7197-032-0
+  isbn10: 83-7197-032-3
+  pages: 344
+  pubdate: 1998-05-22
+  edition: 1
+  tag: CGI
+  tag: Web
+  publisher's page: http://helion.pl/ksiazki/cgi.htm
+  url: http://allperlbooks.com/book/pl/cgi-pl
+  parent: http://allperlbooks.com/book/en/teach-yourself-cgi-programming-in-a-week
+
 - title: CGI Bible
   language: en
   author: Ed Tittel
@@ -688,21 +705,6 @@
   tag: Web
   url: http://allperlbooks.com/book/en/cgi-perl-cookbook
 
-- title: CGI/Perl. Ksi
-  language: pl
-  author: Rafe Colburn
-  translator: Michał Mosiewicz
-  publisher: Helion
-  isbn13: 978-83-7197-032-0
-  isbn10: 83-7197-032-3
-  pages: 344
-  pubdate: 1998-05-22
-  edition: 1
-  tag: CGI
-  tag: Web
-  url: http://allperlbooks.com/book/pl/cgi-pl
-  parent: http://allperlbooks.com/book/en/teach-yourself-cgi-programming-in-a-week
-
 - title: CGI/Perl. Książka kucharska
   language: pl
   author: Craig Patchett
@@ -717,6 +719,7 @@
   edition: 1
   tag: CGI
   tag: Web
+  publisher's page: http://helion.pl/ksiazki/perl.htm
   url: http://allperlbooks.com/book/pl/cgi-perl-ksiazka-kucharska
   parent: http://allperlbooks.com/book/en/cgi-perl-cookbook
 
@@ -818,6 +821,7 @@
   pages: 456
   pubdate: 2003-09-25
   edition: 1
+  publisher's page: http://helion.pl/ksiazki/perlcr.htm
   url: http://allperlbooks.com/book/pl/core-perl-pl
   parent: http://allperlbooks.com/book/en/core-perl
 
@@ -3187,6 +3191,20 @@
   url: http://allperlbooks.com/book/en/perl-by-example-5
   parent: http://allperlbooks.com/book/en/perl-by-example
 
+- title: Perl dla każdego
+  language: pl
+  author: Laura Lemay
+  translator: Janusz Grabis
+  publisher: Helion
+  isbn13: 978-83-7197-053-5
+  isbn10: 83-7197-053-6
+  pages: 648
+  pubdate: 2000-05-08
+  edition: 1
+  publisher's page: http://helion.pl/ksiazki/perldk.htm
+  url: http://allperlbooks.com/book/pl/perl-dla-kazdego
+  parent: http://allperlbooks.com/book/en/teach-yourself-perl-in-21-days
+
 - title: Perl for Bioinformatics
   language: en
   author: Arun Jagota
@@ -3606,6 +3624,20 @@
   url: http://allperlbooks.com/book/pl/perl-mistrzostwo-w-programowaniu
   parent: http://allperlbooks.com/book/en/mastering-perl
 
+- title: Perl. Skrypty
+  language: pl
+  author: Steve Oualline
+  translator: Rafał Jońca
+  publisher: Helion
+  isbn13: 978-83-246-0623-8
+  isbn10: 83-246-0623-8
+  pages: 344
+  pubdate: 2007-02-06
+  edition: 1
+  publisher's page: http://helion.pl/ksiazki/perlsk.htm
+  url: http://allperlbooks.com/book/pl/perl-skrypty
+  parent: http://allperlbooks.com/book/en/wicked-cool-perl-scripts
+
 - title: Perl. Testowanie. Zapiski programisty
   language: pl
   author: Ian Langworth
@@ -3617,8 +3649,24 @@
   pages: 240
   pubdate: 2006-01-20
   edition: 1
+  publisher's page: http://helion.pl/ksiazki/pertes.htm
   url: http://allperlbooks.com/book/pl/perl-testowanie-zapiski-programisty
   parent: http://allperlbooks.com/book/en/perl-testing
+
+- title: Perl. Tworzenie aplikacji sieciowych
+  language: pl
+  author: Lincoln Stein
+  translator: Robert Gębarowski
+  publisher: Helion
+  isbn13: 978-83-7197-604-9
+  isbn10: 83-7197-604-6
+  pages: 840
+  pubdate: 2002-10-28
+  edition: 1
+  tag: Web
+  publisher's page: http://helion.pl/ksiazki/perlas.htm
+  url: http://allperlbooks.com/book/pl/perl-tworzenie-aplikacji-sieciowych
+  parent: http://allperlbooks.com/book/en/network-programming-with-perl
 
 - title: Perl. Wprowadzenie
   language: pl
@@ -3632,6 +3680,7 @@
   pages: 320
   pubdate: 2006-01-10
   edition: 4
+  publisher's page: http://helion.pl/ksiazki/perlwp.htm
   url: http://allperlbooks.com/book/pl/perl-wprowadzenie
   parent: http://allperlbooks.com/book/en/learning-perl
 
@@ -3644,6 +3693,7 @@
   pages: 132
   pubdate: 2003-01-07
   edition: 1
+  publisher's page: http://helion.pl/ksiazki/cwperl.htm
   url: http://allperlbooks.com/book/pl/perl-cwiczenia
 
 - title: Perl. Архив программ
@@ -5352,6 +5402,7 @@
   pubdate: 2000-06-19
   edition: 1
   tag: Unixes
+  publisher's page: http://helion.pl/ksiazki/unixdk.htm
   url: http://allperlbooks.com/book/pl/unix-dla-kazdego
 
 - title: Using CGI
@@ -5737,6 +5788,7 @@
   pages: 584
   pubdate: 2012-07-13
   edition: 1
+  publisher's page: http://helion.pl/ksiazki/wieumy.htm
   url: http://allperlbooks.com/book/pl/masterminds-pl
   parent: http://allperlbooks.com/book/en/masterminds-of-programming
 
@@ -5820,6 +5872,7 @@
   pubdate: 2013-07-23
   edition: 1
   tag: Regular expressions
+  publisher's page: http://helion.pl/ksiazki/wyrawp.htm
   url: http://allperlbooks.com/book/pl/wyrazenia-regularne-wprowadzenie
   parent: http://allperlbooks.com/book/en/introducing-regular-expressions
 
@@ -5953,6 +6006,43 @@
   tag: CGI
   tag: Pocket edition
   url: http://allperlbooks.com/book/en/mod_perl-pocket-reference
+
+- title: mod_perl. Leksykon kieszonkowy
+  language: pl
+  author: Andrew Ford
+  translator: Robert Gębarowski
+  publisher: Helion
+  isbn13: 978-83-7197-468-7
+  isbn10: 83-7197-468-X
+  pages: 120
+  pubdate: 2001-05-29
+  edition: 1
+  tag: Apache
+  tag: CGI
+  tag: Web
+  tag: Pocket edition
+  publisher's page: http://helion.pl/ksiazki/modlek.htm
+  url: http://allperlbooks.com/book/pl/mod-perl-leksykon-kieszonkowy
+  parent: http://allperlbooks.com/book/en/mod_perl-pocket-reference
+
+- title: mod_perl. Podręcznik programisty
+  language: pl
+  author: Geoffrey Young
+  author: Paul Lindner
+  author: Randy Kobes
+  translator: Przemysław Kowalczyk
+  publisher: Helion
+  isbn13: 978-83-7197-799-2
+  isbn10: 83-7197-799-9
+  pages: 564
+  pubdate: 2003-01-30
+  edition: 1
+  tag: Apache
+  tag: Web
+  tag: CGI
+  publisher's page: http://helion.pl/ksiazki/modpkp.htm
+  url: http://allperlbooks.com/book/pl/mod-perl-podrecznik-programisty
+  parent: http://allperlbooks.com/book/en/mod_perl-developers-cookbook
 
 - title: Да научим Perl
   language: bg
