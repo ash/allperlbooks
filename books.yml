@@ -753,6 +753,23 @@
   url: http://allperlbooks.com/book/pl/cgi-perl-ksiazka-kucharska
   parent: http://allperlbooks.com/book/en/cgi-perl-cookbook
 
+- title: CGIプログラミング
+  language: ja
+  author: Scott Guelich
+  author: Shishir Gundavaram
+  author: Gunther Birznieks
+  publisher: O'Reilly Japan
+  isbn13: 978-4-87311-044-8
+  isbn10: 4-87311-044-0
+  pages: 520
+  pubdate: 2001-06-00
+  edition: 1
+  tag: CGI
+  tag: Web
+  publisher's page: https://www.oreilly.co.jp/books/4873110440/
+  url: http://allperlbooks.com/book/ja/cgi-programming-ja-2
+  parent: http://allperlbooks.com/book/en/cgi-programming-of-the-world-wide-web
+
 - title: Catalyst
   language: en
   author: Jonathan Rockway
@@ -2946,6 +2963,22 @@
   tag: Debugging and Testing
   url: http://allperlbooks.com/book/en/perl-hacks
 
+- title: Perl Hacks
+  language: ja
+  subtitle: プロが教えるテクニック & ツール101選
+  author: chromatic
+  author: Damian Conway
+  author: Curtis Poe (Ovid)
+  publisher: O'Reilly Japan
+  isbn13: 978-4-87311-314-2
+  isbn10: 4-87311-314-8
+  pages: 352
+  pubdate: 2007-01-00
+  edition: 1
+  publisher's page: https://www.oreilly.co.jp/books/9784873113142/
+  url: http://allperlbooks.com/book/ja/perl-hacks-ja
+  parent: http://allperlbooks.com/book/en/perl-hacks
+
 - title: Perl Interview Questions
   language: en
   subtitle: Perl Programming Frequently Asked Questions
@@ -4146,6 +4179,52 @@
   pubdate: 2011-09-30
   edition: 1
   url: http://allperlbooks.com/book/en/perlish-patterns
+
+- title: Perlクックブック VOLUME 1
+  language: ja
+  subtitle: Solutions & Examples for Perl Programmers
+  author: Tom Christiansen
+  author: Nathan Torkington
+  translator: Shibuya Perl Mongers
+  publisher: O'Reilly Japan
+  isbn13: 978-4-87311-202-2
+  isbn10: 4-87311-202-8
+  pages: 752
+  pubdate: 2004-09-00
+  edition: 2
+  publisher's page: https://www.oreilly.co.jp/books/4873112028/
+  url: http://allperlbooks.com/book/ja/perl-cookbook-ja-volume1
+  parent: http://allperlbooks.com/book/en/perl-cookbook
+
+- title: Perlクックブック VOLUME 2
+  language: ja
+  subtitle: Solutions & Examples for Perl Programmers
+  author: Tom Christiansen
+  author: Nathan Torkington
+  translator: Shibuya Perl Mongers
+  publisher: O'Reilly Japan
+  isbn13: 978-4-87311-203-9
+  isbn10: 4-87311-203-6
+  pages: 464
+  pubdate: 2004-09-00
+  edition: 2
+  publisher's page: https://www.oreilly.co.jp/books/4873112036/
+  url: http://allperlbooks.com/book/ja/perl-cookbook-ja-volume2
+  parent: http://allperlbooks.com/book/en/perl-cookbook
+
+- title: Perlベストプラクティス
+  language: ja
+  subtitle: Standards and Styles for Developing Maintainable Code
+  author: Damian Conway
+  publisher: O'Reilly Japan
+  isbn13: 978-4-87311-300-5
+  isbn10: 4-87311-300-8
+  pages: 520
+  pubdate: 2006-08-00
+  edition: 1
+  publisher's page: https://www.oreilly.co.jp/books/4873113008/
+  url: http://allperlbooks.com/book/ja/perl-best-practices-ja
+  parent: http://allperlbooks.com/book/en/perl-best-practices
 
 - title: Perl學習手冊
   language: zh
@@ -6590,6 +6669,52 @@
   edition: 1
   url: http://allperlbooks.com/book/ru/setevie-reshenia
 
+- title: プログラミングPerl VOLUME 1
+  language: ja
+  subtitle: There's More Than One Way To Do It
+  author: Larry Wall
+  author: Tom Christiansen
+  author: Jon Orwant
+  publisher: O'Reilly Japan
+  isbn13: 978-4-87311-096-7
+  isbn10: 4-87311-096-3
+  pages: 756
+  pubdate: 2002-09-00
+  edition: 3
+  publisher's page: https://www.oreilly.co.jp/books/4873110963/
+  url: http://allperlbooks.com/book/ja/programming-perl-ja-volume1
+  parent: http://allperlbooks.com/book/en/programming-perl-quick-reference-guide
+
+- title: プログラミングPerl VOLUME 2
+  language: ja
+  subtitle: There's More Than One Way To Do It
+  author: Larry Wall
+  author: Tom Christiansen
+  author: Jon Orwant
+  publisher: O'Reilly Japan
+  isbn13: 978-4-87311-097-4d
+  isbn10: 4-87311-097-1
+  pages: 680
+  pubdate: 2002-09-00
+  edition: 3
+  publisher's page: https://www.oreilly.co.jp/books/4873110971/
+  url: http://allperlbooks.com/book/ja/programming-perl-ja-volume2
+  parent: http://allperlbooks.com/book/en/programming-perl-quick-reference-guide
+
+- title: マスタリングPerl
+  language: ja
+  subtitle: Creating Professional Programs with Perl
+  author: brian d foy
+  publisher: O'Reilly Japan
+  isbn13: 978-4-87311-397-5
+  isbn10: 4-87311-397-0
+  pages: 388
+  pubdate: 2009-03-00
+  edition: 1
+  publisher's page: https://www.oreilly.co.jp/books/9784873113975/
+  url: http://allperlbooks.com/book/ja/mastering-perl-ja
+  parent: http://allperlbooks.com/book/en/mastering-perl
+
 - title: 初めてのPerl
   language: ja
   subtitle: Making Easy Things Easy & Hard Things Possible
@@ -6605,6 +6730,19 @@
   publisher's page: https://www.oreilly.co.jp/books/9784873115672/
   url: http://allperlbooks.com/book/ja/learning-perl-ja-6
   parent: http://allperlbooks.com/book/en/learning-perl
+
+- title: 実用 Perlプログラミング
+  language: ja
+  author: Simon Cozens
+  publisher: O'Reilly Japan
+  isbn13: 978-4-87311-280-0
+  isbn10: 4-87311-280-X
+  pages: 320
+  pubdate: 2006-03-00
+  edition: 2
+  publisher's page: https://www.oreilly.co.jp/books/487311280X/
+  url: http://allperlbooks.com/book/ja/advanced-perl-programming-ja
+  parent: http://allperlbooks.com/book/en/advanced-perl-programming
 
 - title: 最速攻略 CGI/Perl 作り方入門
   language: ja
@@ -6649,4 +6787,18 @@
   edition: 2
   url: http://allperlbooks.com/book/ja/intermediate-perl-ja-2
   parent: http://allperlbooks.com/book/en/intermediate-perl
+
+- title: 詳説 正規表現
+  language: ja
+  author: Jeffrey E. F. Friedl
+  publisher: O'Reilly Japan
+  isbn13: 978-4-87311-359-3
+  isbn10: 4-87311-359-8
+  pages: 528
+  pubdate: 2008-04-00
+  edition: 3
+  tag: Regular expressions
+  publisher's page: https://www.oreilly.co.jp/books/9784873113593/
+  url: http://allperlbooks.com/book/ja/regular-expressions-ja-3
+  parent: http://allperlbooks.com/book/en/mastering-regular-expressions
 

@@ -6,6 +6,10 @@
   firstname: KENT
   url: http://allperlbooks.com/author/kent-jp
 
+- name: Shibuya Perl Mongers
+  firstname: Shibuya Perl Mongers
+  url: http://allperlbooks.com/author/shibuya-pm
+
 - name: Thomas
   firstname: Thomas
   url: http://allperlbooks.com/author/thomas
