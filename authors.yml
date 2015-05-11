@@ -1980,6 +1980,11 @@
   lastname: Марковець
   url: http://allperlbooks.com/author/o-markovets
 
+- name: А. Павлов
+  firstname: А.
+  lastname: Павлов
+  url: http://allperlbooks.com/author/a-pavlov
+
 - name: А. М. Пелещишин
   firstname: А. М.
   lastname: Пелещишин

@@ -705,6 +705,20 @@
   url: http://allperlbooks.com/book/de/cgi-anwendungen-mit-perl
   parent: http://allperlbooks.com/book/en/writing-cgi-applications-with-perl
 
+- title: CGI-программирование
+  language: ru
+  subtitle: Учебный курс
+  author: А. Павлов
+  publisher: Питер
+  isbn13: 978-5-272-00242-6
+  isbn10: 5-272-00242-3
+  pages: 416
+  pubdate: 2000-07-00
+  edition: 1
+  tag: CGI
+  tag: Web
+  url: http://allperlbooks.com/book/ru/cgi-programming-ru
+
 - title: CGI/Perl
   language: en
   author: Diane Zak
