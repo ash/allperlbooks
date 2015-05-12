@@ -527,7 +527,7 @@
   tag: CGI
   tag: Web
   url: http://allperlbooks.com/book/nl/cgi-programmeren-met-perl
-  parent: http://allperlbooks.com/book/en/cgi-programming-of-the-world-wide-web
+  parent: http://allperlbooks.com/book/en/cgi-programming-on-the-world-wide-web
 
 - title: CGI Programmierung mit Perl
   language: de
@@ -543,7 +543,7 @@
   edition: 3
   tag: CGI
   url: http://allperlbooks.com/book/de/cgi-programmierung-mit-perl
-  parent: http://allperlbooks.com/book/en/cgi-programming-of-the-world-wide-web
+  parent: http://allperlbooks.com/book/en/cgi-programming-on-the-world-wide-web
 
 - title: CGI Programming 101
   language: en
@@ -613,7 +613,7 @@
   tag: Web
   url: http://allperlbooks.com/book/en/cgi-programming-in-c-perl
 
-- title: CGI Programming of the World Wide Web
+- title: CGI Programming on the World Wide Web
   language: en
   author: Shishir Gundavaram
   publisher: O'Reilly Media
@@ -625,7 +625,7 @@
   edition: 1
   tag: CGI
   tag: Web
-  url: http://allperlbooks.com/book/en/cgi-programming-of-the-world-wide-web
+  url: http://allperlbooks.com/book/en/cgi-programming-on-the-world-wide-web
 
 - title: CGI Programming with Perl
   language: en
@@ -642,7 +642,7 @@
   tag: CGI
   tag: Web
   url: http://allperlbooks.com/book/en/cgi-progamming-with-perl
-  parent: http://allperlbooks.com/book/en/cgi-programming-of-the-world-wide-web
+  parent: http://allperlbooks.com/book/en/cgi-programming-on-the-world-wide-web
 
 - title: CGI Programming with Perl, Visual Basic, and C
   language: en
@@ -782,7 +782,7 @@
   tag: Web
   publisher's page: https://www.oreilly.co.jp/books/4873110440/
   url: http://allperlbooks.com/book/ja/cgi-programming-ja-2
-  parent: http://allperlbooks.com/book/en/cgi-programming-of-the-world-wide-web
+  parent: http://allperlbooks.com/book/en/cgi-programming-on-the-world-wide-web
 
 - title: Catalyst
   language: en
@@ -2834,6 +2834,22 @@
   url: http://allperlbooks.com/book/en/perl-core-language-2
   parent: http://allperlbooks.com/book/en/perl-core-language
 
+- title: Perl DBI
+  language: fr
+  subtitle: Le guide du dévelooppeur
+  author: Alligator Descartes
+  author: Tim Bunce
+  translator: d'Éric Jacoboni
+  publisher: Éditions O'Reilly
+  isbn13: 978-2-84177-131-8
+  isbn10: 2-84177-131-8
+  pages: 372
+  pubdate: 2000-12-06
+  edition: 1
+  tag: Databases
+  url: http://allperlbooks.com/book/fr/perl-dbi-fr
+  parent: http://allperlbooks.com/book/en/programming-the-perl-dbi
+
 - title: Perl Database Programming
   language: en
   author: Brent Michalski
@@ -3385,6 +3401,20 @@
   publisher's page: http://helion.pl/ksiazki/perlsz.htm
   url: http://allperlbooks.com/book/pl/perl-dla-srednio-zaawansowanych
   parent: http://allperlbooks.com/book/en/intermediate-perl
+
+- title: Perl en action
+  language: fr
+  author: Tom Christiansen
+  author: Nathan Torkington
+  translator: Sébastien Blondeel
+  publisher: Éditions O'Reilly
+  isbn13: 978-2-84177-077-9
+  isbn10: 2-84177-077-X
+  pages: 891
+  pubdate: 1999-09-01
+  edition: 1
+  url: http://allperlbooks.com/book/fr/perl-en-action
+  parent: http://allperlbooks.com/book/en/perl-cookbook
 
 - title: Perl for Bioinformatics
   language: en
@@ -4583,7 +4613,7 @@
   tag: CGI
   tag: Web
   url: http://allperlbooks.com/book/fr/programmation-cgi
-  parent: http://allperlbooks.com/book/en/cgi-programming-of-the-world-wide-web
+  parent: http://allperlbooks.com/book/en/cgi-programming-on-the-world-wide-web
 
 - title: Programmation en Perl
   language: fr

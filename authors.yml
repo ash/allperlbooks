@@ -179,6 +179,11 @@
   lastname: Blank-Edelman
   url: http://allperlbooks.com/author/david-n-blank-edelman
 
+- name: Sébastien Blondeel
+  firstname: Sébastien
+  lastname: Blondeel
+  url: http://allperlbooks.com/author/sébastien-blondeel
+
 - name: Anne Bohy
   firstname: Anne
   lastname: Bohy
@@ -833,6 +838,11 @@
   firstname: J. M.
   lastname: Ivler
   url: http://allperlbooks.com/author/j-m-ivler
+
+- name: d'Éric Jacoboni
+  firstname: d'Éric
+  lastname: Jacoboni
+  url: http://allperlbooks.com/author/d-eric-jacoboni
 
 - name: Marcin Jagodzińsk
   firstname: Marcin
