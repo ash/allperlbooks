@@ -67,6 +67,10 @@
   synonyms: pcre regex regexes regexp regexps grammar grammars rule rules grep
   url: http://allperlbooks.com/tag/regexes
 
+- tag: Security
+  synonyms: hack hacker
+  url: http://allperlbooks.com/tag/security
+
 - tag: System administration
   synonyms: devop devops admin sysadmin admins sysadmins
   url: http://allperlbooks.com/tag/devops

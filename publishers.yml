@@ -182,6 +182,10 @@
   url: http://allperlbooks.com/publisher/mcgraw-hill
   href: http://mcgraw-hill.com
 
+- name: Mikro knjiga
+  url: http://allperlbooks.com/publisher/mikroknjiga
+  href: http://www.mikroknjiga.rs
+
 - name: Morgan Kaufmann
   url: http://allperlbooks.com/publisher/morgan-kaufmann
   href: http://mkp.com/
@@ -363,12 +367,20 @@
   url: http://allperlbooks.com/publisher/binom
   href: http://ibz.ru
 
+- name: Вильямс
+  url: http://allperlbooks.com/publisher/williams
+  href: http://williamspublishing.com
+
 - name: Диалектика
   url: http://allperlbooks.com/publisher/dialektika
 
 - name: ЗеСТ Прес
   url: http://allperlbooks.com/publisher/zest-press
   href: http://zest-press.com
+
+- name: ИД «Весь»
+  url: http://allperlbooks.com/publisher/ves
+  href: http://vesbook.ru
 
 - name: Кудиц-образ
   url: http://allperlbooks.com/publisher/qdts
@@ -377,9 +389,15 @@
 - name: Львівська політехніка
   url: http://allperlbooks.com/publisher/lp
 
+- name: Новый издательский дом
+  url: http://allperlbooks.com/publisher/noviy-dom
+
 - name: Питер
   url: http://allperlbooks.com/publisher/piter
   href: http://piter.com
+
+- name: Радио и связь
+  url: http://allperlbooks.com/publisher/ris
 
 - name: Сетевые решения
   url: http://allperlbooks.com/publisher/sr-minsk

@@ -1,3 +1,16 @@
+- title: 
+  language: ru
+  author: Jeffrey E. F. Friedl
+  publisher: Питер
+  series: Библиотека программиста
+  isbn13: 978-5-272-00331-7
+  isbn10: 5-272-00331-4
+  pages: 464
+  pubdate: 2003-00-00
+  edition: 2
+  tag: Regular expressions
+  url: http://allperlbooks.com/book/ru/regular-expressions-ru-2
+
 - title: 100 sposobów na Perl
   language: pl
   author: chromatic
@@ -158,6 +171,21 @@
   pubdate: 2005-06-28
   edition: 1
   url: http://allperlbooks.com/book/en/analyzing-computer-system-performance-with-perl-pdq
+
+- title: Apache, Perl, MySQL: практика создания динамических сайтов
+  language: ru
+  subtitle: Самоучитель
+  author: Артемий Ломов
+  publisher: bhv
+  isbn13: 978-5-94157-900-6
+  isbn10: 5-94157-900-4
+  pages: 368
+  pubdate: 2007-00-00
+  edition: 1
+  tag: Apache
+  tag: Databases
+  tag: Web
+  url: http://allperlbooks.com/book/ru/apache-perl-mysql-building-sites
 
 - title: Applied Perl
   language: en
@@ -708,7 +736,7 @@
 - title: CGI-программирование
   language: ru
   subtitle: Учебный курс
-  author: А. Павлов
+  author: Алексей Павлов
   publisher: Питер
   isbn13: 978-5-272-00242-6
   isbn10: 5-272-00242-3
@@ -718,6 +746,24 @@
   tag: CGI
   tag: Web
   url: http://allperlbooks.com/book/ru/cgi-programming-ru
+
+- title: CGI-программирование на Perl
+  language: ru
+  subtitle: Создание динамически
+  author: Scott Guelich
+  author: Shishir Gundavaram
+  author: Gunther Birznieks
+  translator: Т. Морозова
+  publisher: Символ-плюс
+  isbn13: 978-5-93286-016-8
+  isbn10: 5-93286-016-2
+  pages: 480
+  pubdate: 2001-00-00
+  edition: 1
+  tag: CGI
+  tag: Web
+  url: http://allperlbooks.com/book/ru/cgi-programming-perl-ru
+  parent: http://allperlbooks.com/book/en/cgi-programming-on-the-world-wide-web
 
 - title: CGI/Perl
   language: en
@@ -765,6 +811,19 @@
   tag: Web
   publisher's page: http://helion.pl/ksiazki/perl.htm
   url: http://allperlbooks.com/book/pl/cgi-perl-ksiazka-kucharska
+  parent: http://allperlbooks.com/book/en/cgi-perl-cookbook
+
+- title: CGI/Perl: создание программ для Web
+  language: ru
+  author: Craig Patchett
+  author: Matthew Wright
+  publisher: bhv
+  isbn13: 978-5-7315-0043-2
+  isbn10: 5-7315-0043-6
+  pages: 624
+  pubdate: 2000-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/ru/cgi-perl-web-ru
   parent: http://allperlbooks.com/book/en/cgi-perl-cookbook
 
 - title: CGIプログラミング
@@ -1082,6 +1141,19 @@
   tag: Web
   url: http://allperlbooks.com/book/en/drag-n-drop-cgi
 
+- title: Echt coole Perl-Skripte
+  language: de
+  subtitle: Nützliche Perl-Skripte, die knifflige Probleme lösen
+  author: Steve Oualline
+  publisher: Hanser Fachbuchverlag
+  isbn13: 978-3-446-40683-4
+  isbn10: 3-446-40683-2
+  pages: 254
+  pubdate: 2006-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/de/echt-coole-perl-skripte
+  parent: http://allperlbooks.com/book/en/wicked-cool-perl-scripts
+
 - title: Effective Perl Programming
   language: en
   subtitle: Writing Better Programs with Perl
@@ -1112,6 +1184,22 @@
   tag: Pearl
   url: http://allperlbooks.com/book/en/effective-perl-programming-2
   parent: http://allperlbooks.com/book/en/effective-perl-programming
+
+- title: Einführung in Perl
+  language: de
+  subtitle: Beandelt Perl 5.8
+  author: Randal L. Schwartz
+  author: Tom Phoenix
+  author: brian d foy
+  translator: Jørgen W. Lang
+  publisher: O'Reilly Media
+  isbn13: 978-3-89721-434-7
+  isbn10: 3-89721-434-2
+  pages: 318
+  pubdate: 2005-00-00
+  edition: 4
+  url: http://allperlbooks.com/book/de/einfuhrung-in-perl
+  parent: http://allperlbooks.com/book/en/learning-perl
 
 - title: Einstieg in Reguläre Ausdrücke
   language: de
@@ -2044,6 +2132,22 @@
   tag: Pearl
   url: http://allperlbooks.com/book/cs/myslime-v-jazyku-perl
 
+- title: Naučite Perl
+  language: sr
+  subtitle: Lako ostaje lako, a teško postaje ostvarivo
+  author: Randal L. Schwartz
+  author: Tom Phoenix
+  author: brian d foy
+  translator: Darko Milutinović
+  publisher: Mikro knjiga
+  isbn13: 978-86-7555-290-1
+  isbn10: 86-7555-290-4
+  pages: 286
+  pubdate: 2006-00-00
+  edition: 4
+  url: http://allperlbooks.com/book/sr/naucite-perl
+  parent: http://allperlbooks.com/book/en/learning-perl
+
 - title: Naučte se Perl za 21 dní
   language: cs
   author: Laura Lemay
@@ -2211,6 +2315,21 @@
   edition: 1
   tag: Debugging and Testing
   url: http://allperlbooks.com/book/en/penetration-testing-with-perl
+
+- title: Perl & CGI для всемирной паутины
+  language: ru
+  subtitle: Наглядное пособие для быстрого старта
+  author: Elizabeth Castro
+  publisher: ИД «Весь»
+  isbn13: 978-5-94435-206-4
+  isbn10: 5-94435-206-X
+  pages: 272
+  pubdate: 2003-00-00
+  edition: 1
+  tag: CGI
+  tag: Web
+  url: http://allperlbooks.com/book/ru/perl-and-cgi-web-ru
+  parent: http://allperlbooks.com/book/en/perl-and-cgi-for-the-world-wide-web
 
 - title: Perl & LWP
   language: en
@@ -2629,6 +2748,20 @@
   url: http://allperlbooks.com/book/pl/perl5-leksykon-kieszonkowy
   parent: http://allperlbooks.com/book/en/perl5-pocket-reference
 
+- title: Perl 5. Web-профессионалам
+  language: ru
+  author: Micah Brown
+  author: Chris Bellew
+  author: Dan Livingston
+  publisher: bhv
+  isbn13: 978-5-7315-0112-5
+  isbn10: 5-7315-0112-2
+  pages: 208
+  pubdate: 2001-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/ru/perl5-for-web-professionals
+  parent: http://allperlbooks.com/book/en/essential-perl5-for-web-professionals
+
 - title: Perl 6 Essentials
   language: en
   subtitle: The Community's Rewrite of Perl
@@ -2671,6 +2804,23 @@
   edition: 2
   tag: Perl 6
   url: http://allperlbooks.com/book/en/perl6-and-parrot-essentials
+  parent: http://allperlbooks.com/book/en/perl6-essentials
+
+- title: Perl 6 и Parrot
+  language: ru
+  subtitle: Пересмотр Perl его сообществом
+  author: Allison Randal
+  author: Dan Sugalski
+  author: Leopold Tötsch
+  translator: А. С. Казаков
+  publisher: Кудиц-образ
+  isbn13: 
+  isbn10: 
+  pages: 320
+  pubdate: 2005-00-00
+  edition: 2
+  tag: Perl 6
+  url: http://allperlbooks.com/book/ru/perl6-and-parrot-ru-2
   parent: http://allperlbooks.com/book/en/perl6-essentials
 
 - title: Perl 6 и Parrot. Справочник
@@ -3197,6 +3347,7 @@
   pubdate: 2007-12-12
   edition: 1
   tag: Windows
+  tag: Security
   url: http://allperlbooks.com/book/en/perl-scripting-for-windows-security
 
 - title: Perl Template Toolkit
@@ -3763,6 +3914,19 @@
   url: http://allperlbooks.com/book/tr/perl-i-internet-programciligi
   parent: http://allperlbooks.com/book/en/teach-yourself-perl-in-24-hours
 
+- title: Perl для профессиональных программистов. Регулярные выражения
+  language: ru
+  subtitle: Учебное пособие
+  author: С. В. Мельников
+  publisher: Бином
+  isbn13: 978-5-94774-797-3
+  isbn10: 5-94774-797-9
+  pages: 190
+  pubdate: 2007-00-00
+  edition: 1
+  tag: Regular expressions
+  url: http://allperlbooks.com/book/ru/perl-for-professional-programmers-ru
+
 - title: Perl за системно администриране
   language: bg
   subtitle: Управление на мултиплатформени среды с Perl
@@ -3776,20 +3940,6 @@
   tag: System administration
   url: http://allperlbooks.com/book/bg/perl-for-system-administration-bg
   parent: http://allperlbooks.com/book/en/perl-for-system-administration
-
-- title: Perl отладчик
-  language: ru
-  subtitle: Карманный справочник
-  author: Richard Foley
-  publisher: Кудиц-образ
-  isbn13: 978-5-9579-0049-8
-  isbn10: 5-9579-0049-4
-  pages: 208
-  pubdate: 2005-01-00
-  edition: 1
-  tag: Pocket edition
-  url: http://allperlbooks.com/book/ru/perl-debugger-ru
-  parent: http://allperlbooks.com/book/en/perl-debugger-pocket-reference
 
 - title: Perl — introduccion al desarrollo web
   language: es
@@ -3861,6 +4011,20 @@
   pubdate: 2008-06-06
   edition: 1
   url: http://allperlbooks.com/book/de/perl-meisterkurs
+
+- title: Perl-отладчик
+  language: ru
+  subtitle: Карманный справочник
+  author: Richard Foley
+  publisher: Кудиц-образ
+  isbn13: 978-5-9579-0049-8
+  isbn10: 5-9579-0049-4
+  pages: 208
+  pubdate: 2005-01-00
+  edition: 1
+  tag: Pocket edition
+  url: http://allperlbooks.com/book/ru/perl-debugger-ru
+  parent: http://allperlbooks.com/book/en/perl-debugger-pocket-reference
 
 - title: Perl. Czarna księga
   language: pl
@@ -4080,6 +4244,20 @@
   url: http://allperlbooks.com/book/bg/perl-reference-bg
   parent: http://allperlbooks.com/book/en/perl5-pocket-reference
 
+- title: Perl. Сборник рецептов. Для профессионалов
+  language: ru
+  author: Tom Christiansen
+  author: Nathan Torkington
+  translator: Е. Матвеев
+  publisher: Питер
+  isbn13: 978-5-94723-855-6
+  isbn10: 5-94723-855-1
+  pages: 928
+  pubdate: 2004-00-00
+  edition: 2
+  url: http://allperlbooks.com/book/ru/perl-cookbook-ru-2
+  parent: http://allperlbooks.com/book/en/perl-cookbook
+
 - title: Perl/Tk Pocket Reference
   language: en
   author: Stephen Lidie
@@ -4212,6 +4390,19 @@
   edition: 2
   url: http://allperlbooks.com/book/ru/perl-learning-deeper-2
   parent: http://allperlbooks.com/book/en/intermediate-perl
+
+- title: Perl: специальный справочник
+  language: ru
+  author: Steven Holzner
+  translator: А. Бердников
+  publisher: Питер
+  isbn13: 978-5-8046-0198-1
+  isbn10: 5-8046-0198-9
+  pages: 496
+  pubdate: 2001-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/ru/perl-core-language-ru
+  parent: http://allperlbooks.com/book/en/perl-core-language
 
 - title: Perlish Patterns
   language: en
@@ -4659,6 +4850,7 @@
   pages: 700
   pubdate: 2004-12-04
   edition: 1
+  tag: Security
   url: http://allperlbooks.com/book/en/programmers-security-deskref
 
 - title: Programmeren in Perl 5
@@ -6076,6 +6268,7 @@
   pubdate: 1998-01-10
   edition: 1
   tag: Web
+  tag: Security
   url: http://allperlbooks.com/book/en/web-security
 
 - title: Web Security Testing Cookbook
@@ -6091,6 +6284,7 @@
   edition: 1
   tag: Web
   tag: Debugging and Testing
+  tag: Security
   url: http://allperlbooks.com/book/en/web-security-testing-cookbook
 
 - title: Web Server Programming
@@ -6143,6 +6337,19 @@
   pubdate: 2012-06-28
   edition: 1
   url: http://allperlbooks.com/book/de/web-entwicklund-mit-perl-und-mojolicious
+
+- title: Web-сервер глазами
+  language: ru
+  author: Михаил Фленов
+  publisher: bhv
+  isbn13: 978-5-94157-913-6
+  isbn10: 5-94157-913-6
+  pages: 228
+  pubdate: 2008-00-00
+  edition: 1
+  tag: Web
+  tag: Security
+  url: http://allperlbooks.com/book/ru/web-server-hackers-view-ru
 
 - title: WebGUI Administrators Guide
   language: en
@@ -6603,6 +6810,21 @@
 
 - title: Изучаем Perl
   language: ru
+  subtitle: Программирование в среде UNIX
+  author: Randal L. Schwartz
+  author: Tom Christiansen
+  translator: С. М. Тимачев
+  publisher: bhv
+  isbn13: 978-5-7315-0031-9
+  isbn10: 5-7315-0031-2
+  pages: 320
+  pubdate: 2000-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/ru/learning-perl-ru
+  parent: http://allperlbooks.com/book/en/learning-perl
+
+- title: Изучаем Perl
+  language: ru
   subtitle: Как сделать сложное простым и невозможное возможным
   author: Randal L. Schwartz
   author: Tom Phoenix
@@ -6615,6 +6837,61 @@
   edition: 5
   url: http://allperlbooks.com/book/ru/learning-perl-5-ru
   parent: http://allperlbooks.com/book/en/learning-perl
+
+- title: Как программировать на XML
+  language: ru
+  author: Harvey M. Deitel
+  author: Paul Deitel
+  author: Tem R. Nieto
+  author: Ted Lin
+  author: Praveen Sadhu
+  publisher: Бином
+  isbn13: 978-5-7989-0233-0
+  isbn10: 5-7989-0233-1
+  pages: 944
+  pubdate: 2001-00-00
+  edition: 1
+  tag: XML
+  url: http://allperlbooks.com/book/ru/xml-howto-program-ru
+  parent: http://allperlbooks.com/book/en/xml-how-to-program
+
+- title: Освой самостоятельно Perl за 24 часа
+  language: ru
+  author: Clinton Pierce
+  publisher: Вильямс
+  isbn13: 978-5-8459-0097-5
+  isbn10: 5-8459-0097-2
+  pages: 384
+  pubdate: 2002-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/ru/teach-yourself-perl-in-24-hours-ru
+  parent: http://allperlbooks.com/book/en/teach-yourself-perl-in-24-hours
+
+- title: Основы программирования на языке Перл
+  language: ru
+  subtitle: Учебный курс
+  author: В. В. Маслов
+  publisher: Радио и связь
+  isbn13: 978-5-256-01356-1
+  isbn10: 5-256-01356-4
+  pages: 144
+  pubdate: 2000-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/ru/perl-programming-essentials-ru
+
+- title: Применение MySQL и Perl в Web-приложения
+  language: ru
+  author: Paul DuBois
+  translator: К. А. Мартусенко
+  publisher: Вильямс
+  isbn13: 
+  isbn10: 
+  pages: 480
+  pubdate: 2002-00-00
+  edition: 1
+  tag: Databases
+  url: http://allperlbooks.com/book/ru/mysql-perl-web-ru
+  parent: http://allperlbooks.com/book/en/mysql-and-perl-for-the-web
 
 - title: Програмиране на Web графики с Perl & GNU софтуер
   language: bg
@@ -6674,6 +6951,21 @@
   url: http://allperlbooks.com/book/bg/programming-perl-bg-ii
   parent: http://allperlbooks.com/book/en/programming-perl
 
+- title: Программирование на Perl
+  language: ru
+  author: Larry Wall
+  author: Tom Christiansen
+  author: Jon Orwant
+  translator: С. Маккавеев
+  publisher: Символ-плюс
+  isbn13: 978-5-93286-020-5
+  isbn10: 5-93286-020-0
+  pages: 1152
+  pubdate: 2002-00-00
+  edition: 3
+  url: http://allperlbooks.com/book/ru/programming-perl-ru-3
+  parent: http://allperlbooks.com/book/en/programming-perl-quick-reference-guide
+
 - title: Программирование на Perl DBI
   language: ru
   author: Alligator Descartes
@@ -6687,6 +6979,90 @@
   tag: Databases
   url: http://allperlbooks.com/book/ru/perl-dbi-ru
   parent: http://allperlbooks.com/book/en/programming-the-perl-dbi
+
+- title: Разработка GGI-приложений на Perl
+  language: ru
+  author: Kevin Meltzer
+  author: Brent Michalski
+  foreword: Lincoln Stein
+  publisher: Вильямс
+  isbn13: 978-5-8459-0211-5
+  isbn10: 5-8459-0211-8
+  pages: 400
+  pubdate: 2001-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/ru/Writing-cgi-applications-in-perl-ru
+  parent: http://allperlbooks.com/book/en/writing-cgi-applications-with-perl
+
+- title: Разработка Web-сайтов с помощью Perl и MySQL
+  language: ru
+  author: Николай Прохоренок
+  publisher: bhv
+  isbn13: 978-5-9775-0377-8
+  isbn10: 5-9775-0377-6
+  pages: 560
+  pubdate: 2009-00-00
+  edition: 1
+  tag: Web
+  tag: Databases
+  url: http://allperlbooks.com/book/ru/website-development-with-perl-and-mysql
+
+- title: Разработка сетевых программ на Perl
+  language: ru
+  author: Lincoln Stein
+  translator: К. А. Птицын
+  publisher: Вильямс
+  isbn13: 978-5-8459-0222-1
+  isbn10: 5-8459-0222-3
+  pages: 752
+  pubdate: 2001-00-00
+  edition: 1
+  tag: Web
+  url: http://allperlbooks.com/book/ru/network-programming-with-perl-ru
+  parent: http://allperlbooks.com/book/en/network-programming-with-perl
+
+- title: Регулярные выражения
+  language: ru
+  subtitle: Понимание данных — ключ к высокой эффективности
+  author: Jeffrey E. F. Friedl
+  publisher: Символ-плюс
+  isbn13: 978-5-93286-121-9
+  isbn10: 5-93286-121-5
+  pages: 608
+  pubdate: 2008-00-00
+  edition: 3
+  tag: Regular expressions
+  url: http://allperlbooks.com/book/ru/regular-expressions-ru-3
+  parent: http://allperlbooks.com/book/en/mastering-regular-expressions
+
+- title: Регулярные выражения. Карманный справочник
+  language: ru
+  subtitle: Регулярные выражения для Perl, C, PHP, Python, Java и .NET
+  author: Tony Stubblebine
+  publisher: Питер
+  isbn13: 978-5-469-00215-4
+  isbn10: 5-469-00215-2
+  pages: 160
+  pubdate: 2004-00-00
+  edition: 1
+  tag: Regular expressions
+  tag: Pocket edition
+  url: http://allperlbooks.com/book/ru/regex-pocket-reference-ru
+  parent: http://allperlbooks.com/book/en/regular-expression-pocket-reference
+
+- title: Регулярные выражения. Сборник рецептов
+  language: ru
+  subtitle: Подробные решения на восьми языках программирования
+  author: Jan Goyvaerts
+  author: Steven Levithan
+  publisher: Символ-плюс
+  isbn13: 978-5-93286-181-3
+  isbn10: 5-93286-181-9
+  pages: 608
+  pubdate: 2010-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/ru/regex-cookbook-ru
+  parent: http://allperlbooks.com/book/en/regular-expressions-cookbook
 
 - title: Розроблення комплексних Веб-сайтів за допомогою мови програмування Perl
   language: uk
@@ -6712,6 +7088,43 @@
   pubdate: 2008-09-00
   edition: 1
   url: http://allperlbooks.com/book/ru/setevie-reshenia
+
+- title: Энциклопедия Perl
+  language: ru
+  subtitle: Наиболее полное и подробное руководство
+  author: Владимир Водолазкий
+  author: Виктор Семериков
+  publisher: Питер
+  isbn13: 978-5-318-00665-4
+  isbn10: 5-318-00665-5
+  pages: 576
+  pubdate: 2002-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/ru/perl-encyclopedia-ru
+
+- title: Язык программирования Perl
+  language: ru
+  author: М. В. Шохирев
+  publisher: Бином
+  series: Основы информационных технологий
+  isbn13: 978-5-94774-604-4
+  isbn10: 5-94774-604-2
+  pages: 279
+  pubdate: 2007-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/ru/perl5-programming-language-ru
+
+- title: Язык программирования Perl для Интернет
+  language: ru
+  author: Борис Леонтьев
+  publisher: Новый издательский дом
+  isbn13: 978-5-9643-0097-7
+  isbn10: 5-9643-0097-9
+  pages: 160
+  pubdate: 2006-00-00
+  edition: 1
+  tag: Web
+  url: http://allperlbooks.com/book/ru/programming-perl-internet
 
 - title: プログラミングPerl VOLUME 1
   language: ja

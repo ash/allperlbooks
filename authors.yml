@@ -14,6 +14,10 @@
   firstname: Thomas
   url: http://allperlbooks.com/author/thomas
 
+- name: Ю. А. Левчук
+  firstname: Ю. А. Левчук
+  url: http://allperlbooks.com/author/yu-a-levchuk
+
 - name: Özcan Acar
   firstname: Özcan
   lastname: Acar
@@ -1259,6 +1263,11 @@
   lastname: Middleton
   url: http://allperlbooks.com/author/bill-middleton
 
+- name: Darko Milutinović
+  firstname: Darko
+  lastname: Milutinović
+  url: http://allperlbooks.com/author/darko-milutinovic
+
 - name: Michael Moorhouse
   firstname: Michael
   lastname: Moorhouse
@@ -1975,6 +1984,16 @@
   lastname: Zundel
   url: http://allperlbooks.com/author/jean-zundel
 
+- name: А. Бердников
+  firstname: А.
+  lastname: Бердников
+  url: http://allperlbooks.com/author/a-berdnikov
+
+- name: Владимир Водолазкий
+  firstname: Владимир
+  lastname: Водолазкий
+  url: http://allperlbooks.com/author/vladimir-vodolazky
+
 - name: П. І. Жежнич
   firstname: П. І.
   lastname: Жежнич
@@ -1985,20 +2004,110 @@
   lastname: Журавлев
   url: http://allperlbooks.com/author/a-v-zhuravlev
 
+- name: С. С. Задорожный
+  firstname: С. С.
+  lastname: Задорожный
+  url: http://allperlbooks.com/author/s-s-zadorozhny
+
+- name: А. С. Казаков
+  firstname: А. С.
+  lastname: Казаков
+  url: http://allperlbooks.com/author/a-s-kazakov
+
+- name: А. Киселев
+  firstname: А.
+  lastname: Киселев
+  url: http://allperlbooks.com/author/a-kiselev
+
+- name: В. Кунцевич
+  firstname: В.
+  lastname: Кунцевич
+  url: http://allperlbooks.com/author/v-kuntsevich
+
+- name: Борис Леонтьев
+  firstname: Борис
+  lastname: Леонтьев
+  url: http://allperlbooks.com/author/boris-leontyev
+
+- name: Артемий Ломов
+  firstname: Артемий
+  lastname: Ломов
+  url: http://allperlbooks.com/author/artemy-lomov
+
+- name: С. Маккавеев
+  firstname: С.
+  lastname: Маккавеев
+  url: http://allperlbooks.com/author/s-makkaveev
+
 - name: О. В. Марковець
   firstname: О. В.
   lastname: Марковець
   url: http://allperlbooks.com/author/o-markovets
 
-- name: А. Павлов
-  firstname: А.
+- name: К. А. Мартусенко
+  firstname: К. А.
+  lastname: Мартусенко
+  url: http://allperlbooks.com/author/k-a-martusenko
+
+- name: В. В. Маслов
+  firstname: В. В.
+  lastname: Маслов
+  url: http://allperlbooks.com/author/v-v-maslov
+
+- name: Е. Матвеев
+  firstname: Е.
+  lastname: Матвеев
+  url: http://allperlbooks.com/author/e-matveev
+
+- name: С. В. Мельников
+  firstname: С. В.
+  lastname: Мельников
+  url: http://allperlbooks.com/author/s-v-melnikov
+
+- name: Т. Морозова
+  firstname: Т.
+  lastname: Морозова
+  url: http://allperlbooks.com/author/t-morozova
+
+- name: Алексей Павлов
+  firstname: Алексей
   lastname: Павлов
-  url: http://allperlbooks.com/author/a-pavlov
+  url: http://allperlbooks.com/author/alexey-pavlov
 
 - name: А. М. Пелещишин
   firstname: А. М.
   lastname: Пелещишин
   url: http://allperlbooks.com/author/a-peleschishin
+
+- name: Николай Прохоренок
+  firstname: Николай
+  lastname: Прохоренок
+  url: http://allperlbooks.com/author/nikolay-prokhorenok
+
+- name: К. А. Птицын
+  firstname: К. А.
+  lastname: Птицын
+  url: http://allperlbooks.com/author/k-a-ptitsin
+
+- name: Виктор Семериков
+  firstname: Виктор
+  lastname: Семериков
+  url: http://allperlbooks.com/author/viktor-semerikov
+
+- name: С. М. Тимачев
+  firstname: С. М.
+  lastname: Тимачев
+  url: http://allperlbooks.com/author/s-m-timachev
+
+- name: Михаил Фленов
+  firstname: Михаил
+  lastname: Фленов
+  url: http://allperlbooks.com/author/mikhail-flenov
+
+- name: М. В. Шохирев
+  firstname: М. В.
+  lastname: Шохирев
+  url: http://allperlbooks.com/author/m-v-shokhirev
 
 - name: 結城 浩
   firstname: 結城
