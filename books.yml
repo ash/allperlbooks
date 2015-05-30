@@ -1,15 +1,388 @@
-- title: 
-  language: ru
-  author: Jeffrey E. F. Friedl
-  publisher: Питер
-  series: Библиотека программиста
-  isbn13: 978-5-272-00331-7
-  isbn10: 5-272-00331-4
-  pages: 464
-  pubdate: 2003-00-00
-  edition: 2
-  tag: Regular expressions
-  url: http://allperlbooks.com/book/ru/regular-expressions-ru-2
+- title: $foo magazine #1
+  language: de
+  subtitle: Frühjahr 2007
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 52
+  pubdate: 2007-03-00
+  edition: 1
+  tag: Windows
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-1
+
+- title: $foo magazine #10
+  language: de
+  subtitle: Sommer 2009
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 68
+  pubdate: 2009-06-00
+  edition: 1
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-10
+
+- title: $foo magazine #11
+  language: de
+  subtitle: Herbst 2009
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 64
+  pubdate: 2009-09-00
+  edition: 1
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-11
+
+- title: $foo magazine #12
+  language: de
+  subtitle: Winter 2009
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 68
+  pubdate: 2009-12-00
+  edition: 1
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-12
+
+- title: $foo magazine #13
+  language: de
+  subtitle: Frühjahr 2010
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 68
+  pubdate: 2010-03-00
+  edition: 1
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-13
+
+- title: $foo magazine #14
+  language: de
+  subtitle: Sommer 2010
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 64
+  pubdate: 2010-06-00
+  edition: 1
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-14
+
+- title: $foo magazine #15
+  language: de
+  subtitle: Herbst 2010
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 64
+  pubdate: 2010-09-00
+  edition: 1
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-15
+
+- title: $foo magazine #16
+  language: de
+  subtitle: Winter 2010
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 60
+  pubdate: 2010-12-00
+  edition: 1
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-16
+
+- title: $foo magazine #17
+  language: de
+  subtitle: Frühjahr 2011
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 64
+  pubdate: 2011-03-00
+  edition: 1
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-17
+
+- title: $foo magazine #18
+  language: de
+  subtitle: Sommer 2011
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 60
+  pubdate: 2011-06-00
+  edition: 1
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-18
+
+- title: $foo magazine #19
+  language: de
+  subtitle: Herbst 2011
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 60
+  pubdate: 2011-09-00
+  edition: 1
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-19
+
+- title: $foo magazine #2
+  language: de
+  subtitle: Sommer 2007
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 64
+  pubdate: 2007-06-00
+  edition: 1
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-2
+
+- title: $foo magazine #20
+  language: de
+  subtitle: Winter 2011
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 52
+  pubdate: 2011-12-00
+  edition: 1
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-20
+
+- title: $foo magazine #21
+  language: de
+  subtitle: Frühjahr 2012
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 60
+  pubdate: 2012-03-00
+  edition: 1
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-21
+
+- title: $foo magazine #22
+  language: de
+  subtitle: Sommer 2012
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 56
+  pubdate: 2012-06-00
+  edition: 1
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-22
+
+- title: $foo magazine #23
+  language: de
+  subtitle: Herbst 2012
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 56
+  pubdate: 2012-09-00
+  edition: 1
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-23
+
+- title: $foo magazine #24
+  language: de
+  subtitle: Winter 2012
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 56
+  pubdate: 2012-12-00
+  edition: 1
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-24
+
+- title: $foo magazine #25
+  language: de
+  subtitle: Frühjahr 2013
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 52
+  pubdate: 2013-03-00
+  edition: 1
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-25
+
+- title: $foo magazine #26
+  language: de
+  subtitle: Sommer 2013
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 60
+  pubdate: 2013-06-00
+  edition: 1
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-26
+
+- title: $foo magazine #27
+  language: de
+  subtitle: Herbst 2013
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 52
+  pubdate: 2013-09-00
+  edition: 1
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-27
+
+- title: $foo magazine #28
+  language: de
+  subtitle: Winter 2013
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 52
+  pubdate: 2013-12-00
+  edition: 1
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-28
+
+- title: $foo magazine #29
+  language: de
+  subtitle: Frühjahr 2014
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 56
+  pubdate: 2014-03-00
+  edition: 1
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-29
+
+- title: $foo magazine #3
+  language: de
+  subtitle: Herbst 2007
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 64
+  pubdate: 2007-09-00
+  edition: 1
+  tag: Perl 6
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-3
+
+- title: $foo magazine #30
+  language: de
+  subtitle: Sommer 2014
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 52
+  pubdate: 2014-06-00
+  edition: 1
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-30
+
+- title: $foo magazine #31
+  language: de
+  subtitle: Herbst 2014
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 52
+  pubdate: 2014-09-00
+  edition: 1
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-31
+
+- title: $foo magazine #32
+  language: de
+  subtitle: Winter 2014
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 48
+  pubdate: 2014-12-00
+  edition: 1
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-32
+
+- title: $foo magazine #4
+  language: de
+  subtitle: Winter 2007
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 31
+  pubdate: 2007-12-00
+  edition: 1
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-4
+
+- title: $foo magazine #5
+  language: de
+  subtitle: Frühjahr 2008
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 64
+  pubdate: 2008-03-00
+  edition: 1
+  tag: Perl 6
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-5
+
+- title: $foo magazine #6
+  language: de
+  subtitle: Sommer 2008
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 60
+  pubdate: 2008-06-00
+  edition: 1
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-6
+
+- title: $foo magazine #7
+  language: de
+  subtitle: Herbst 2008
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 64
+  pubdate: 2008-09-00
+  edition: 1
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-7
+
+- title: $foo magazine #8
+  language: de
+  subtitle: Winter 2008
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 64
+  pubdate: 2008-12-00
+  edition: 1
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-8
+
+- title: $foo magazine #9
+  language: de
+  subtitle: Frühjahr 2009
+  publisher: $foo magazine
+  isbn13: 
+  isbn10: 
+  pages: 64
+  pubdate: 2009-03-00
+  edition: 1
+  homepage: http://abo.perl-magazin.de
+  url: http://allperlbooks.com/book/de/dollar-foo-magazine-9
 
 - title: 100 sposobów na Perl
   language: pl
@@ -7023,6 +7396,19 @@
 
 - title: Регулярные выражения
   language: ru
+  author: Jeffrey E. F. Friedl
+  publisher: Питер
+  series: Библиотека программиста
+  isbn13: 978-5-272-00331-7
+  isbn10: 5-272-00331-4
+  pages: 464
+  pubdate: 2003-00-00
+  edition: 2
+  tag: Regular expressions
+  url: http://allperlbooks.com/book/ru/regular-expressions-ru-2
+
+- title: Регулярные выражения
+  language: ru
   subtitle: Понимание данных — ключ к высокой эффективности
   author: Jeffrey E. F. Friedl
   publisher: Символ-плюс
@@ -7087,6 +7473,7 @@
   pages: 0
   pubdate: 2008-09-00
   edition: 1
+  tag: Perl 6
   url: http://allperlbooks.com/book/ru/setevie-reshenia
 
 - title: Энциклопедия Perl

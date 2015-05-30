@@ -1,3 +1,7 @@
+- name: $foo magazine
+  url: http://allperlbooks.com/publisher/perl-magazin
+  href: http://perl-magazin.de
+
 - name: Academic Service
   url: http://allperlbooks.com/publisher/academic-service
   href: http://academicservice.nl
