@@ -2365,6 +2365,7 @@
   subtitle: Conversations with the Creators of Major Programming Languages
   author: Federico Biancuzzi
   author: Shane Warden
+  foreword: Sir Tony Hoare
   publisher: O'Reilly Media
   isbn13: 978-0-596-51517-1
   isbn10: 0-596-51517-0
@@ -3179,23 +3180,6 @@
   url: http://allperlbooks.com/book/en/perl6-and-parrot-essentials
   parent: http://allperlbooks.com/book/en/perl6-essentials
 
-- title: Perl 6 и Parrot
-  language: ru
-  subtitle: Пересмотр Perl его сообществом
-  author: Allison Randal
-  author: Dan Sugalski
-  author: Leopold Tötsch
-  translator: А. С. Казаков
-  publisher: Кудиц-образ
-  isbn13: 
-  isbn10: 
-  pages: 320
-  pubdate: 2005-00-00
-  edition: 2
-  tag: Perl 6
-  url: http://allperlbooks.com/book/ru/perl6-and-parrot-ru-2
-  parent: http://allperlbooks.com/book/en/perl6-essentials
-
 - title: Perl 6 и Parrot. Справочник
   language: ru
   subtitle: Пересмотр Perl его сообществом
@@ -3208,7 +3192,8 @@
   pages: 320
   pubdate: 2005-00-00
   edition: 2
-  url: http://allperlbooks.com/book/ru/perl6-parrot-
+  tag: Perl 6
+  url: http://allperlbooks.com/book/ru/perl6-parrot-ru-2
   parent: http://allperlbooks.com/book/en/perl6-essentials
 
 - title: Perl 6. Podstawy
@@ -4916,6 +4901,7 @@
 
 - title: Pragmatic Perl #13
   language: ru
+  subtitle: Март 2014
   publisher: Pragmatic Perl
   isbn13: 
   isbn10: 
@@ -4927,6 +4913,7 @@
 
 - title: Pragmatic Perl #14
   language: ru
+  subtitle: Апрель 2014
   publisher: Pragmatic Perl
   isbn13: 
   isbn10: 
@@ -4938,6 +4925,7 @@
 
 - title: Pragmatic Perl #15
   language: ru
+  subtitle: Май 2014
   publisher: Pragmatic Perl
   isbn13: 
   isbn10: 
@@ -4949,6 +4937,7 @@
 
 - title: Pragmatic Perl #16
   language: ru
+  subtitle: Июнь 2014
   publisher: Pragmatic Perl
   isbn13: 
   isbn10: 
@@ -4960,6 +4949,7 @@
 
 - title: Pragmatic Perl #17
   language: ru
+  subtitle: Июль 2014
   publisher: Pragmatic Perl
   isbn13: 
   isbn10: 
@@ -4971,6 +4961,7 @@
 
 - title: Pragmatic Perl #18
   language: ru
+  subtitle: Август 2014
   publisher: Pragmatic Perl
   isbn13: 
   isbn10: 
@@ -4982,6 +4973,7 @@
 
 - title: Pragmatic Perl #19
   language: ru
+  subtitle: Сентябрь 2014
   publisher: Pragmatic Perl
   isbn13: 
   isbn10: 
@@ -4993,6 +4985,7 @@
 
 - title: Pragmatic Perl #20
   language: ru
+  subtitle: Октябрь 2014
   publisher: Pragmatic Perl
   isbn13: 
   isbn10: 
@@ -5004,6 +4997,7 @@
 
 - title: Pragmatic Perl #21
   language: ru
+  subtitle: Ноябрь 2014
   publisher: Pragmatic Perl
   isbn13: 
   isbn10: 
@@ -5015,6 +5009,7 @@
 
 - title: Pragmatic Perl #22
   language: ru
+  subtitle: Декабрь 2014
   publisher: Pragmatic Perl
   isbn13: 
   isbn10: 
@@ -5026,6 +5021,7 @@
 
 - title: Pragmatic Perl #23
   language: ru
+  subtitle: Январь 2015
   publisher: Pragmatic Perl
   isbn13: 
   isbn10: 
@@ -5037,6 +5033,7 @@
 
 - title: Pragmatic Perl #24
   language: ru
+  subtitle: Февраль 2015
   publisher: Pragmatic Perl
   isbn13: 
   isbn10: 
@@ -5048,6 +5045,7 @@
 
 - title: Pragmatic Perl #25
   language: ru
+  subtitle: Март 2015
   publisher: Pragmatic Perl
   isbn13: 
   isbn10: 
@@ -5059,6 +5057,7 @@
 
 - title: Pragmatic Perl #26
   language: ru
+  subtitle: Апрель 2015
   publisher: Pragmatic Perl
   isbn13: 
   isbn10: 
@@ -5070,6 +5069,7 @@
 
 - title: Pragmatic Perl #27
   language: ru
+  subtitle: Май 2015
   publisher: Pragmatic Perl
   isbn13: 
   isbn10: 
@@ -5078,6 +5078,18 @@
   edition: 1
   homepage: http://pragmaticperl.com/issues/27
   url: http://allperlbooks.com/book/ru/pragmatic-perl-27
+
+- title: Pragmatic Perl #28
+  language: ru
+  subtitle: Июнь 2015
+  publisher: Pragmatic Perl
+  isbn13: 
+  isbn10: 
+  pages: 117
+  pubdate: 2015-06-04
+  edition: 1
+  homepage: http://pragmaticperl.com/issues/28
+  url: http://allperlbooks.com/book/ru/pragmatic-perl-28
 
 - title: Pro Perl
   language: en
@@ -6879,6 +6891,7 @@
   language: pl
   author: Federico Biancuzzi
   author: Shane Warden
+  foreword: Sir Tony Hoare
   translator: Radosław Meryk
   publisher: Helion
   isbn13: 978-83-246-2537-6
@@ -6887,7 +6900,7 @@
   pubdate: 2012-07-13
   edition: 1
   publisher's page: http://helion.pl/ksiazki/wieumy.htm
-  url: http://allperlbooks.com/book/pl/masterminds-pl
+  url: http://allperlbooks.com/book/pl/masterminds-of-programming-pl
   parent: http://allperlbooks.com/book/en/masterminds-of-programming
 
 - title: Win32 Perl Programming: The Standard Extensions
@@ -7252,6 +7265,23 @@
   edition: 1
   url: http://allperlbooks.com/book/ru/perl-programming-essentials-ru
 
+- title: Пионеры программирования
+  language: ru
+  subtitle: Диалоги с создателями наиболее популярных языков программирования
+  author: Federico Biancuzzi
+  author: Shane Warden
+  foreword: Sir Tony Hoare
+  translator: С. Маккавеев
+  publisher: Символ-плюс
+  isbn13: 978-5-93286-170-7
+  isbn10: 5-93286-170-3
+  pages: 608
+  pubdate: 2011-00-00
+  edition: 1
+  tag: Interviews
+  url: http://allperlbooks.com/book/ru/masterminds-of-programming-ru
+  parent: http://allperlbooks.com/book/en/masterminds-of-programming
+
 - title: Применение MySQL и Perl в Web-приложения
   language: ru
   author: Paul DuBois
@@ -7337,7 +7367,22 @@
   pubdate: 2002-00-00
   edition: 3
   url: http://allperlbooks.com/book/ru/programming-perl-ru-3
-  parent: http://allperlbooks.com/book/en/programming-perl-quick-reference-guide
+  parent: http://allperlbooks.com/book/en/programming-perl
+
+- title: Программирование на Perl
+  language: ru
+  author: Tom Christiansen
+  author: brian d foy
+  author: Larry Wall
+  author: Jon Orwant
+  publisher: Символ-плюс
+  isbn13: 978-5-93286-214-8
+  isbn10: 
+  pages: 1048
+  pubdate: 2014-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/ru/programming-perl-ru-4
+  parent: http://allperlbooks.com/book/en/programming-perl
 
 - title: Программирование на Perl DBI
   language: ru
@@ -7527,7 +7572,7 @@
   edition: 3
   publisher's page: https://www.oreilly.co.jp/books/4873110963/
   url: http://allperlbooks.com/book/ja/programming-perl-ja-volume1
-  parent: http://allperlbooks.com/book/en/programming-perl-quick-reference-guide
+  parent: http://allperlbooks.com/book/en/programming-perl
 
 - title: プログラミングPerl VOLUME 2
   language: ja
@@ -7543,7 +7588,7 @@
   edition: 3
   publisher's page: https://www.oreilly.co.jp/books/4873110971/
   url: http://allperlbooks.com/book/ja/programming-perl-ja-volume2
-  parent: http://allperlbooks.com/book/en/programming-perl-quick-reference-guide
+  parent: http://allperlbooks.com/book/en/programming-perl
 
 - title: マスタリングPerl
   language: ja

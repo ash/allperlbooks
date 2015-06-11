@@ -798,6 +798,11 @@
   lastname: Hietaniemi
   url: http://allperlbooks.com/author/jarkko-hietaniemi
 
+- name: Sir Tony Hoare
+  firstname: Sir Tony
+  lastname: Hoare
+  url: http://allperlbooks.com/author/sir-tony-hoare
+
 - name: Jerzy Hodor
   firstname: Jerzy
   lastname: Hodor
