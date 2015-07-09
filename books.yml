@@ -6899,6 +6899,7 @@
   pages: 584
   pubdate: 2012-07-13
   edition: 1
+  tag: Interviews
   publisher's page: http://helion.pl/ksiazki/wieumy.htm
   url: http://allperlbooks.com/book/pl/masterminds-of-programming-pl
   parent: http://allperlbooks.com/book/en/masterminds-of-programming
@@ -7377,10 +7378,10 @@
   author: Jon Orwant
   publisher: Символ-плюс
   isbn13: 978-5-93286-214-8
-  isbn10: 
+  isbn10: 5-93286-214-9
   pages: 1048
   pubdate: 2014-00-00
-  edition: 1
+  edition: 4
   url: http://allperlbooks.com/book/ru/programming-perl-ru-4
   parent: http://allperlbooks.com/book/en/programming-perl
 
