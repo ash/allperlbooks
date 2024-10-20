@@ -38,10 +38,20 @@
   lastname: Altschul
   url: http://allperlbooks.com/author/stephen-altschul
 
+- name: Vasco Amaral
+  firstname: Vasco
+  lastname: Amaral
+  url: http://allperlbooks.com/author/vasco-amaral
+
 - name: Susan Anderson-Freed
   firstname: Susan
   lastname: Anderson-Freed
   url: http://allperlbooks.com/author/susan-anderson-freed
+
+- name: Samuel Andras
+  firstname: Samuel
+  lastname: Andras
+  url: http://allperlbooks.com/author/samuel-andras
 
 - name: Jason Andress
   firstname: Jason
@@ -82,6 +92,11 @@
   firstname: Can Uğur
   lastname: Ayfer
   url: http://allperlbooks.com/author/can-ugur-ayfer
+
+- name: John Bach
+  firstname: John
+  lastname: Bach
+  url: http://allperlbooks.com/author/john-bach
 
 - name: John Bambenek
   firstname: John
@@ -222,6 +237,11 @@
   firstname: Jim
   lastname: Brandt
   url: http://allperlbooks.com/author/jim-brandt
+
+- name: William N. Braswell, Jr.
+  firstname: William N.
+  lastname: Braswell, Jr.
+  url: http://allperlbooks.com/author/william-n-braswell-jr
 
 - name: Steven E. Brenner
   firstname: Steven E.
@@ -382,6 +402,11 @@
   firstname: František
   lastname: Dařena
   url: http://allperlbooks.com/author/frantisek-darena
+
+- name: John Davies
+  firstname: John
+  lastname: Davies
+  url: http://allperlbooks.com/author/john-davies
 
 - name: Pancrazio de Mauro
   firstname: Pancrazio
@@ -657,6 +682,11 @@
   firstname: Mike
   lastname: Glover
   url: http://allperlbooks.com/author/mike-glover
+
+- name: Gregor Goldbach
+  firstname: Gregor
+  lastname: Goldbach
+  url: http://allperlbooks.com/author/gregor-goldbach
 
 - name: Nathan A. Good
   firstname: Nathan A.
@@ -1053,6 +1083,11 @@
   lastname: Lemay
   url: http://allperlbooks.com/author/laura-lemay
 
+- name: Moritz Lenz
+  firstname: Moritz
+  lastname: Lenz
+  url: http://allperlbooks.com/author/moritz-lenz
+
 - name: Reuven M. Lerner
   firstname: Reuven M.
   lastname: Lerner
@@ -1132,6 +1167,11 @@
   firstname: Michael W.
   lastname: Lucas
   url: http://allperlbooks.com/author/michael-w-lucas
+
+- name: Levi Lúcio
+  firstname: Levi
+  lastname: Lúcio
+  url: http://allperlbooks.com/author/levi-lúcio
 
 - name: John Macdonald
   firstname: John
@@ -1238,6 +1278,11 @@
   lastname: Menaker
   url: http://allperlbooks.com/author/yevgeny-menaker
 
+- name: JJ Merelo
+  firstname: JJ
+  lastname: Merelo
+  url: http://allperlbooks.com/author/jj-merelo
+
 - name: Joe Merlino
   firstname: Joe
   lastname: Merlino
@@ -1287,6 +1332,11 @@
   firstname: Jerry
   lastname: Muelver
   url: http://allperlbooks.com/author/jerry-muelver
+
+- name: Timm Murray
+  firstname: Timm
+  lastname: Murray
+  url: http://allperlbooks.com/author/timm-murray
 
 - name: Christopher M. Nandor
   firstname: Christopher M.
@@ -1342,6 +1392,11 @@
   firstname: Robert J.
   lastname: Oberg
   url: http://allperlbooks.com/author/robert-j-oberg
+
+- name: Hakkı Öcal
+  firstname: Hakkı
+  lastname: Öcal
+  url: http://allperlbooks.com/author/hakkı-ocal
 
 - name: Sam Ockman
   firstname: Sam
@@ -1539,6 +1594,11 @@
   lastname: Rosenberg
   url: http://allperlbooks.com/author/jonathan-b-rosenberg
 
+- name: Laurent Rosenfeld
+  firstname: Laurent
+  lastname: Rosenfeld
+  url: http://allperlbooks.com/author/laurent-rosenfeld
+
 - name: Thorsten Roßner
   firstname: Thorsten
   lastname: Roßner
@@ -1548,6 +1608,12 @@
   firstname: Dave
   lastname: Roth
   url: http://allperlbooks.com/author/dave-roth
+
+- name: William Rothwell (Bo)
+  firstname: William
+  lastname: Rothwell
+  nickname: Bo
+  url: http://allperlbooks.com/author/william-rothwell
 
 - name: Jeff Rowe
   firstname: Jeff
@@ -1644,6 +1710,11 @@
   lastname: Shea
   url: http://allperlbooks.com/author/linchi-shea
 
+- name: Andrew Shitov
+  firstname: Andrew
+  lastname: Shitov
+  url: http://allperlbooks.com/author/andrew-shitov
+
 - name: Tatiana Shpichko
   firstname: Tatiana
   lastname: Shpichko
@@ -1663,6 +1734,11 @@
   firstname: Selena
   lastname: Sol
   url: http://allperlbooks.com/author/selena-sol
+
+- name: Arne Sommer
+  firstname: Arne
+  lastname: Sommer
+  url: http://allperlbooks.com/author/arne-sommer
 
 - name: Stephen Spainhour
   firstname: Stephen
@@ -1788,6 +1864,11 @@
   firstname: Matt S.
   lastname: Trout
   url: http://allperlbooks.com/author/matt-s-trout
+
+- name: Viacheslav Tykhanovskyi
+  firstname: Viacheslav
+  lastname: Tykhanovskyi
+  url: http://allperlbooks.com/author/viacheslav-tykhanovskyi
 
 - name: Gabriel Valiente
   firstname: Gabriel
