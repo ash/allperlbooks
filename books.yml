@@ -396,7 +396,6 @@
   pages: 320
   pubdate: 2006-12-13
   edition: 1
-  publisher's page: http://helion.pl/ksiazki/100per.htm
   url: http://allperlbooks.com/book/pl/100-sposobow-na-perl
   parent: http://allperlbooks.com/book/en/perl-hacks
 
@@ -410,7 +409,6 @@
   pubdate: 2005-01-13
   edition: 1
   tag: Web
-  publisher's page: http://helion.pl/ksiazki/505web.htm
   url: http://allperlbooks.com/book/pl/505-praktycznych-skryptow-dla-webmastera
 
 - title: 60 Minute Guide to Programming CGI with Perl 5
@@ -437,6 +435,20 @@
   edition: 1
   tag: Pearl
   url: http://allperlbooks.com/book/en/a-little-book-on-perl
+
+- title: A practical guide to testing in Modern Perl
+  language: en
+  author: Gregor Goldbach
+  author: Viacheslav Tykhanovskyi
+  publisher: 
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2018-00-00
+  edition: 1
+  tag: Debugging and Testing
+  homepage: https://leanpub.com/perl-testing
+  url: http://allperlbooks.com/book/en/a-practical-guide-to-testing-in-modern-perl
 
 - title: Acme大全2014
   language: ja
@@ -479,18 +491,6 @@
 
 - title: Advanced Perl Programming
   language: en
-  author: Sriram Srinivasan
-  publisher: O'Reilly Media
-  series: Foundations and Techniques for Perl Application Developers
-  isbn13: 978-1-56592-220-4
-  isbn10: 1-56592-220-4
-  pages: 432
-  pubdate: 1997-08-00
-  edition: 1
-  url: http://allperlbooks.com/book/en/advanced-perl-programming
-
-- title: Advanced Perl Programming
-  language: en
   subtitle: The Worlds Most Highly Developed Perl Tutorial
   author: Simon Cozens
   publisher: O'Reilly Media
@@ -502,6 +502,18 @@
   edition: 2
   url: http://allperlbooks.com/book/en/advanced-perl-programming-2
   parent: http://allperlbooks.com/book/en/advanced-perl-programming
+
+- title: Advanced Perl Programming
+  language: en
+  author: Sriram Srinivasan
+  publisher: O'Reilly Media
+  series: Foundations and Techniques for Perl Application Developers
+  isbn13: 978-1-56592-220-4
+  isbn10: 1-56592-220-4
+  pages: 432
+  pubdate: 1997-08-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/advanced-perl-programming
 
 - title: Algorytmy w Perlu
   language: pl
@@ -516,7 +528,6 @@
   pages: 676
   pubdate: 2003-06-03
   edition: 1
-  publisher's page: http://helion.pl/ksiazki/alperl.htm
   url: http://allperlbooks.com/book/pl/algorytmy-w-perlu
   parent: http://allperlbooks.com/book/en/mastering-algorithms-with-perl
 
@@ -629,6 +640,18 @@
 
 - title: Beginning Perl
   language: en
+  author: James Lee
+  publisher: Apress
+  isbn13: 978-1-4302-2793-9
+  isbn10: 1-4302-2793-1
+  pages: 0
+  pubdate: 2010-04-13
+  edition: 3
+  url: http://allperlbooks.com/book/en/beginning-perl-3
+  parent: http://allperlbooks.com/book/en/beginning-perl-2
+
+- title: Beginning Perl
+  language: en
   author: Simon Cozens
   author: Peter Wainwright
   publisher: Wrox Press
@@ -638,6 +661,19 @@
   pubdate: 2000-05-25
   edition: 1
   url: http://allperlbooks.com/book/en/beginning-perl-cozens
+
+- title: Beginning Perl
+  language: en
+  author: Curtis Poe (Ovid)
+  publisher: Wiley
+  isbn13: 978-1-118-01384-7
+  isbn10: 1-118-01384-0
+  pages: 744
+  pubdate: 2012-09-00
+  edition: 1
+  tag: Modern Perl
+  tag: Pearl
+  url: http://allperlbooks.com/book/en/beginning-perl
 
 - title: Beginning Perl
   language: en
@@ -652,30 +688,18 @@
   edition: 2
   url: http://allperlbooks.com/book/en/beginning-perl-2
 
-- title: Beginning Perl
+- title: Beginning Perl Programming
   language: en
-  author: James Lee
+  subtitle: From Novice to Professional
+  author: William Rothwell (Bo)
   publisher: Apress
-  isbn13: 978-1-4302-2793-9
-  isbn10: 1-4302-2793-1
-  pages: 0
-  pubdate: 2010-04-13
-  edition: 3
-  url: http://allperlbooks.com/book/en/beginning-perl-3
-  parent: http://allperlbooks.com/book/en/beginning-perl-2
-
-- title: Beginning Perl
-  language: en
-  author: Curtis Poe (Ovid)
-  publisher: Wiley
-  isbn13: 978-1-118-01384-7
-  isbn10: 1-118-01384-0
-  pages: 744
-  pubdate: 2012-09-00
+  isbn13: 978-1-4842-5054-9
+  isbn10: 
+  pages: 222
+  pubdate: 2019-00-00
   edition: 1
-  tag: Modern Perl
-  tag: Pearl
-  url: http://allperlbooks.com/book/en/beginning-perl
+  publisher's page: https://www.apress.com/gp/book/9781484250549
+  url: http://allperlbooks.com/book/en/beginning-perl-programming
 
 - title: Beginning Perl Web Development
   language: en
@@ -702,6 +726,21 @@
   edition: 1
   tag: Bioinformatics
   url: http://allperlbooks.com/book/en/beginning-perl-for-bioinformatics
+
+- title: Beginning Raku
+  language: en
+  subtitle: A Two Day Course
+  author: Arne Sommer
+  publisher: 
+  isbn13: 
+  isbn10: 
+  pages: 370
+  pubdate: 2019-12-00
+  edition: 1
+  tag: Perl 6.0
+  tag: Raku
+  homepage: https://arnesom.github.io/Beginning-v1.00.pdf
+  url: http://allperlbooks.com/book/en/beginning-raku
 
 - title: Beginning Regular Expressions
   language: en
@@ -810,7 +849,6 @@
   edition: 1
   tag: CGI
   tag: Web
-  publisher's page: http://helion.pl/ksiazki/cgi.htm
   url: http://allperlbooks.com/book/pl/cgi-pl
   parent: http://allperlbooks.com/book/en/teach-yourself-cgi-programming-in-a-week
 
@@ -941,24 +979,10 @@
   isbn10: 3-89721-167-X
   pages: 500
   pubdate: 2001-00-00
-  edition: 3
+  edition: 2
   tag: CGI
   url: http://allperlbooks.com/book/de/cgi-programmierung-mit-perl
   parent: http://allperlbooks.com/book/en/cgi-programming-on-the-world-wide-web
-
-- title: CGI Programming 101
-  language: en
-  subtitle: Perl for the World Wide Web
-  author: Jacqueline D. Hamilton
-  publisher: CGI101.com
-  isbn13: 978-0-9669426-0-6
-  isbn10: 0-9669426-0-4
-  pages: 224
-  pubdate: 2000-02-00
-  edition: 1
-  tag: CGI
-  tag: Web
-  url: http://allperlbooks.com/book/en/cgi-programming-101
 
 - title: CGI Programming 101
   language: en
@@ -974,6 +998,20 @@
   tag: Web
   url: http://allperlbooks.com/book/en/cgi-programming-101-2
   parent: http://allperlbooks.com/book/en/cgi-programming-101
+
+- title: CGI Programming 101
+  language: en
+  subtitle: Perl for the World Wide Web
+  author: Jacqueline D. Hamilton
+  publisher: CGI101.com
+  isbn13: 978-0-9669426-0-6
+  isbn10: 0-9669426-0-4
+  pages: 224
+  pubdate: 2000-02-00
+  edition: 1
+  tag: CGI
+  tag: Web
+  url: http://allperlbooks.com/book/en/cgi-programming-101
 
 - title: CGI Programming 201
   language: en
@@ -1138,6 +1176,19 @@
   url: http://allperlbooks.com/book/ru/cgi-programming-perl-ru
   parent: http://allperlbooks.com/book/en/cgi-programming-on-the-world-wide-web
 
+- title: CGI/PERL
+  language: tr
+  subtitle: İnternet programcıları için
+  author: Hakkı Öcal
+  publisher: İmg Bilişim Yayınları
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2000-00-00
+  edition: 1
+  tag: CGI
+  url: http://allperlbooks.com/book/tr/cgi-perl-tr
+
 - title: CGI/Perl
   language: en
   author: Diane Zak
@@ -1182,7 +1233,6 @@
   edition: 1
   tag: CGI
   tag: Web
-  publisher's page: http://helion.pl/ksiazki/perl.htm
   url: http://allperlbooks.com/book/pl/cgi-perl-ksiazka-kucharska
   parent: http://allperlbooks.com/book/en/cgi-perl-cookbook
 
@@ -1212,7 +1262,6 @@
   edition: 1
   tag: CGI
   tag: Web
-  publisher's page: https://www.oreilly.co.jp/books/4873110440/
   url: http://allperlbooks.com/book/ja/cgi-programming-ja-2
   parent: http://allperlbooks.com/book/en/cgi-programming-on-the-world-wide-web
 
@@ -1329,7 +1378,6 @@
   pages: 456
   pubdate: 2003-09-25
   edition: 1
-  publisher's page: http://helion.pl/ksiazki/perlcr.htm
   url: http://allperlbooks.com/book/pl/core-perl-pl
   parent: http://allperlbooks.com/book/en/core-perl
 
@@ -1348,6 +1396,19 @@
 - title: Cross-Platform Perl
   language: en
   author: Eric Foster-Johnson
+  publisher: Wiley
+  isbn13: 978-0-7645-4729-4
+  isbn10: 0-7645-4729-1
+  pages: 632
+  pubdate: 2000-08-15
+  edition: 2
+  tag: Windows
+  tag: Unixes
+  url: http://allperlbooks.com/book/en/cross-platform-perl-2
+
+- title: Cross-Platform Perl
+  language: en
+  author: Eric Foster-Johnson
   publisher: M & T Books
   isbn13: 978-1-55851-483-6
   isbn10: 1-55851-483-X
@@ -1358,18 +1419,18 @@
   tag: Unixes
   url: http://allperlbooks.com/book/en/cross-platform-perl
 
-- title: Cross-Platform Perl
+- title: Cucumber & Perl
   language: en
-  author: Eric Foster-Johnson
-  publisher: Wiley
-  isbn13: 978-0-7645-4729-4
-  isbn10: 0-7645-4729-1
-  pages: 632
-  pubdate: 2000-08-15
-  edition: 2
-  tag: Windows
-  tag: Unixes
-  url: http://allperlbooks.com/book/en/cross-platform-perl-2
+  subtitle: Behaviour Driven Development with Perl
+  author: John Davies
+  publisher: Perl School
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2020-02-19
+  edition: 1
+  publisher's page: https://perlschool.com/books/cucumber/
+  url: http://allperlbooks.com/book/en/cucumber-perl
 
 - title: Custom CGI Scripting with Perl
   language: en
@@ -1394,6 +1455,19 @@
   pubdate: 2001-01-01
   edition: 1
   url: http://allperlbooks.com/book/de/das-einsteigerseminar-perl
+
+- title: Data Munging with Perl
+  language: en
+  subtitle: Techniques for data recognition, parsing, transforming and filtering
+  author: Dave Cross
+  publisher: Perl School
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2025-00-00
+  edition: 2
+  url: http://allperlbooks.com/book/en/data-munging-with-perl-2
+  parent: http://allperlbooks.com/book/en/data-munging-with-perl
 
 - title: Data Munging with Perl
   language: en
@@ -1944,6 +2018,19 @@
   edition: 1
   url: http://allperlbooks.com/book/en/intermediate-perl
 
+- title: Introducing Perl 6
+  language: en
+  publisher: The Dog Ate My Bookshop
+  isbn13: 
+  isbn10: 
+  pages: 60
+  pubdate: 2017-08-00
+  edition: 1
+  tag: Perl 6
+  tag: Perl 6.0
+  publisher's page: http://www.thedogatemybookshop.com/books/introducing-perl-6/
+  url: http://allperlbooks.com/book/en/introducing-perl6
+
 - title: Introducing Regular Expressions
   language: en
   subtitle: Unraveling regular expressions, step-by-step
@@ -2078,6 +2165,21 @@
   language: en
   subtitle: Making Easy Things Easy and Hard Things Possible
   author: Randal L. Schwartz
+  author: Tom Phoenix
+  author: brian d foy
+  publisher: O'Reilly Media
+  isbn13: 978-0-596-10105-3
+  isbn10: 0-596-10105-8
+  pages: 1184
+  pubdate: 2005-07-00
+  edition: 4
+  url: http://allperlbooks.com/book/en/learning-perl-4
+  parent: http://allperlbooks.com/book/en/learning-perl
+
+- title: Learning Perl
+  language: en
+  subtitle: Making Easy Things Easy and Hard Things Possible
+  author: Randal L. Schwartz
   author: Tom Christiansen
   foreword: Larry Wall
   publisher: O'Reilly Media
@@ -2094,15 +2196,15 @@
   language: en
   subtitle: Making Easy Things Easy and Hard Things Possible
   author: Randal L. Schwartz
-  author: Tom Phoenix
   author: brian d foy
+  author: Tom Phoenix
   publisher: O'Reilly Media
-  isbn13: 978-0-596-10105-3
-  isbn10: 0-596-10105-8
-  pages: 1184
-  pubdate: 2005-07-00
-  edition: 4
-  url: http://allperlbooks.com/book/en/learning-perl-4
+  isbn13: 978-1-4493-0358-7
+  isbn10: 1-4493-0358-7
+  pages: 388
+  pubdate: 2011-06-00
+  edition: 6
+  url: http://allperlbooks.com/book/en/learning-perl-6
   parent: http://allperlbooks.com/book/en/learning-perl
 
 - title: Learning Perl
@@ -2120,20 +2222,48 @@
   url: http://allperlbooks.com/book/en/learning-perl-5
   parent: http://allperlbooks.com/book/en/learning-perl
 
-- title: Learning Perl
+- title: Learning Perl 6
   language: en
-  subtitle: Making Easy Things Easy and Hard Things Possible
-  author: Randal L. Schwartz
+  subtitle: Covers Raku
   author: brian d foy
-  author: Tom Phoenix
   publisher: O'Reilly Media
-  isbn13: 978-1-4493-0358-7
-  isbn10: 1-4493-0358-7
-  pages: 388
-  pubdate: 2011-06-00
-  edition: 6
-  url: http://allperlbooks.com/book/en/learning-perl-6
-  parent: http://allperlbooks.com/book/en/learning-perl
+  isbn13: 
+  isbn10: 
+  pages: 476
+  pubdate: 2020-03-00
+  edition: 2
+  tag: Raku
+  tag: Perl 6.0
+  publisher's page: http://shop.oreilly.com/product/0636920062776.do
+  url: http://allperlbooks.com/book/en/learning-perl6-2
+  parent: http://allperlbooks.com/book/en/learning-perl6
+
+- title: Learning Perl 6
+  language: en
+  subtitle: Keeping the Easy, Hard, and Impossible Within Reach
+  author: brian d foy
+  publisher: O'Reilly Media
+  isbn13: 
+  isbn10: 
+  pages: 476
+  pubdate: 2018-09-00
+  edition: 1
+  tag: Perl 6
+  tag: Perl 6.0
+  publisher's page: http://shop.oreilly.com/product/0636920062776.do
+  url: http://allperlbooks.com/book/en/learning-perl6
+
+- title: Learning Perl Exercises
+  language: en
+  author: brian d foy
+  publisher: Perl School
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2020-02-04
+  edition: 1
+  publisher's page: https://perlschool.com/books/learning-perl-exercises/
+  url: http://allperlbooks.com/book/en/learning-perl-exercises
 
 - title: Learning Perl Objects, References, and Modules
   language: en
@@ -2213,6 +2343,34 @@
   tag: Graphics
   url: http://allperlbooks.com/book/en/learning-perl-tk
 
+- title: Learning to program with Perl 6
+  language: en
+  subtitle: First Steps: Getting into programming without leaving the command line
+  author: JJ Merelo
+  publisher: 
+  isbn13: 
+  isbn10: 
+  pages: 88
+  pubdate: 2017-06-16
+  edition: 1
+  tag: Perl 6
+  tag: Perl 6.0
+  url: http://allperlbooks.com/book/en/learning-to-program-with-perl6-2
+  parent: http://allperlbooks.com/book/en/learning-to-program-with-perl6
+
+- title: Learning to program with Perl 6
+  language: en
+  subtitle: First Steps: Getting into programming without leaving the command line
+  author: JJ Merelo
+  publisher: 
+  isbn13: 
+  isbn10: 
+  pages: 88
+  pubdate: 2017-06-16
+  edition: 1
+  tag: Perl 6
+  url: http://allperlbooks.com/book/en/learning-to-program-with-perl6
+
 - title: Les fondamentaux du langage Perl 5
   language: fr
   subtitle: Apprentissage par la pratique
@@ -2224,7 +2382,6 @@
   pages: 436
   pubdate: 2003-03-13
   edition: 1
-  publisher's page: http://www.eyrolles.com/Informatique/Livre/les-fondamentaux-du-langage-perl-5-9782746079328
   url: http://allperlbooks.com/book/fr/les-fondamentaux-du-langage-perl5
 
 - title: Les meilleurs bibliothèques pour Perl
@@ -2321,19 +2478,6 @@
 
 - title: Mastering Regular Expressions
   language: en
-  subtitle: Powerful Techniques for Perl and Other Tools
-  author: Jeffrey E. F. Friedl
-  publisher: O'Reilly Media
-  isbn13: 978-1-56592-257-0
-  isbn10: 1-56592-257-3
-  pages: 368
-  pubdate: 1997-01-00
-  edition: 1
-  tag: Regular expressions
-  url: http://allperlbooks.com/book/en/mastering-regular-expressions
-
-- title: Mastering Regular Expressions
-  language: en
   subtitle: Perl, .NET, Java, and More
   author: Jeffrey E. F. Friedl
   publisher: O'Reilly Media
@@ -2359,6 +2503,19 @@
   tag: Regular expressions
   url: http://allperlbooks.com/book/en/mastering-regular-expressions-3
   parent: http://allperlbooks.com/book/en/mastering-regular-expressions
+
+- title: Mastering Regular Expressions
+  language: en
+  subtitle: Powerful Techniques for Perl and Other Tools
+  author: Jeffrey E. F. Friedl
+  publisher: O'Reilly Media
+  isbn13: 978-1-56592-257-0
+  isbn10: 1-56592-257-3
+  pages: 368
+  pubdate: 1997-01-00
+  edition: 1
+  tag: Regular expressions
+  url: http://allperlbooks.com/book/en/mastering-regular-expressions
 
 - title: Masterminds of Programming
   language: en
@@ -2420,13 +2577,15 @@
   language: en
   author: chromatic
   publisher: Onyx Neon Press
-  isbn13: 978-0-9779201-5-0
-  isbn10: 0-9779201-5-1
-  pages: 264
-  pubdate: 2010-10-00
-  edition: 1
+  isbn13: 978-0-9854519-4-3
+  isbn10: 0-9854519-4-7
+  pages: 294
+  pubdate: 2014-01-00
+  edition: 4
   tag: Modern Perl
-  url: http://allperlbooks.com/book/en/modern-perl
+  homepage: http://modernperlbooks.com/books/modern_perl_2014/
+  url: http://allperlbooks.com/book/en/modern-perl-3
+  parent: http://allperlbooks.com/book/en/modern-perl
 
 - title: Modern Perl
   language: en
@@ -2445,15 +2604,13 @@
   language: en
   author: chromatic
   publisher: Onyx Neon Press
-  isbn13: 978-0-9854519-4-3
-  isbn10: 0-9854519-4-7
-  pages: 294
-  pubdate: 2014-01-00
-  edition: 3
+  isbn13: 978-0-9779201-5-0
+  isbn10: 0-9779201-5-1
+  pages: 264
+  pubdate: 2010-10-00
+  edition: 1
   tag: Modern Perl
-  homepage: http://modernperlbooks.com/books/modern_perl_2014/
-  url: http://allperlbooks.com/book/en/modern-perl-3
-  parent: http://allperlbooks.com/book/en/modern-perl
+  url: http://allperlbooks.com/book/en/modern-perl
 
 - title: Modern Perl Programming
   language: en
@@ -2466,6 +2623,17 @@
   edition: 1
   tag: Modern Perl
   url: http://allperlbooks.com/book/en/modern-perl-programming
+
+- title: Mojolicious Web Clients
+  language: en
+  author: brian d foy
+  publisher: 
+  isbn13: 
+  isbn10: 
+  pages: 240
+  pubdate: 2019-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/mojolicious-web-clients
 
 - title: Moose
   language: en
@@ -2678,6 +2846,20 @@
   tag: Perl 6
   url: http://allperlbooks.com/book/en/parrot-developers-guide
 
+- title: Parsing with Perl 6 Regexes and Grammars
+  language: en
+  subtitle: A Recursive Descent into Parsing
+  author: Moritz Lenz
+  publisher: Apress
+  isbn13: 978-1-4842-3227-9
+  isbn10: 
+  pages: 0
+  pubdate: 2017-12-29
+  edition: 1
+  tag: Perl 6
+  tag: Perl 6.0
+  url: http://allperlbooks.com/book/en/parsing-with-perl6-regexes-and-grammars-a-recursive-descent-into-parsing
+
 - title: Penetration Testing with Perl
   language: en
   author: Douglas Berdeaux
@@ -2719,20 +2901,6 @@
   url: http://allperlbooks.com/book/en/perl-and-lwp
 
 - title: Perl & XML
-  language: en
-  author: Erik T. Ray
-  author: Jason McIntosh
-  publisher: O'Reilly Media
-  series: XML Processing with Perl
-  isbn13: 978-0-596-00205-3
-  isbn10: 0-596-00205-X
-  pages: 218
-  pubdate: 2002-04-00
-  edition: 1
-  tag: XML
-  url: http://allperlbooks.com/book/en/perl-and-xml
-
-- title: Perl & XML
   language: ru
   author: Erik T. Ray
   author: Jason McIntosh
@@ -2747,42 +2915,19 @@
   url: http://allperlbooks.com/book/ru/perl-and-xml-ru
   parent: http://allperlbooks.com/book/en/perl-and-xml
 
-- title: Perl
+- title: Perl & XML
   language: en
-  subtitle: The Programmer's Companion
-  author: Nigel Chapman
-  publisher: Wiley
-  isbn13: 978-0-471-97563-2
-  isbn10: 0-471-97563-X
-  pages: 292
-  pubdate: 1997-09-25
+  author: Erik T. Ray
+  author: Jason McIntosh
+  publisher: O'Reilly Media
+  series: XML Processing with Perl
+  isbn13: 978-0-596-00205-3
+  isbn10: 0-596-00205-X
+  pages: 218
+  pubdate: 2002-04-00
   edition: 1
-  url: http://allperlbooks.com/book/en/perl-the-programmers-companion
-
-- title: Perl
-  language: hu
-  subtitle: Volume 1
-  author: Michael McMillan
-  publisher: Panem Könyvkiadó
-  isbn13: 
-  isbn10: 963-545-202-0
-  pages: 311
-  pubdate: 1998-00-00
-  edition: 1
-  url: http://allperlbooks.com/book/hu/perl-1
-
-- title: Perl
-  language: hu
-  subtitle: Volume 2
-  author: Michael McMillan
-  publisher: Panem Könyvkiadó
-  isbn13: 
-  isbn10: 963-545-209-8
-  pages: 271
-  pubdate: 1999-00-00
-  edition: 1
-  url: http://allperlbooks.com/book/hu/perl-2
-  parent: http://allperlbooks.com/book/hu/perl-1
+  tag: XML
+  url: http://allperlbooks.com/book/en/perl-and-xml
 
 - title: Perl
   language: de
@@ -2797,16 +2942,17 @@
   url: http://allperlbooks.com/book/de/perl-schaaf
 
 - title: Perl
-  language: fr
-  subtitle: Mini Reference
-  author: Anne Bohy
-  publisher: Eyrolles
-  isbn13: 978-2-7464-0185-3
-  isbn10: 2-7464-0185-1
-  pages: 156
-  pubdate: 2000-08-15
+  language: hu
+  subtitle: Volume 2
+  author: Michael McMillan
+  publisher: Panem Könyvkiadó
+  isbn13: 
+  isbn10: 963-545-209-8
+  pages: 271
+  pubdate: 1999-00-00
   edition: 1
-  url: http://allperlbooks.com/book/fr/perl-fr-anne-bohe
+  url: http://allperlbooks.com/book/hu/perl-2
+  parent: http://allperlbooks.com/book/hu/perl-1
 
 - title: Perl
   language: en
@@ -2823,6 +2969,30 @@
   url: http://allperlbooks.com/book/en/perl
 
 - title: Perl
+  language: en
+  subtitle: The Programmer's Companion
+  author: Nigel Chapman
+  publisher: Wiley
+  isbn13: 978-0-471-97563-2
+  isbn10: 0-471-97563-X
+  pages: 292
+  pubdate: 1997-09-25
+  edition: 1
+  url: http://allperlbooks.com/book/en/perl-the-programmers-companion
+
+- title: Perl
+  language: fr
+  subtitle: Mini Reference
+  author: Anne Bohy
+  publisher: Eyrolles
+  isbn13: 978-2-7464-0185-3
+  isbn10: 2-7464-0185-1
+  pages: 156
+  pubdate: 2000-08-15
+  edition: 1
+  url: http://allperlbooks.com/book/fr/perl-fr-anne-bohe
+
+- title: Perl
   language: ru
   subtitle: Наглядный курс программирования
   author: Paul Whitehead
@@ -2836,6 +3006,18 @@
   edition: 1
   url: http://allperlbooks.com/book/ru/perl-visual-blueprint-ru
   parent: http://allperlbooks.com/book/en/perl
+
+- title: Perl
+  language: hu
+  subtitle: Volume 1
+  author: Michael McMillan
+  publisher: Panem Könyvkiadó
+  isbn13: 
+  isbn10: 963-545-202-0
+  pages: 311
+  pubdate: 1998-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/hu/perl-1
 
 - title: Perl
   language: de
@@ -2877,19 +3059,6 @@
 - title: Perl 5 Desktop Reference
   language: en
   author: Johan Vromans
-  publisher: O'Reilly & Associates, Inc.
-  series: Programming Tools
-  isbn13: 978-1-56592-187-0
-  isbn10: 1-56592-187-9
-  pages: 46
-  pubdate: 1996-02-00
-  edition: 1
-  tag: Pocket edition
-  url: http://allperlbooks.com/book/en/perl5-desktop-reference
-
-- title: Perl 5 Desktop Reference
-  language: en
-  author: Johan Vromans
   publisher: O'Reilly Media
   series: Programming Tools
   isbn13: 978-1-56592-187-0
@@ -2900,6 +3069,19 @@
   tag: Pocket edition
   url: http://allperlbooks.com/book/en/perl5-desktop-reference-b
   parent: http://allperlbooks.com/book/en/perl5-desktop-reference
+
+- title: Perl 5 Desktop Reference
+  language: en
+  author: Johan Vromans
+  publisher: O'Reilly & Associates, Inc.
+  series: Programming Tools
+  isbn13: 978-1-56592-187-0
+  isbn10: 1-56592-187-9
+  pages: 46
+  pubdate: 1996-02-00
+  edition: 1
+  tag: Pocket edition
+  url: http://allperlbooks.com/book/en/perl5-desktop-reference
 
 - title: Perl 5 Developer's Guide
   language: en
@@ -2953,6 +3135,7 @@
   pubdate: 1997-01-11
   edition: 1
   url: http://allperlbooks.com/book/en/perl5-interactive-course-certified-edition
+  parent: http://allperlbooks.com/book/en/perl5-interactive-course
 
 - title: Perl 5 Kort en Krachtig
   language: nl
@@ -2966,6 +3149,47 @@
   edition: 1
   tag: Pocket edition
   url: http://allperlbooks.com/book/nl/perl5-kort-en-krachtig
+  parent: http://allperlbooks.com/book/en/perl5-pocket-reference
+
+- title: Perl 5 Pocket Reference
+  language: en
+  author: Johan Vromans
+  publisher: O'Reilly Media
+  series: Programming Tools
+  isbn13: 978-1-4493-0370-9
+  isbn10: 1-4493-0370-6
+  pages: 104
+  pubdate: 2011-07-00
+  edition: 5
+  tag: Pocket edition
+  url: http://allperlbooks.com/book/en/perl5-pocket-reference-5
+  parent: http://allperlbooks.com/book/en/perl5-pocket-reference
+
+- title: Perl 5 Pocket Reference
+  language: en
+  author: Johan Vromans
+  publisher: O'Reilly Media
+  series: Programming Tools
+  isbn13: 978-0-596-00374-6
+  isbn10: 0-596-00374-9
+  pages: 96
+  pubdate: 2002-07-00
+  edition: 4
+  tag: Pocket edition
+  url: http://allperlbooks.com/book/en/perl5-pocket-reference-4
+  parent: http://allperlbooks.com/book/en/perl5-pocket-reference
+
+- title: Perl 5 Pocket Reference
+  language: en
+  author: Johan Vromans
+  publisher: O'Reilly Media
+  isbn13: 978-0-596-00032-5
+  isbn10: 0-596-00032-4
+  pages: 96
+  pubdate: 2000-06-00
+  edition: 3
+  tag: Pocket edition
+  url: http://allperlbooks.com/book/en/perl5-pocket-reference-3
   parent: http://allperlbooks.com/book/en/perl5-pocket-reference
 
 - title: Perl 5 Pocket Reference
@@ -2994,47 +3218,6 @@
   edition: 1
   tag: Pocket edition
   url: http://allperlbooks.com/book/en/perl5-pocket-reference
-
-- title: Perl 5 Pocket Reference
-  language: en
-  author: Johan Vromans
-  publisher: O'Reilly Media
-  isbn13: 978-0-596-00032-5
-  isbn10: 0-596-00032-4
-  pages: 96
-  pubdate: 2000-06-00
-  edition: 3
-  tag: Pocket edition
-  url: http://allperlbooks.com/book/en/perl5-pocket-reference-3
-  parent: http://allperlbooks.com/book/en/perl5-pocket-reference
-
-- title: Perl 5 Pocket Reference
-  language: en
-  author: Johan Vromans
-  publisher: O'Reilly Media
-  series: Programming Tools
-  isbn13: 978-0-596-00374-6
-  isbn10: 0-596-00374-9
-  pages: 96
-  pubdate: 2002-07-00
-  edition: 4
-  tag: Pocket edition
-  url: http://allperlbooks.com/book/en/perl5-pocket-reference-4
-  parent: http://allperlbooks.com/book/en/perl5-pocket-reference
-
-- title: Perl 5 Pocket Reference
-  language: en
-  author: Johan Vromans
-  publisher: O'Reilly Media
-  series: Programming Tools
-  isbn13: 978-1-4493-0370-9
-  isbn10: 1-4493-0370-6
-  pages: 104
-  pubdate: 2011-07-00
-  edition: 5
-  tag: Pocket edition
-  url: http://allperlbooks.com/book/en/perl5-pocket-reference-5
-  parent: http://allperlbooks.com/book/en/perl5-pocket-reference
 
 - title: Perl 5 Quick Reference
   language: en
@@ -3118,7 +3301,6 @@
   pages: 128
   pubdate: 2001-03-26
   edition: 1
-  publisher's page: http://helion.pl/ksiazki/perl5l.htm
   url: http://allperlbooks.com/book/pl/perl5-leksykon-kieszonkowy
   parent: http://allperlbooks.com/book/en/perl5-pocket-reference
 
@@ -3136,6 +3318,34 @@
   url: http://allperlbooks.com/book/ru/perl5-for-web-professionals
   parent: http://allperlbooks.com/book/en/essential-perl5-for-web-professionals
 
+- title: Perl 6 Calendar 2019
+  language: en
+  author: Andrew Shitov
+  publisher: DeepText Media
+  isbn13: 
+  isbn10: 
+  pages: 13
+  pubdate: 2018-11-01
+  edition: 1
+  tag: Perl 6.0
+  homepage: https://github.com/ash/books/tree/master/Perl%206%20Calendar%202019
+  url: http://allperlbooks.com/book/en/perl6-calendar-2019
+
+- title: Perl 6 Deep Dive
+  language: en
+  subtitle: Learn Perl 6 effortlessly to solve everyday problems
+  author: Andrew Shitov
+  publisher: Packt Publishing
+  isbn13: 978-1-78728-204-9
+  isbn10: 
+  pages: 400
+  pubdate: 2017-09-05
+  edition: 1
+  tag: Perl 6
+  tag: Perl 6.0
+  publisher's page: https://www.packtpub.com/application-development/perl-6-deep-dive
+  url: http://allperlbooks.com/book/en/perl6-deep-dive
+
 - title: Perl 6 Essentials
   language: en
   subtitle: The Community's Rewrite of Perl
@@ -3151,6 +3361,23 @@
   tag: Perl 6
   url: http://allperlbooks.com/book/en/perl6-essentials
 
+- title: Perl 6 Fundamentals
+  language: en
+  author: Moritz Lenz
+  foreword: Larry Wall
+  publisher: Apress
+  isbn13: 978-1-4842-2899-9
+  isbn10: 
+  pages: 164
+  pubdate: 2017-07-00
+  edition: 1
+  tag: Perl 6
+  tag: Pearl
+  tag: Perl 6.0
+  publisher's page: http://www.apress.com/us/book/9781484228982
+  url: http://allperlbooks.com/book/en/perl6-fundamentals
+  parent: http://allperlbooks.com/book/en/perl6-by-example
+
 - title: Perl 6 Now
   language: en
   subtitle: The Core Ideas Illustrated with Perl 5
@@ -3163,6 +3390,19 @@
   edition: 1
   tag: Perl 6
   url: http://allperlbooks.com/book/en/perl6-now
+
+- title: Perl 6 Quick Syntax Reference
+  language: en
+  subtitle: A Pocket Guide to the Language, APIs, and Library
+  author: JJ Merelo
+  publisher: Apress
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2019-10-00
+  edition: 1
+  tag: Perl 6.0
+  url: http://allperlbooks.com/book/en/perl6-quick-syntax-reference
 
 - title: Perl 6 and Parrot Essentials
   language: en
@@ -3179,6 +3419,33 @@
   tag: Perl 6
   url: http://allperlbooks.com/book/en/perl6-and-parrot-essentials
   parent: http://allperlbooks.com/book/en/perl6-essentials
+
+- title: Perl 6 at a Glance
+  language: en
+  author: Andrew Shitov
+  publisher: DeepText Media
+  isbn13: 978-90-821568-3-6
+  isbn10: 
+  pages: 150
+  pubdate: 2017-01-01
+  edition: 1
+  tag: Perl 6
+  tag: Perl 6.0
+  homepage: https://github.com/ash/books/tree/master/Perl%206%20at%20a%20Glance
+  url: http://allperlbooks.com/book/en/perl6-at-a-glance
+
+- title: Perl 6 by Example
+  language: en
+  subtitle: Renamed to Perl 6 Fundamentals
+  author: Moritz Lenz
+  publisher: 
+  isbn13: 
+  isbn10: 
+  pages: 134
+  pubdate: 2017-06-00
+  edition: 1
+  tag: Perl 6
+  url: http://allperlbooks.com/book/en/perl6-by-example
 
 - title: Perl 6 и Parrot. Справочник
   language: ru
@@ -3209,7 +3476,6 @@
   pubdate: 2003-10-30
   edition: 1
   tag: Perl 6
-  publisher's page: http://helion.pl/ksiazki/per6po.htm
   url: http://allperlbooks.com/book/pl/perl6-podstawy
   parent: http://allperlbooks.com/book/en/perl6-essentials
 
@@ -3276,20 +3542,6 @@
 
 - title: Perl Cookbook
   language: en
-  subtitle: Tips and Tricks for Perl Programmers
-  author: Tom Christiansen
-  author: Nathan Torkington
-  publisher: O'Reilly Media
-  series: Solutions and Examples for Perl Programmers
-  isbn13: 978-1-56592-243-3
-  isbn10: 1-56592-243-3
-  pages: 800
-  pubdate: 1998-08-00
-  edition: 1
-  url: http://allperlbooks.com/book/en/perl-cookbook
-
-- title: Perl Cookbook
-  language: en
   author: Tom Christiansen
   author: Nathan Torkington
   publisher: O'Reilly Media
@@ -3301,6 +3553,20 @@
   edition: 2
   url: http://allperlbooks.com/book/en/perl-cookbook-2
   parent: http://allperlbooks.com/book/en/perl-cookbook
+
+- title: Perl Cookbook
+  language: en
+  subtitle: Tips and Tricks for Perl Programmers
+  author: Tom Christiansen
+  author: Nathan Torkington
+  publisher: O'Reilly Media
+  series: Solutions and Examples for Perl Programmers
+  isbn13: 978-1-56592-243-3
+  isbn10: 1-56592-243-3
+  pages: 800
+  pubdate: 1998-08-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/perl-cookbook
 
 - title: Perl Cookbook. Том II
   language: bg
@@ -3487,6 +3753,21 @@
   url: http://allperlbooks.com/book/de/perl-grundkurs
 
 - title: Perl Hacks
+  language: ja
+  subtitle: プロが教えるテクニック & ツール101選
+  author: chromatic
+  author: Damian Conway
+  author: Curtis Poe (Ovid)
+  publisher: O'Reilly Japan
+  isbn13: 978-4-87311-314-2
+  isbn10: 4-87311-314-8
+  pages: 352
+  pubdate: 2007-01-00
+  edition: 1
+  url: http://allperlbooks.com/book/ja/perl-hacks-ja
+  parent: http://allperlbooks.com/book/en/perl-hacks
+
+- title: Perl Hacks
   language: en
   subtitle: Tips & Tools for Programming, Debugging, and Surviving
   author: chromatic
@@ -3500,22 +3781,6 @@
   edition: 1
   tag: Debugging and Testing
   url: http://allperlbooks.com/book/en/perl-hacks
-
-- title: Perl Hacks
-  language: ja
-  subtitle: プロが教えるテクニック & ツール101選
-  author: chromatic
-  author: Damian Conway
-  author: Curtis Poe (Ovid)
-  publisher: O'Reilly Japan
-  isbn13: 978-4-87311-314-2
-  isbn10: 4-87311-314-8
-  pages: 352
-  pubdate: 2007-01-00
-  edition: 1
-  publisher's page: https://www.oreilly.co.jp/books/9784873113142/
-  url: http://allperlbooks.com/book/ja/perl-hacks-ja
-  parent: http://allperlbooks.com/book/en/perl-hacks
 
 - title: Perl Interview Questions
   language: en
@@ -3569,7 +3834,6 @@
   edition: 1
   tag: Modern Perl
   homepage: http://perlmoderne.fr/
-  publisher's page: http://www.pearson.fr/livre/?GCOI=27440100979970
   url: http://allperlbooks.com/book/fr/perl-moderne
 
 - title: Perl Modules
@@ -3708,6 +3972,18 @@
   tag: Security
   url: http://allperlbooks.com/book/en/perl-scripting-for-windows-security
 
+- title: Perl Taster
+  language: en
+  subtitle: Your First Two Hours with Perl
+  author: Dave Cross
+  publisher: Perl School
+  isbn13: 
+  isbn10: 
+  pages: 50
+  pubdate: 2017-11-19
+  edition: 1
+  url: http://allperlbooks.com/book/en/perl-taster
+
 - title: Perl Template Toolkit
   language: en
   subtitle: Scalable Templating for the Web
@@ -3814,33 +4090,7 @@
   pubdate: 2015-05-22
   edition: 1
   tag: Regular expressions
-  publisher's page: http://www.quickstartworkbook.com/download-using-perl-and-regular-expressions-to-process-files-quick-start-workbook.php
   url: http://allperlbooks.com/book/en/perl-and-regular-expressions-quick-start-workbook
-
-- title: Perl by Example
-  language: en
-  author: Ellie Quigley
-  publisher: Prentice Hall PTR
-  isbn13: 978-0-13-122839-9
-  isbn10: 0-13-122839-0
-  pages: 0
-  pubdate: 1994-00-00
-  edition: 1
-  tag: Pearl
-  url: http://allperlbooks.com/book/en/perl-by-example
-
-- title: Perl by Example
-  language: en
-  author: Ellie Quigley
-  publisher: Prentice Hall PTR
-  isbn13: 978-0-13-655689-3
-  isbn10: 0-13-655689-2
-  pages: 0
-  pubdate: 1998-00-00
-  edition: 2
-  tag: Pearl
-  url: http://allperlbooks.com/book/en/perl-by-example-2
-  parent: http://allperlbooks.com/book/en/perl-by-example
 
 - title: Perl by Example
   language: en
@@ -3853,6 +4103,19 @@
   edition: 3
   tag: Pearl
   url: http://allperlbooks.com/book/en/perl-by-example-3
+  parent: http://allperlbooks.com/book/en/perl-by-example
+
+- title: Perl by Example
+  language: en
+  author: Ellie Quigley
+  publisher: Prentice Hall PTR
+  isbn13: 978-0-13-376081-1
+  isbn10: 0-13-376081-2
+  pages: 888
+  pubdate: 2014-12-27
+  edition: 5
+  tag: Pearl
+  url: http://allperlbooks.com/book/en/perl-by-example-5
   parent: http://allperlbooks.com/book/en/perl-by-example
 
 - title: Perl by Example
@@ -3872,14 +4135,26 @@
   language: en
   author: Ellie Quigley
   publisher: Prentice Hall PTR
-  isbn13: 978-0-13-376081-1
-  isbn10: 0-13-376081-2
-  pages: 888
-  pubdate: 2014-12-27
-  edition: 5
+  isbn13: 978-0-13-655689-3
+  isbn10: 0-13-655689-2
+  pages: 0
+  pubdate: 1998-00-00
+  edition: 2
   tag: Pearl
-  url: http://allperlbooks.com/book/en/perl-by-example-5
+  url: http://allperlbooks.com/book/en/perl-by-example-2
   parent: http://allperlbooks.com/book/en/perl-by-example
+
+- title: Perl by Example
+  language: en
+  author: Ellie Quigley
+  publisher: Prentice Hall PTR
+  isbn13: 978-0-13-122839-9
+  isbn10: 0-13-122839-0
+  pages: 0
+  pubdate: 1994-00-00
+  edition: 1
+  tag: Pearl
+  url: http://allperlbooks.com/book/en/perl-by-example
 
 - title: Perl dla każdego
   language: pl
@@ -3891,7 +4166,6 @@
   pages: 648
   pubdate: 2000-05-08
   edition: 1
-  publisher's page: http://helion.pl/ksiazki/perldk.htm
   url: http://allperlbooks.com/book/pl/perl-dla-kazdego
   parent: http://allperlbooks.com/book/en/teach-yourself-perl-in-21-days
 
@@ -3907,7 +4181,6 @@
   pages: 264
   pubdate: 2006-11-29
   edition: 1
-  publisher's page: http://helion.pl/ksiazki/perlsz.htm
   url: http://allperlbooks.com/book/pl/perl-dla-srednio-zaawansowanych
   parent: http://allperlbooks.com/book/en/intermediate-perl
 
@@ -3952,12 +4225,12 @@
   language: en
   author: Paul Hoffman
   publisher: For Dummies
-  isbn13: 978-0-7645-0460-0
-  isbn10: 0-7645-0460-6
-  pages: 383
-  pubdate: 1998-11-01
-  edition: 2
-  url: http://allperlbooks.com/book/en/perl-for-dummies-2
+  isbn13: 978-0-7645-3750-9
+  isbn10: 0-7645-3750-4
+  pages: 408
+  pubdate: 2003-00-00
+  edition: 4
+  url: http://allperlbooks.com/book/en/perl-for-dummies-4
   parent: http://allperlbooks.com/book/en/perl5-for-dummies
 
 - title: Perl for Dummies
@@ -3976,12 +4249,12 @@
   language: en
   author: Paul Hoffman
   publisher: For Dummies
-  isbn13: 978-0-7645-3750-9
-  isbn10: 0-7645-3750-4
-  pages: 408
-  pubdate: 2003-00-00
-  edition: 4
-  url: http://allperlbooks.com/book/en/perl-for-dummies-4
+  isbn13: 978-0-7645-0460-0
+  isbn10: 0-7645-0460-6
+  pages: 383
+  pubdate: 1998-11-01
+  edition: 2
+  url: http://allperlbooks.com/book/en/perl-for-dummies-2
   parent: http://allperlbooks.com/book/en/perl5-for-dummies
 
 - title: Perl for Exploring DNA
@@ -4253,7 +4526,6 @@
   pubdate: 2002-07-03
   edition: 1
   tag: Web
-  publisher's page: http://helion.pl/ksiazki/perwol.htm
   url: http://allperlbooks.com/book/pl/perl-w-zaradzaniu-witrynami-www
   parent: http://allperlbooks.com/book/en/perl-for-web-site-management
 
@@ -4394,7 +4666,6 @@
   pages: 416
   pubdate: 2001-07-26
   edition: 1
-  publisher's page: http://helion.pl/ksiazki/perlbb.htm
   url: http://allperlbooks.com/book/pl/perl-czarna-ksinga
   parent: http://allperlbooks.com/book/en/perl-core-language
 
@@ -4421,7 +4692,6 @@
   pages: 488
   pubdate: 2006-03-06
   edition: 1
-  publisher's page: http://helion.pl/ksiazki/pernaj.htm
   url: http://allperlbooks.com/book/pl/perl-najlepsze-rozwiazania
   parent: http://allperlbooks.com/book/en/perl-best-practices
 
@@ -4437,7 +4707,6 @@
   pages: 656
   pubdate: 2003-01-08
   edition: 1
-  publisher's page: http://helion.pl/ksiazki/perlop.htm
   url: http://allperlbooks.com/book/pl/perl-od-podstaw
   parent: http://allperlbooks.com/book/en/beginning-perl-cozens
 
@@ -4454,7 +4723,6 @@
   pages: 1056
   pubdate: 2004-02-19
   edition: 2
-  publisher's page: http://helion.pl/ksiazki/perec2.htm
   url: http://allperlbooks.com/book/pl/perl-receptury
   parent: http://allperlbooks.com/book/en/perl-cookbook
 
@@ -4468,7 +4736,6 @@
   pages: 344
   pubdate: 2007-02-06
   edition: 1
-  publisher's page: http://helion.pl/ksiazki/perlsk.htm
   url: http://allperlbooks.com/book/pl/perl-skrypty
   parent: http://allperlbooks.com/book/en/wicked-cool-perl-scripts
 
@@ -4483,7 +4750,6 @@
   pages: 240
   pubdate: 2006-01-20
   edition: 1
-  publisher's page: http://helion.pl/ksiazki/pertes.htm
   url: http://allperlbooks.com/book/pl/perl-testowanie-zapiski-programisty
   parent: http://allperlbooks.com/book/en/perl-testing
 
@@ -4498,25 +4764,8 @@
   pubdate: 2002-10-28
   edition: 1
   tag: Web
-  publisher's page: http://helion.pl/ksiazki/perlas.htm
   url: http://allperlbooks.com/book/pl/perl-tworzenie-aplikacji-sieciowych
   parent: http://allperlbooks.com/book/en/network-programming-with-perl
-
-- title: Perl. Wprowadzenie
-  language: pl
-  author: Randal L. Schwartz
-  author: Tom Christiansen
-  translator: Michał Jęczalik
-  translator: Marcin Jagodziński
-  publisher: Helion
-  isbn13: 978-83-7197-220-1
-  isbn10: 83-7197-220-2
-  pages: 256
-  pubdate: 2000-07-06
-  edition: 2
-  publisher's page: http://helion.pl/ksiazki/perlwp.htm
-  url: http://allperlbooks.com/book/pl/perl-wprowadzenie-pl-2
-  parent: http://allperlbooks.com/book/en/learning-perl
 
 - title: Perl. Wprowadzenie
   language: pl
@@ -4530,23 +4779,23 @@
   pages: 320
   pubdate: 2006-01-10
   edition: 4
-  publisher's page: http://helion.pl/ksiazki/perlw2.htm
   url: http://allperlbooks.com/book/pl/perl-wprowadzenie-pl-4
   parent: http://allperlbooks.com/book/en/learning-perl
 
-- title: Perl. Zaawansowane programowanie
+- title: Perl. Wprowadzenie
   language: pl
-  author: Sriram Srinivasan
-  translator: Adam Podstawczyński
+  author: Randal L. Schwartz
+  author: Tom Christiansen
+  translator: Michał Jęczalik
+  translator: Marcin Jagodziński
   publisher: Helion
-  isbn13: 978-83-7197-999-6
-  isbn10: 83-7197-999-1
-  pages: 448
-  pubdate: 2003-02-04
-  edition: 1
-  publisher's page: http://helion.pl/ksiazki/perlzp.htm
-  url: http://allperlbooks.com/book/pl/perl-zaawansowane-programowanie
-  parent: http://allperlbooks.com/book/en/advanced-perl-programming
+  isbn13: 978-83-7197-220-1
+  isbn10: 83-7197-220-2
+  pages: 256
+  pubdate: 2000-07-06
+  edition: 2
+  url: http://allperlbooks.com/book/pl/perl-wprowadzenie-pl-2
+  parent: http://allperlbooks.com/book/en/learning-perl
 
 - title: Perl. Zaawansowane programowanie
   language: pl
@@ -4559,8 +4808,20 @@
   pages: 228
   pubdate: 2006-02-13
   edition: 2
-  publisher's page: http://helion.pl/ksiazki/perlz2.htm
   url: http://allperlbooks.com/book/pl/perl-zaawansowane-programowanie-2
+  parent: http://allperlbooks.com/book/en/advanced-perl-programming
+
+- title: Perl. Zaawansowane programowanie
+  language: pl
+  author: Sriram Srinivasan
+  translator: Adam Podstawczyński
+  publisher: Helion
+  isbn13: 978-83-7197-999-6
+  isbn10: 83-7197-999-1
+  pages: 448
+  pubdate: 2003-02-04
+  edition: 1
+  url: http://allperlbooks.com/book/pl/perl-zaawansowane-programowanie
   parent: http://allperlbooks.com/book/en/advanced-perl-programming
 
 - title: Perl. Ćwiczenia
@@ -4572,7 +4833,6 @@
   pages: 132
   pubdate: 2003-01-07
   edition: 1
-  publisher's page: http://helion.pl/ksiazki/cwperl.htm
   url: http://allperlbooks.com/book/pl/perl-cwiczenia
 
 - title: Perl. Архив программ
@@ -4642,7 +4902,6 @@
   edition: 1
   tag: Graphics
   tag: Pocket edition
-  publisher's page: http://helion.pl/ksiazki/perlek.htm
   url: http://allperlbooks.com/book/pl/perl-tk-leksykon-kieszonkowy
   parent: http://allperlbooks.com/book/en/perl-tk-pocket-reference
 
@@ -4674,17 +4933,6 @@
   language: en
   author: Martin C. Brown
   publisher: Osborne Publishing
-  isbn13: 978-0-07-212000-4
-  isbn10: 0-07-212000-2
-  pages: 1179
-  pubdate: 1999-07-21
-  edition: 1
-  url: http://allperlbooks.com/book/en/perl-the-complete-reference
-
-- title: Perl: The Complete Reference
-  language: en
-  author: Martin C. Brown
-  publisher: Osborne Publishing
   isbn13: 978-0-07-212950-2
   isbn10: 0-07-212950-6
   pages: 1207
@@ -4692,6 +4940,17 @@
   edition: 2
   url: http://allperlbooks.com/book/en/perl-the-complete-reference-2
   parent: http://allperlbooks.com/book/en/perl-the-complete-reference
+
+- title: Perl: The Complete Reference
+  language: en
+  author: Martin C. Brown
+  publisher: Osborne Publishing
+  isbn13: 978-0-07-212000-4
+  isbn10: 0-07-212000-2
+  pages: 1179
+  pubdate: 1999-07-21
+  edition: 1
+  url: http://allperlbooks.com/book/en/perl-the-complete-reference
 
 - title: Perl: The Programming Language
   language: en
@@ -4769,7 +5028,7 @@
   isbn13: 
   isbn10: 
   pages: 177
-  pubdate: 2011-09-30
+  pubdate: 2008-09-16
   edition: 1
   url: http://allperlbooks.com/book/en/perlish-patterns
 
@@ -4785,7 +5044,6 @@
   pages: 752
   pubdate: 2004-09-00
   edition: 2
-  publisher's page: https://www.oreilly.co.jp/books/4873112028/
   url: http://allperlbooks.com/book/ja/perl-cookbook-ja-volume1
   parent: http://allperlbooks.com/book/en/perl-cookbook
 
@@ -4801,7 +5059,6 @@
   pages: 464
   pubdate: 2004-09-00
   edition: 2
-  publisher's page: https://www.oreilly.co.jp/books/4873112036/
   url: http://allperlbooks.com/book/ja/perl-cookbook-ja-volume2
   parent: http://allperlbooks.com/book/en/perl-cookbook
 
@@ -4815,7 +5072,6 @@
   pages: 520
   pubdate: 2006-08-00
   edition: 1
-  publisher's page: https://www.oreilly.co.jp/books/4873113008/
   url: http://allperlbooks.com/book/ja/perl-best-practices-ja
   parent: http://allperlbooks.com/book/en/perl-best-practices
 
@@ -4844,6 +5100,22 @@
   pubdate: 2001-01-00
   edition: 1
   url: http://allperlbooks.com/book/ja/perl-lessons-ja
+
+- title: Piensa en Perl 6
+  language: es
+  subtitle: Cómo pensar como un científico de la computación
+  author: Laurent Rosenfeld
+  author: Allen B. Downey
+  publisher: 
+  isbn13: 
+  isbn10: 
+  pages: 457
+  pubdate: 2018-10-31
+  edition: 1
+  tag: Perl 6.0
+  homepage: https://uzluisf.gitlab.io/piensaperl6/
+  url: http://allperlbooks.com/book/es/piensa-en-perl6
+  parent: http://allperlbooks.com/book/en/think-perl6
 
 - title: Pocket Perl
   language: it
@@ -5045,6 +5317,18 @@
 
 - title: Pragmatic Perl #25
   language: ru
+  subtitle: Апрель 2015
+  publisher: Pragmatic Perl
+  isbn13: 
+  isbn10: 
+  pages: 41
+  pubdate: 2015-04-00
+  edition: 1
+  homepage: http://pragmaticperl.com/issues/25
+  url: http://allperlbooks.com/book/ru/pragmatic-perl-25
+
+- title: Pragmatic Perl #25
+  language: ru
   subtitle: Март 2015
   publisher: Pragmatic Perl
   isbn13: 
@@ -5052,20 +5336,7 @@
   pages: 0
   pubdate: 2015-03-00
   edition: 1
-  homepage: http://pragmaticperl.com/issues/25
   url: http://allperlbooks.com/book/ru/pragmatic-perl-25
-
-- title: Pragmatic Perl #26
-  language: ru
-  subtitle: Апрель 2015
-  publisher: Pragmatic Perl
-  isbn13: 
-  isbn10: 
-  pages: 0
-  pubdate: 2015-04-00
-  edition: 1
-  homepage: http://pragmaticperl.com/issues/26
-  url: http://allperlbooks.com/book/ru/pragmatic-perl-26
 
 - title: Pragmatic Perl #27
   language: ru
@@ -5090,6 +5361,104 @@
   edition: 1
   homepage: http://pragmaticperl.com/issues/28
   url: http://allperlbooks.com/book/ru/pragmatic-perl-28
+
+- title: Pragmatic Perl #29
+  language: ru
+  subtitle: Июль 2015
+  publisher: Pragmatic Perl
+  isbn13: 
+  isbn10: 
+  pages: 36
+  pubdate: 2015-07-00
+  edition: 1
+  homepage: http://pragmaticperl.com/issues/29
+  url: http://allperlbooks.com/book/ru/pragmatic-perl-29
+
+- title: Pragmatic Perl #30
+  language: ru
+  subtitle: Август 2015
+  publisher: Pragmatic Perl
+  isbn13: 
+  isbn10: 
+  pages: 38
+  pubdate: 2015-08-00
+  edition: 1
+  homepage: http://pragmaticperl.com/issues/30
+  url: http://allperlbooks.com/book/ru/pragmatic-perl-30
+
+- title: Pragmatic Perl #31
+  language: ru
+  subtitle: Сентябрь 2015
+  publisher: Pragmatic Perl
+  isbn13: 
+  isbn10: 
+  pages: 37
+  pubdate: 2015-09-00
+  edition: 1
+  homepage: http://pragmaticperl.com/issues/31
+  url: http://allperlbooks.com/book/ru/pragmatic-perl-31
+
+- title: Pragmatic Perl #32
+  language: ru
+  subtitle: Октябрь 2015
+  publisher: Pragmatic Perl
+  isbn13: 
+  isbn10: 
+  pages: 36
+  pubdate: 2015-10-00
+  edition: 1
+  homepage: http://pragmaticperl.com/issues/32
+  url: http://allperlbooks.com/book/ru/pragmatic-perl-32
+
+- title: Pragmatic Perl #33
+  language: ru
+  subtitle: Ноябрь 2015
+  publisher: Pragmatic Perl
+  isbn13: 
+  isbn10: 
+  pages: 35
+  pubdate: 2015-11-00
+  edition: 1
+  homepage: http://pragmaticperl.com/issues/33
+  url: http://allperlbooks.com/book/ru/pragmatic-perl-33
+
+- title: Pragmatic Perl #34
+  language: ru
+  subtitle: Декабрь 2015
+  publisher: Pragmatic Perl
+  isbn13: 
+  isbn10: 
+  pages: 50
+  pubdate: 2015-12-00
+  edition: 1
+  homepage: http://pragmaticperl.com/issues/34
+  url: http://allperlbooks.com/book/ru/pragmatic-perl-34
+
+- title: Pragmatic Perl Interviews
+  language: en
+  subtitle: 2013–2015
+  publisher: Pragmatic Perl
+  isbn13: 
+  isbn10: 
+  pages: 123
+  pubdate: 2018-02-02
+  edition: 1
+  tag: Interviews
+  homepage: http://pragmaticperl.com/interviews-book/download.html
+  url: http://allperlbooks.com/book/en/pragmatic-perl-interviews
+
+- title: Preparing for Perl 7
+  language: en
+  author: brian d foy
+  publisher: 
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2020-06-24
+  edition: 1
+  tag: Perl 7
+  publisher's page: https://leanpub.com/preparing_for_perl7/
+  url: http://allperlbooks.com/book/en/preparing-for-perl-7
 
 - title: Pro Perl
   language: en
@@ -5174,6 +5543,19 @@
   edition: 1
   url: http://allperlbooks.com/book/en/professional-perl-programming
 
+- title: Programação em Perl
+  language: pt
+  author: Vasco Amaral
+  author: Levi Lúcio
+  publisher: Wook
+  series: Biblioteca Software Livre
+  isbn13: 978-972-722-251-3
+  isbn10: 
+  pages: 288
+  pubdate: 2001-04-00
+  edition: 1
+  url: http://allperlbooks.com/book/pt/programa-o-em-perl
+
 - title: Programmation CGI
   language: fr
   subtitle: Exemples en Perl
@@ -5193,21 +5575,6 @@
 
 - title: Programmation en Perl
   language: fr
-  author: Larry Wall
-  author: Tom Christiansen
-  author: Randal L. Schwartz
-  translator: Jean Zundel
-  publisher: Éditions O'Reilly
-  isbn13: 978-2-84177-004-5
-  isbn10: 2-84177-004-4
-  pages: 661
-  pubdate: 1996-00-00
-  edition: 2
-  url: http://allperlbooks.com/book/fr/programmation-en-perl-2
-  parent: http://allperlbooks.com/book/en/programming-perl
-
-- title: Programmation en Perl
-  language: fr
   subtitle: There's More Than One Way To Do It
   author: Larry Wall
   author: Tom Christiansen
@@ -5223,6 +5590,33 @@
   edition: 3
   url: http://allperlbooks.com/book/fr/programmation-en-perl-3
   parent: http://allperlbooks.com/book/en/programming-perl
+
+- title: Programmation en Perl
+  language: fr
+  author: Larry Wall
+  author: Tom Christiansen
+  author: Randal L. Schwartz
+  translator: Jean Zundel
+  publisher: Éditions O'Reilly
+  isbn13: 978-2-84177-004-5
+  isbn10: 2-84177-004-4
+  pages: 661
+  pubdate: 1996-00-00
+  edition: 2
+  url: http://allperlbooks.com/book/fr/programmation-en-perl-2
+  parent: http://allperlbooks.com/book/en/programming-perl
+
+- title: Programmation fonctionnelle en Perl
+  language: fr
+  subtitle: Améliorez la puissance expressive de vos programmes
+  author: Laurent Rosenfeld
+  publisher: 
+  isbn13: 978-1980583769
+  isbn10: 1980583765
+  pages: 222
+  pubdate: 2018-03-25
+  edition: 1
+  url: http://allperlbooks.com/book/fr/programmation-fonctionnelle-en-perl
 
 - title: Programmer's Security DeskRef
   language: en
@@ -5274,6 +5668,22 @@
 
 - title: Programming Perl
   language: en
+  subtitle: Unmatched power for text processing and scripting
+  author: Tom Christiansen
+  author: brian d foy
+  author: Larry Wall
+  author: Jon Orwant
+  publisher: O'Reilly Media
+  isbn13: 978-0-596-00492-7
+  isbn10: 0-596-00492-3
+  pages: 1184
+  pubdate: 2012-02-00
+  edition: 4
+  url: http://allperlbooks.com/book/en/programming-perl-4
+  parent: http://allperlbooks.com/book/en/programming-perl
+
+- title: Programming Perl
+  language: en
   author: Larry Wall
   author: Randal L. Schwartz
   publisher: O'Reilly & Associates, Inc.
@@ -5301,18 +5711,16 @@
 
 - title: Programming Perl
   language: en
-  author: Larry Wall
-  author: Tom Christiansen
-  author: Randal L. Schwartz
-  publisher: O'Reilly & Associates, Inc.
-  series: Programming
-  isbn13: 978-1-56592-149-8
-  isbn10: 1-56592-149-6
-  pages: 670
-  pubdate: 1996-10-00
-  edition: 2
-  url: http://allperlbooks.com/book/en/programming-perl-2
-  parent: http://allperlbooks.com/book/en/programming-perl
+  subtitle: The Ultimate Beginner's Guide to Learn Perl Programming Step by Step
+  author: John Bach
+  publisher: 
+  isbn13: 
+  isbn10: 
+  pages: 96
+  pubdate: 2020-07-14
+  edition: 1
+  publisher's page: https://www.amazon.com/gp/product/B08D26Z1GN/
+  url: http://allperlbooks.com/book/en/programming-perl-bach
 
 - title: Programming Perl
   language: en
@@ -5331,18 +5739,17 @@
 
 - title: Programming Perl
   language: en
-  subtitle: Unmatched power for text processing and scripting
-  author: Tom Christiansen
-  author: brian d foy
   author: Larry Wall
-  author: Jon Orwant
-  publisher: O'Reilly Media
-  isbn13: 978-0-596-00492-7
-  isbn10: 0-596-00492-3
-  pages: 1184
-  pubdate: 2012-02-00
-  edition: 4
-  url: http://allperlbooks.com/book/en/programming-perl-4
+  author: Tom Christiansen
+  author: Randal L. Schwartz
+  publisher: O'Reilly & Associates, Inc.
+  series: Programming
+  isbn13: 978-1-56592-149-8
+  isbn10: 1-56592-149-6
+  pages: 670
+  pubdate: 1996-10-00
+  edition: 2
+  url: http://allperlbooks.com/book/en/programming-perl-2
   parent: http://allperlbooks.com/book/en/programming-perl
 
 - title: Programming Perl 5.0 CGI Web Pages for Microsoft Windows NT
@@ -5441,6 +5848,18 @@
   tag: Databases
   url: http://allperlbooks.com/book/en/programming-the-perl-dbi
 
+- title: Programming the Raspberry Pi with Perl
+  language: en
+  author: Timm Murray
+  publisher: 
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2018-00-00
+  edition: 1
+  homepage: http://www.wumpus-cave.net/2018/03/05/what-would-you-like-to-see-from-an-ebook-on-programming-the-raspberry-pi-in-perl/?utm_content=buffer8c3cb&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+  url: http://allperlbooks.com/book/en/programming-the-raspberry-pi-with-perl
+
 - title: Programování v jazyce Perl
   language: cs
   author: Larry Wall
@@ -5471,6 +5890,36 @@
   edition: 1
   url: http://allperlbooks.com/book/en/rt-essentials
 
+- title: Raku Fundamentals
+  language: en
+  subtitle: A Primer with Examples, Projects, and Case Studies
+  author: Moritz Lenz
+  publisher: Apress
+  isbn13: 978-1-4842-6109-5
+  isbn10: 
+  pages: 186
+  pubdate: 2020-09-00
+  edition: 2
+  tag: Raku
+  publisher's page: https://www.apress.com/gp/book/9781484261088
+  url: http://allperlbooks.com/book/en/raku-fundamentals
+  parent: http://allperlbooks.com/book/en/perl6-fundamentals
+
+- title: Raku One-Liners
+  language: en
+  subtitle: Getting the most of Raku’s expressive syntax for your daily routines
+  author: Andrew Shitov
+  publisher: DeepText Media
+  isbn13: 978-90-821568-9-8
+  isbn10: 
+  pages: 90
+  pubdate: 2019-10-18
+  edition: 1
+  tag: Perl 6.0
+  tag: Raku
+  homepage: https://github.com/ash/books/tree/master/Raku%20One-Liners
+  url: http://allperlbooks.com/book/en/raku-one-liners
+
 - title: Randal Schwartz's Perls of Wisdom
   language: en
   author: Randal L. Schwartz
@@ -5496,20 +5945,6 @@
 
 - title: Regular Expression Pocket Reference
   language: en
-  subtitle: Regular Expressions for Perl, C, PHP, Python, Java, and .NET
-  author: Tony Stubblebine
-  publisher: O'Reilly Media
-  isbn13: 978-0-596-00415-6
-  isbn10: 0-596-00415-X
-  pages: 112
-  pubdate: 2003-08-00
-  edition: 1
-  tag: Regular expressions
-  tag: Pocket edition
-  url: http://allperlbooks.com/book/en/regular-expression-pocket-reference
-
-- title: Regular Expression Pocket Reference
-  language: en
   subtitle: Regular Expressions for Perl, Ruby, PHP, Python, C, Java, and .NET
   author: Tony Stubblebine
   publisher: O'Reilly Media
@@ -5522,6 +5957,20 @@
   tag: Pocket edition
   url: http://allperlbooks.com/book/en/regular-expression-pocket-reference-2
   parent: http://allperlbooks.com/book/en/regular-expression-pocket-reference
+
+- title: Regular Expression Pocket Reference
+  language: en
+  subtitle: Regular Expressions for Perl, C, PHP, Python, Java, and .NET
+  author: Tony Stubblebine
+  publisher: O'Reilly Media
+  isbn13: 978-0-596-00415-6
+  isbn10: 0-596-00415-X
+  pages: 112
+  pubdate: 2003-08-00
+  edition: 1
+  tag: Regular expressions
+  tag: Pocket edition
+  url: http://allperlbooks.com/book/en/regular-expression-pocket-reference
 
 - title: Regular Expression Recipes
   language: en
@@ -5555,20 +6004,6 @@
   author: Jan Goyvaerts
   author: Steven Levithan
   publisher: O'Reilly Media
-  isbn13: 978-0-596-52068-7
-  isbn10: 0-596-52068-9
-  pages: 510
-  pubdate: 2009-05-00
-  edition: 1
-  tag: Regular expressions
-  url: http://allperlbooks.com/book/en/regular-expressions-cookbook
-
-- title: Regular Expressions Cookbook
-  language: en
-  subtitle: Detailed Solutions in Eight Programming Languages
-  author: Jan Goyvaerts
-  author: Steven Levithan
-  publisher: O'Reilly Media
   isbn13: 978-1-4493-1943-4
   isbn10: 1-4493-1943-2
   pages: 612
@@ -5577,6 +6012,20 @@
   tag: Regular expressions
   url: http://allperlbooks.com/book/en/regular-expressions-cookbook-2
   parent: http://allperlbooks.com/book/en/regular-expressions-cookbook
+
+- title: Regular Expressions Cookbook
+  language: en
+  subtitle: Detailed Solutions in Eight Programming Languages
+  author: Jan Goyvaerts
+  author: Steven Levithan
+  publisher: O'Reilly Media
+  isbn13: 978-0-596-52068-7
+  isbn10: 0-596-52068-9
+  pages: 510
+  pubdate: 2009-05-00
+  edition: 1
+  tag: Regular expressions
+  url: http://allperlbooks.com/book/en/regular-expressions-cookbook
 
 - title: Regular Expressions in 10 Minutes
   language: en
@@ -5674,6 +6123,19 @@
   tag: OOP
   url: http://allperlbooks.com/book/en/scripting-with-objects
 
+- title: Selenium and Perl
+  language: en
+  subtitle: Driving Browsers with Perl
+  author: John Davies
+  author: Dave Cross
+  publisher: Perl School
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2018-05-18
+  edition: 1
+  url: http://allperlbooks.com/book/en/selenium-and-perl
+
 - title: Simplify Web Site Management with Server-Side Includes, Cascading Style Sheets, and Perl
   language: en
   author: Andrea Peterson
@@ -5699,6 +6161,18 @@
   pubdate: 1995-04-00
   edition: 1
   url: http://allperlbooks.com/book/en/software-engineering-with-perl
+
+- title: Tackling Legacy Projects: an Experience in Perl
+  language: en
+  author: Samuel Andras
+  publisher: Evozon
+  isbn13: 
+  isbn10: 
+  pages: 17
+  pubdate: 2018-11-22
+  edition: 1
+  publisher's page: https://www.evozon.com/wp-content/uploads/2018/11/Tackling-legacy-projects-an-experience-in-Perl.pdf
+  url: http://allperlbooks.com/book/en/tackling-legacy-projects-an-experience-in-perl
 
 - title: Teach Yourself CGI Programming in a Week
   language: en
@@ -5802,6 +6276,18 @@
   language: en
   author: Clinton Pierce
   publisher: SAMS
+  isbn13: 978-0-672-32793-3
+  isbn10: 0-672-32793-7
+  pages: 480
+  pubdate: 2005-06-15
+  edition: 3
+  url: http://allperlbooks.com/book/en/teach-yourself-perl-in-24-hours-3
+  parent: http://allperlbooks.com/book/nl/perl5-in-24-uur
+
+- title: Teach Yourself Perl in 24 Hours
+  language: en
+  author: Clinton Pierce
+  publisher: SAMS
   isbn13: 978-0-7686-5822-4
   isbn10: 0-7686-5822-5
   pages: 480
@@ -5810,17 +6296,17 @@
   url: http://allperlbooks.com/book/en/teach-yourself-perl-in-24-hours
   parent: http://allperlbooks.com/book/nl/perl5-in-24-uur
 
-- title: Teach Yourself Perl in 24 Hours
+- title: The Best of Perl Hacks
   language: en
-  author: Clinton Pierce
-  publisher: SAMS
-  isbn13: 978-0-672-32793-3
-  isbn10: 0-672-32793-7
-  pages: 480
-  pubdate: 2005-06-15
-  edition: 3
-  url: http://allperlbooks.com/book/en/teach-yourself-perl-in-24-hours-3
-  parent: http://allperlbooks.com/book/nl/perl5-in-24-uur
+  author: Dave Cross
+  publisher: Perl School
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2020-04-06
+  edition: 1
+  publisher's page: https://perlschool.com/books/the-best-of-perl-hacks/
+  url: http://allperlbooks.com/book/en/the-best-of-perl-hacks
 
 - title: The CGI Book
   language: en
@@ -5868,27 +6354,16 @@
 
 - title: The Perl CD Bookshelf
   language: en
+  subtitle: Version 4.0
   publisher: O'Reilly Media
-  isbn13: 978-1-56592-462-8
-  isbn10: 1-56592-462-2
+  isbn13: 978-0-596-00622-8
+  isbn10: 0-596-00622-5
   pages: 0
-  pubdate: 1999-11-08
-  edition: 1
+  pubdate: 2004-01-22
+  edition: 4
   tag: CD and DVD
-  url: http://allperlbooks.com/book/en/the-perl-cd-bookshelf
-
-- title: The Perl CD Bookshelf
-  language: en
-  subtitle: Version 2.0
-  publisher: O'Reilly Media
-  isbn13: 978-0-596-00164-3
-  isbn10: 0-596-00164-9
-  pages: 0
-  pubdate: 2001-05-15
-  edition: 2
-  tag: CD and DVD
-  url: http://allperlbooks.com/book/en/the-perl-cd-bookshelf-2
-  parent: http://allperlbooks.com/book/en/the-perl-cd-bookshelf
+  url: http://allperlbooks.com/book/en/the-perl-cd-bookshelf-4
+  parent: http://allperlbooks.com/book/en/the-perl-cd-bookshelf-2
 
 - title: The Perl CD Bookshelf
   language: en
@@ -5905,16 +6380,27 @@
 
 - title: The Perl CD Bookshelf
   language: en
-  subtitle: Version 4.0
+  subtitle: Version 2.0
   publisher: O'Reilly Media
-  isbn13: 978-0-596-00622-8
-  isbn10: 0-596-00622-5
+  isbn13: 978-0-596-00164-3
+  isbn10: 0-596-00164-9
   pages: 0
-  pubdate: 2004-01-22
-  edition: 4
+  pubdate: 2001-05-15
+  edition: 2
   tag: CD and DVD
-  url: http://allperlbooks.com/book/en/the-perl-cd-bookshelf-4
-  parent: http://allperlbooks.com/book/en/the-perl-cd-bookshelf-2
+  url: http://allperlbooks.com/book/en/the-perl-cd-bookshelf-2
+  parent: http://allperlbooks.com/book/en/the-perl-cd-bookshelf
+
+- title: The Perl CD Bookshelf
+  language: en
+  publisher: O'Reilly Media
+  isbn13: 978-1-56592-462-8
+  isbn10: 1-56592-462-2
+  pages: 0
+  pubdate: 1999-11-08
+  edition: 1
+  tag: CD and DVD
+  url: http://allperlbooks.com/book/en/the-perl-cd-bookshelf
 
 - title: The Perl Community
   language: en
@@ -5931,6 +6417,17 @@
 
 - title: The Perl Journal
   language: en
+  subtitle: November 2003
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 27
+  pubdate: 2003-11-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-03-11
+
+- title: The Perl Journal
+  language: en
   subtitle: November 2002
   publisher: The Perl Journal
   isbn13: 
@@ -5939,94 +6436,6 @@
   pubdate: 2002-11-00
   edition: 1
   url: http://allperlbooks.com/book/en/the-perl-journal-0211
-
-- title: The Perl Journal
-  language: en
-  subtitle: December 2002
-  publisher: The Perl Journal
-  isbn13: 
-  isbn10: 
-  pages: 27
-  pubdate: 2002-12-00
-  edition: 1
-  url: http://allperlbooks.com/book/en/the-perl-journal-02-12
-
-- title: The Perl Journal
-  language: en
-  subtitle: January 2003
-  publisher: The Perl Journal
-  isbn13: 
-  isbn10: 
-  pages: 33
-  pubdate: 2003-01-00
-  edition: 1
-  url: http://allperlbooks.com/book/en/the-perl-journal-03-01
-
-- title: The Perl Journal
-  language: en
-  subtitle: February 2003
-  publisher: The Perl Journal
-  isbn13: 
-  isbn10: 
-  pages: 26
-  pubdate: 2003-02-00
-  edition: 1
-  url: http://allperlbooks.com/book/en/the-perl-journal-03-02
-
-- title: The Perl Journal
-  language: en
-  subtitle: March 2003
-  publisher: The Perl Journal
-  isbn13: 
-  isbn10: 
-  pages: 36
-  pubdate: 2003-03-00
-  edition: 1
-  url: http://allperlbooks.com/book/en/the-perl-journal-03-03
-
-- title: The Perl Journal
-  language: en
-  subtitle: April 2004
-  publisher: The Perl Journal
-  isbn13: 
-  isbn10: 
-  pages: 28
-  pubdate: 2003-04-00
-  edition: 1
-  url: http://allperlbooks.com/book/en/the-perl-journal-03-04
-
-- title: The Perl Journal
-  language: en
-  subtitle: May 2003
-  publisher: The Perl Journal
-  isbn13: 
-  isbn10: 
-  pages: 26
-  pubdate: 2003-05-00
-  edition: 1
-  url: http://allperlbooks.com/book/en/the-perl-journal-03-05
-
-- title: The Perl Journal
-  language: en
-  subtitle: June 2003
-  publisher: The Perl Journal
-  isbn13: 
-  isbn10: 
-  pages: 34
-  pubdate: 2003-06-00
-  edition: 1
-  url: http://allperlbooks.com/book/en/the-perl-journal-03-06
-
-- title: The Perl Journal
-  language: en
-  subtitle: July 2003
-  publisher: The Perl Journal
-  isbn13: 
-  isbn10: 
-  pages: 25
-  pubdate: 2003-07-00
-  edition: 1
-  url: http://allperlbooks.com/book/en/the-perl-journal-03-07
 
 - title: The Perl Journal
   language: en
@@ -6041,39 +6450,6 @@
 
 - title: The Perl Journal
   language: en
-  subtitle: September 2003
-  publisher: The Perl Journal
-  isbn13: 
-  isbn10: 
-  pages: 18
-  pubdate: 2003-09-00
-  edition: 1
-  url: http://allperlbooks.com/book/en/the-perl-journal-03-09
-
-- title: The Perl Journal
-  language: en
-  subtitle: October 2003
-  publisher: The Perl Journal
-  isbn13: 
-  isbn10: 
-  pages: 25
-  pubdate: 2003-10-00
-  edition: 1
-  url: http://allperlbooks.com/book/en/the-perl-journal-03-10
-
-- title: The Perl Journal
-  language: en
-  subtitle: November 2003
-  publisher: The Perl Journal
-  isbn13: 
-  isbn10: 
-  pages: 27
-  pubdate: 2003-11-00
-  edition: 1
-  url: http://allperlbooks.com/book/en/the-perl-journal-03-11
-
-- title: The Perl Journal
-  language: en
   subtitle: December 2003
   publisher: The Perl Journal
   isbn13: 
@@ -6085,25 +6461,25 @@
 
 - title: The Perl Journal
   language: en
-  subtitle: January 2004
+  subtitle: September 2003
   publisher: The Perl Journal
   isbn13: 
   isbn10: 
-  pages: 24
-  pubdate: 2004-01-00
+  pages: 18
+  pubdate: 2003-09-00
   edition: 1
-  url: http://allperlbooks.com/book/en/the-perl-journal-04-01
+  url: http://allperlbooks.com/book/en/the-perl-journal-03-09
 
 - title: The Perl Journal
   language: en
-  subtitle: February 2004
+  subtitle: May 2003
   publisher: The Perl Journal
   isbn13: 
   isbn10: 
   pages: 26
-  pubdate: 2004-02-00
+  pubdate: 2003-05-00
   edition: 1
-  url: http://allperlbooks.com/book/en/the-perl-journal-04-02
+  url: http://allperlbooks.com/book/en/the-perl-journal-03-05
 
 - title: The Perl Journal
   language: en
@@ -6118,25 +6494,25 @@
 
 - title: The Perl Journal
   language: en
-  subtitle: April 2004
+  subtitle: July 2003
   publisher: The Perl Journal
   isbn13: 
   isbn10: 
-  pages: 29
-  pubdate: 2004-04-00
+  pages: 25
+  pubdate: 2003-07-00
   edition: 1
-  url: http://allperlbooks.com/book/en/the-perl-journal-04-04
+  url: http://allperlbooks.com/book/en/the-perl-journal-03-07
 
 - title: The Perl Journal
   language: en
-  subtitle: May 2004
+  subtitle: February 2003
   publisher: The Perl Journal
   isbn13: 
   isbn10: 
-  pages: 21
-  pubdate: 2004-05-00
+  pages: 26
+  pubdate: 2003-02-00
   edition: 1
-  url: http://allperlbooks.com/book/en/the-perl-journal-04-05
+  url: http://allperlbooks.com/book/en/the-perl-journal-03-02
 
 - title: The Perl Journal
   language: en
@@ -6151,25 +6527,36 @@
 
 - title: The Perl Journal
   language: en
-  subtitle: July 2004
+  subtitle: February 2004
   publisher: The Perl Journal
   isbn13: 
   isbn10: 
-  pages: 23
-  pubdate: 2004-07-00
+  pages: 26
+  pubdate: 2004-02-00
   edition: 1
-  url: http://allperlbooks.com/book/en/the-perl-journal-04-07
+  url: http://allperlbooks.com/book/en/the-perl-journal-04-02
 
 - title: The Perl Journal
   language: en
-  subtitle: August 2004
+  subtitle: June 2003
   publisher: The Perl Journal
   isbn13: 
   isbn10: 
-  pages: 25
-  pubdate: 2004-08-00
+  pages: 34
+  pubdate: 2003-06-00
   edition: 1
-  url: http://allperlbooks.com/book/en/the-perl-journal-04-08
+  url: http://allperlbooks.com/book/en/the-perl-journal-03-06
+
+- title: The Perl Journal
+  language: en
+  subtitle: April 2005
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 22
+  pubdate: 2005-04-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-05-04
 
 - title: The Perl Journal
   language: en
@@ -6184,14 +6571,25 @@
 
 - title: The Perl Journal
   language: en
-  subtitle: October 2004
+  subtitle: January 2004
   publisher: The Perl Journal
   isbn13: 
   isbn10: 
-  pages: 19
-  pubdate: 2004-10-00
+  pages: 24
+  pubdate: 2004-01-00
   edition: 1
-  url: http://allperlbooks.com/book/en/the-perl-journal-04-10
+  url: http://allperlbooks.com/book/en/the-perl-journal-04-01
+
+- title: The Perl Journal
+  language: en
+  subtitle: March 2005
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 24
+  pubdate: 2005-03-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-05-03
 
 - title: The Perl Journal
   language: en
@@ -6203,6 +6601,105 @@
   pubdate: 2004-11-00
   edition: 1
   url: http://allperlbooks.com/book/en/the-perl-journal-04-11
+
+- title: The Perl Journal
+  language: en
+  subtitle: February 2005
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 16
+  pubdate: 2005-02-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-05-02
+
+- title: The Perl Journal
+  language: en
+  subtitle: May 2004
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 21
+  pubdate: 2004-05-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-04-05
+
+- title: The Perl Journal
+  language: en
+  subtitle: January 2003
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 33
+  pubdate: 2003-01-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-03-01
+
+- title: The Perl Journal
+  language: en
+  subtitle: December 2002
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 27
+  pubdate: 2002-12-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-02-12
+
+- title: The Perl Journal
+  language: en
+  subtitle: April 2004
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 28
+  pubdate: 2003-04-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-03-04
+
+- title: The Perl Journal
+  language: en
+  subtitle: April 2004
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 29
+  pubdate: 2004-04-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-04-04
+
+- title: The Perl Journal
+  language: en
+  subtitle: October 2004
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 19
+  pubdate: 2004-10-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-04-10
+
+- title: The Perl Journal
+  language: en
+  subtitle: July 2004
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 23
+  pubdate: 2004-07-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-04-07
+
+- title: The Perl Journal
+  language: en
+  subtitle: March 2003
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 36
+  pubdate: 2003-03-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-03-03
 
 - title: The Perl Journal
   language: en
@@ -6228,36 +6725,180 @@
 
 - title: The Perl Journal
   language: en
-  subtitle: February 2005
+  subtitle: October 2003
   publisher: The Perl Journal
   isbn13: 
   isbn10: 
-  pages: 16
-  pubdate: 2005-02-00
+  pages: 25
+  pubdate: 2003-10-00
   edition: 1
-  url: http://allperlbooks.com/book/en/the-perl-journal-05-02
+  url: http://allperlbooks.com/book/en/the-perl-journal-03-10
 
 - title: The Perl Journal
   language: en
-  subtitle: March 2005
+  subtitle: August 2004
   publisher: The Perl Journal
   isbn13: 
   isbn10: 
-  pages: 24
-  pubdate: 2005-03-00
+  pages: 25
+  pubdate: 2004-08-00
   edition: 1
-  url: http://allperlbooks.com/book/en/the-perl-journal-05-03
+  url: http://allperlbooks.com/book/en/the-perl-journal-04-08
 
-- title: The Perl Journal
+- title: The Perl Journal Issue #11 (Vol. 3, No. 3)
   language: en
-  subtitle: April 2005
+  subtitle: Fall 1998
   publisher: The Perl Journal
   isbn13: 
   isbn10: 
-  pages: 22
-  pubdate: 2005-04-00
+  pages: 0
+  pubdate: 1998-00-00
   edition: 1
-  url: http://allperlbooks.com/book/en/the-perl-journal-05-04
+  url: http://allperlbooks.com/book/en/the-perl-journal-issue-11-vol-3-no-3
+
+- title: The Perl Journal Issue #12 (Vol. 3, No. 4)
+  language: en
+  subtitle: Winter 1998
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 1998-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-issue-12-vol-3-no-4
+
+- title: The Perl Journal Issue #14 (Vol. 4, No. 2)
+  language: en
+  subtitle: Summer 1999
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 1999-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-issue-14-vol-4-no-2
+
+- title: The Perl Journal Issue #15 (Vol. 4, No. 3)
+  language: en
+  subtitle: Fall 1999
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 1999-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-issue-15-vol-4-no-3
+
+- title: The Perl Journal Issue #17 (Vol. 5, No. 1)
+  language: en
+  subtitle: Spring 2000
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2000-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-issue-17-vol-5-no-1
+
+- title: The Perl Journal Issue #18 (Vol. 5, No. 2)
+  language: en
+  subtitle: Summer 2000
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2000-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-issue-18-vol-5-no-2
+
+- title: The Perl Journal Issue #19 (Vol. 5, No. 3)
+  language: en
+  subtitle: Fall 2000
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2000-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-issue-19-vol-5-no-3
+
+- title: The Perl Journal Issue #5 (Vol. 2, No. 1)
+  language: en
+  subtitle: Spring 1997
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 1997-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-issue-5-vol-2-no-1
+
+- title: The Perl Journal Issue #7 (Vol. 2, No. 3)
+  language: en
+  subtitle: Fall 1997
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 1997-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-issue-7-vol-2-no-3
+
+- title: The Perl Journal Issue #8 (Vol. 2, No. 4)
+  language: en
+  subtitle: Winter 1997
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 1997-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-issue-8-vol-2-no-4
+
+- title: The Perl Journal Issue #9 (Vol. 3, No. 1)
+  language: en
+  subtitle: Spring 1998
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 1998-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-issue-9-vol-3-no-1
+
+- title: The Perl Journal Issue Volume 1 Issue 2
+  language: en
+  subtitle: Summer 1996
+  publisher: The Perl Journal
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 1996-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-issue-volume-1-issue-2
+
+- title: The Perl Journal Volume 1, Issue 1
+  language: en
+  subtitle: Spring 1996
+  author: Jon Orwant
+  publisher: 
+  isbn13: 
+  isbn10: 
+  pages: 32
+  pubdate: 1996-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-journal-volume-1-issue-1
+
+- title: The Perl Review Volume 1 Issue 0
+  language: en
+  subtitle: Summer 2004
+  publisher: The Perl Review
+  isbn13: 
+  isbn10: 
+  pages: 0
+  pubdate: 2004-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-perl-review-volume-1-issue-0
 
 - title: The Perl Review Volume 3 Issue 2
   language: en
@@ -6358,6 +6999,18 @@
   edition: 1
   url: http://allperlbooks.com/book/en/the-perl-review-issue-5-2
 
+- title: The Science Perl Journal, Issue #1
+  language: en
+  subtitle: Vol. 1, No. 1 — Summer 2024
+  author: William N. Braswell, Jr.
+  publisher: Public Enrichment and Robotics Laboratories
+  isbn13: 9798218984748
+  isbn10: 
+  pages: 150
+  pubdate: 2024-00-00
+  edition: 1
+  url: http://allperlbooks.com/book/en/the-science-per-journal-issue-1
+
 - title: The Web Wizard's Guide to Perl and CGI
   language: en
   author: David A. Lash
@@ -6384,6 +7037,23 @@
   edition: 1
   tag: Web
   url: http://allperlbooks.com/book/en/the-webmasters-handbook
+
+- title: Think Perl 6
+  language: en
+  subtitle: How to Think Like a Computer Scientist
+  author: Laurent Rosenfeld
+  author: Allen B. Downey
+  publisher: O'Reilly Media
+  isbn13: 978-1-4919-8055-2
+  isbn10: 
+  pages: 466
+  pubdate: 2017-05-00
+  edition: 1
+  tag: Perl 6
+  tag: Perl 6.0
+  homepage: http://greenteapress.com/wp/think-perl-6/
+  publisher's page: http://shop.oreilly.com/product/0636920065883.do
+  url: http://allperlbooks.com/book/en/think-perl6
 
 - title: Total Perl
   language: fr
@@ -6425,23 +7095,7 @@
   pubdate: 2000-06-19
   edition: 1
   tag: Unixes
-  publisher's page: http://helion.pl/ksiazki/unixdk.htm
   url: http://allperlbooks.com/book/pl/unix-dla-kazdego
-
-- title: Using CGI
-  language: en
-  author: Jeffry Dwight
-  author: Michael Erwin
-  publisher: Que
-  series: Special Edition
-  isbn13: 978-0-7897-0740-6
-  isbn10: 0-7897-0740-3
-  pages: 828
-  pubdate: 1996-04-00
-  edition: 1
-  tag: CGI
-  tag: Web
-  url: http://allperlbooks.com/book/en/using-cgi
 
 - title: Using CGI
   language: en
@@ -6458,6 +7112,21 @@
   tag: Web
   url: http://allperlbooks.com/book/en/using-cgi-2
   parent: http://allperlbooks.com/book/en/using-cgi
+
+- title: Using CGI
+  language: en
+  author: Jeffry Dwight
+  author: Michael Erwin
+  publisher: Que
+  series: Special Edition
+  isbn13: 978-0-7897-0740-6
+  isbn10: 0-7897-0740-3
+  pages: 828
+  pubdate: 1996-04-00
+  edition: 1
+  tag: CGI
+  tag: Web
+  url: http://allperlbooks.com/book/en/using-cgi
 
 - title: Using HTML 3.2, Java 1.1, and CGI
   language: en
@@ -6506,6 +7175,21 @@
   tag: Pearl
   url: http://allperlbooks.com/book/en/using-perl5-for-web-programming
 
+- title: Using Perl 6
+  language: en
+  subtitle: 100 Programming Challenges Solved with the Perl 6 Programming Language
+  author: Andrew Shitov
+  publisher: DeepText Media
+  isbn13: 978-90-821568-1-2
+  isbn10: 
+  pages: 0
+  pubdate: 2017-11-01
+  edition: 1
+  tag: Perl 6
+  tag: Perl 6.0
+  homepage: https://github.com/ash/books/tree/master/Using%20Perl%206
+  url: http://allperlbooks.com/book/en/using-perl6
+
 - title: Using Perl/CGI Scripts
   language: en
   author: William E. Weinman
@@ -6519,6 +7203,22 @@
   tag: CGI
   tag: Web
   url: http://allperlbooks.com/book/en/using-perl-cgi-scripts
+
+- title: Using Raku
+  language: en
+  subtitle: 100 Programming Challenges Solved with the Brand-New Raku Programming Language
+  author: Andrew Shitov
+  publisher: DeepText Media
+  isbn13: 978-90-821568-8-1
+  isbn10: 
+  pages: 187
+  pubdate: 2019-10-13
+  edition: 1
+  tag: Perl 6.0
+  tag: Raku
+  homepage: https://github.com/ash/books/tree/master/Using%20Raku
+  url: http://allperlbooks.com/book/en/using-raku
+  parent: http://allperlbooks.com/book/en/using-perl6
 
 - title: Weaving the Website
   language: en
@@ -6578,19 +7278,6 @@
   subtitle: Building Internet Applications
   author: Chris Bates
   publisher: Wiley
-  isbn13: 978-81-265-0272-1
-  isbn10: 81-265-0272-X
-  pages: 624
-  pubdate: 2002-03-29
-  edition: 2
-  tag: Web
-  url: http://allperlbooks.com/book/en/web-programming-2
-
-- title: Web Programming
-  language: en
-  subtitle: Building Internet Applications
-  author: Chris Bates
-  publisher: Wiley
   isbn13: 978-0-470-01775-3
   isbn10: 0-470-01775-9
   pages: 678
@@ -6599,6 +7286,19 @@
   tag: Web
   url: http://allperlbooks.com/book/en/web-programming-3
   parent: http://allperlbooks.com/book/en/web-programming-2
+
+- title: Web Programming
+  language: en
+  subtitle: Building Internet Applications
+  author: Chris Bates
+  publisher: Wiley
+  isbn13: 978-81-265-0272-1
+  isbn10: 81-265-0272-X
+  pages: 624
+  pubdate: 2002-03-29
+  edition: 2
+  tag: Web
+  url: http://allperlbooks.com/book/en/web-programming-2
 
 - title: Web Programming Secrets with HTML, CGI, and Perl
   language: en
@@ -6723,7 +7423,7 @@
   edition: 1
   url: http://allperlbooks.com/book/de/web-entwicklund-mit-perl-und-mojolicious
 
-- title: Web-сервер глазами
+- title: Web-сервер глазами хакера
   language: ru
   author: Михаил Фленов
   publisher: bhv
@@ -6818,6 +7518,19 @@
 
 - title: WebMaster in a Nutshell
   language: en
+  subtitle: Deluxe Edition
+  publisher: O'Reilly Media
+  isbn13: 978-1-56592-305-8
+  isbn10: 1-56592-305-7
+  pages: 374
+  pubdate: 1997-06-00
+  edition: 1
+  tag: Web
+  url: http://allperlbooks.com/book/en/webmaster-in-a-nutshell-deluxe
+  parent: http://allperlbooks.com/book/en/webmaster-in-a-nutshell
+
+- title: WebMaster in a Nutshell
+  language: en
   subtitle: A Desktop Quick Reference
   author: Valerie Quercia
   author: Stephen Spainhour
@@ -6828,21 +7541,20 @@
   pubdate: 1996-10-00
   edition: 1
   tag: Web
-  publisher's page: http://shop.oreilly.com/product/9781565922297.do
   url: http://allperlbooks.com/book/en/webmaster-in-a-nutshell
 
-- title: WebMaster in a Nutshell
+- title: Webmaster in a Nutshell
   language: en
-  subtitle: Deluxe Edition
+  subtitle: A Desktop Quick Reference
+  author: Robert Eckstein
+  author: Stephen Spainhour
   publisher: O'Reilly Media
-  isbn13: 978-1-56592-305-8
-  isbn10: 1-56592-305-7
-  pages: 374
-  pubdate: 1997-06-00
-  edition: 1
-  tag: Web
-  publisher's page: http://shop.oreilly.com/product/9781565923058.do
-  url: http://allperlbooks.com/book/en/webmaster-in-a-nutshell-deluxe
+  isbn13: 978-0-596-00357-9
+  isbn10: 0-596-00357-9
+  pages: 580
+  pubdate: 2002-12-00
+  edition: 3
+  url: http://allperlbooks.com/book/en/webmaster-in-a-nutshell-3
   parent: http://allperlbooks.com/book/en/webmaster-in-a-nutshell
 
 - title: Webmaster in a Nutshell
@@ -6857,23 +7569,7 @@
   pubdate: 1999-06-00
   edition: 2
   tag: Web
-  publisher's page: http://shop.oreilly.com/product/9781565923256.do
   url: http://allperlbooks.com/book/en/webmaster-in-a-nutshell-2
-  parent: http://allperlbooks.com/book/en/webmaster-in-a-nutshell
-
-- title: Webmaster in a Nutshell
-  language: en
-  subtitle: A Desktop Quick Reference
-  author: Robert Eckstein
-  author: Stephen Spainhour
-  publisher: O'Reilly Media
-  isbn13: 978-0-596-00357-9
-  isbn10: 0-596-00357-9
-  pages: 580
-  pubdate: 2002-12-00
-  edition: 3
-  publisher's page: http://shop.oreilly.com/product/9780596003579.do
-  url: http://allperlbooks.com/book/en/webmaster-in-a-nutshell-3
   parent: http://allperlbooks.com/book/en/webmaster-in-a-nutshell
 
 - title: Wicked Cool Perl Scripts
@@ -6900,7 +7596,6 @@
   pubdate: 2012-07-13
   edition: 1
   tag: Interviews
-  publisher's page: http://helion.pl/ksiazki/wieumy.htm
   url: http://allperlbooks.com/book/pl/masterminds-of-programming-pl
   parent: http://allperlbooks.com/book/en/masterminds-of-programming
 
@@ -7008,7 +7703,6 @@
   pubdate: 2013-07-23
   edition: 1
   tag: Regular expressions
-  publisher's page: http://helion.pl/ksiazki/wyrawp.htm
   url: http://allperlbooks.com/book/pl/wyrazenia-regularne-wprowadzenie
   parent: http://allperlbooks.com/book/en/introducing-regular-expressions
 
@@ -7157,7 +7851,6 @@
   tag: CGI
   tag: Web
   tag: Pocket edition
-  publisher's page: http://helion.pl/ksiazki/modlek.htm
   url: http://allperlbooks.com/book/pl/mod-perl-leksykon-kieszonkowy
   parent: http://allperlbooks.com/book/en/mod_perl-pocket-reference
 
@@ -7176,7 +7869,6 @@
   tag: Apache
   tag: Web
   tag: CGI
-  publisher's page: http://helion.pl/ksiazki/modpkp.htm
   url: http://allperlbooks.com/book/pl/mod-perl-podrecznik-programisty
   parent: http://allperlbooks.com/book/en/mod_perl-developers-cookbook
 
@@ -7571,7 +8263,6 @@
   pages: 756
   pubdate: 2002-09-00
   edition: 3
-  publisher's page: https://www.oreilly.co.jp/books/4873110963/
   url: http://allperlbooks.com/book/ja/programming-perl-ja-volume1
   parent: http://allperlbooks.com/book/en/programming-perl
 
@@ -7587,7 +8278,6 @@
   pages: 680
   pubdate: 2002-09-00
   edition: 3
-  publisher's page: https://www.oreilly.co.jp/books/4873110971/
   url: http://allperlbooks.com/book/ja/programming-perl-ja-volume2
   parent: http://allperlbooks.com/book/en/programming-perl
 
@@ -7601,7 +8291,6 @@
   pages: 388
   pubdate: 2009-03-00
   edition: 1
-  publisher's page: https://www.oreilly.co.jp/books/9784873113975/
   url: http://allperlbooks.com/book/ja/mastering-perl-ja
   parent: http://allperlbooks.com/book/en/mastering-perl
 
@@ -7617,7 +8306,6 @@
   pages: 488
   pubdate: 2012-07-00
   edition: 6
-  publisher's page: https://www.oreilly.co.jp/books/9784873115672/
   url: http://allperlbooks.com/book/ja/learning-perl-ja-6
   parent: http://allperlbooks.com/book/en/learning-perl
 
@@ -7630,7 +8318,6 @@
   pages: 320
   pubdate: 2006-03-00
   edition: 2
-  publisher's page: https://www.oreilly.co.jp/books/487311280X/
   url: http://allperlbooks.com/book/ja/advanced-perl-programming-ja
   parent: http://allperlbooks.com/book/en/advanced-perl-programming
 
@@ -7659,7 +8346,6 @@
   pubdate: 2010-04-00
   edition: 1
   tag: Regular expressions
-  publisher's page: https://www.oreilly.co.jp/books/9784873114507/
   url: http://allperlbooks.com/book/ja/regular-expressions-cookbook-ja
   parent: http://allperlbooks.com/book/en/regular-expressions-cookbook
 
@@ -7688,7 +8374,6 @@
   pubdate: 2008-04-00
   edition: 3
   tag: Regular expressions
-  publisher's page: https://www.oreilly.co.jp/books/9784873113593/
   url: http://allperlbooks.com/book/ja/regular-expressions-ja-3
   parent: http://allperlbooks.com/book/en/mastering-regular-expressions
 
