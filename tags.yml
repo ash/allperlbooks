@@ -56,12 +56,22 @@
   synonyms: perl6 camelia parrot pugs moarvm perl7 perl 7 perl 8 perl8
   url: http://allperlbooks.com/tag/perl6
 
+- tag: Perl 6.0
+  url: http://allperlbooks.com/tag/perl6.0
+
+- tag: Perl 7
+  url: http://allperlbooks.com/tag/perl7
+
 - tag: Pocket edition
   url: http://allperlbooks.com/tag/pocket
 
 - tag: Proceedings and Courses
   synonyms: conference workshop yapc training
   url: http://allperlbooks.com/tag/proceedings
+
+- tag: Raku
+  synonyms: perl6.0
+  url: http://allperlbooks.com/tag/raku
 
 - tag: Regular expressions
   synonyms: pcre regex regexes regexp regexps grammar grammars rule rules grep
