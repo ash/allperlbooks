@@ -75,6 +75,10 @@
   url: http://allperlbooks.com/publisher/createspace
   href: https://createspace.com
 
+- name: DeepText Media
+  url: http://allperlbooks.com/publisher/deeptext
+  href: http://deeptext.media
+
 - name: Donzoko
   url: http://allperlbooks.com/publisher/donzoko
   href: http://donzoko.net/gakuya/
@@ -103,6 +107,10 @@
 - name: Eska
   url: http://allperlbooks.com/publisher/eska
 
+- name: Evozon
+  url: http://allperlbooks.com/publisher/evozon
+  href: https://www.evozon.com
+
 - name: Eyrolles
   url: http://allperlbooks.com/publisher/eyrolles
   href: http://eyrolles.com
@@ -118,6 +126,10 @@
 - name: Grada Publishing
   url: http://allperlbooks.com/publisher/grada
   href: http://grada.cz
+
+- name: Green Tea Press
+  url: http://allperlbooks.com/publisher/green-tea-press
+  href: http://greenteapress.com
 
 - name: GRIN Verlag GmbH
   url: http://allperlbooks.com/publisher/grin
@@ -144,6 +156,9 @@
 - name: IDG Books
   url: http://allperlbooks.com/publisher/idg
   href: http://idg.com
+
+- name: İmg Bilişim Yayınları
+  url: http://allperlbooks.com/publisher/img-bilisim-yayinlari
 
 - name: In Easy Steps Limited
   url: http://allperlbooks.com/publisher/in-easy-steps
@@ -258,6 +273,9 @@
   url: http://allperlbooks.com/publisher/pearson
   href: http://pearson.com
 
+- name: Perl School
+  url: http://allperlbooks.com/publisher/perl-school
+
 - name: Plain Black Corporation
   url: http://allperlbooks.com/publisher/plain-black-corporation
   href: http://plainblack.com
@@ -277,6 +295,10 @@
 - name: Prime Time Freeware
   url: http://allperlbooks.com/publisher/ptf
   href: http://ptf.com
+
+- name: Public Enrichment and Robotics Laboratories
+  url: http://allperlbooks.com/publisher/roboperl
+  href: https://roboperl.org
 
 - name: Publishers Group West
   url: http://allperlbooks.com/publisher/pgw
@@ -323,6 +345,10 @@
 - name: Syngress
   url: http://allperlbooks.com/publisher/syngress
 
+- name: The Dog Ate My Bookshop
+  url: http://allperlbooks.com/publisher/thedogatemybookshop
+  href: http://www.thedogatemybookshop.com/
+
 - name: The Perl Journal
   url: http://allperlbooks.com/publisher/tpj
 
@@ -354,6 +380,10 @@
 - name: Wiley-Blackwell
   url: http://allperlbooks.com/publisher/wiley-blackwell
   href: http://wiley.com/wiley-blackwell
+
+- name: Wook
+  url: http://allperlbooks.com/publisher/wook
+  href: https://www.wook.pt
 
 - name: Wrox Press
   url: http://allperlbooks.com/publisher/wrox
